@@ -25,11 +25,11 @@ license:             BSD3
 license-file:        LICENSE
 
 -- The package author(s).
-author:              Alexandre Medeiros
+author:              Alexandre Medeiros, Tom Hedges
 
 -- An email address to which users can send suggestions, bug reports, and
 -- patches.
-maintainer:          alexandre.n.medeiros@gmail.com
+maintainer:          alexandre.n.medeiros@gmail.com,
 
 -- A copyright notice.
 -- copyright:
