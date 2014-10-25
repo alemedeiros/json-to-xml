@@ -1,0 +1,81 @@
+{ -- Song
+  "_id": {
+    "$oid": String
+  },
+  "changes": [
+    { -- Section
+      "bars": [
+        { -- Bar
+          "chords": [ -- may be empty
+            { -- Chord
+              "beat": Double,  -- known values => { 1, 1.5, 2.0, 3.0, 4.0 }
+              "p": Note,
+              -- optionals
+              "bch": String,
+              "bp": Note,
+              "ch": String,
+              "parenthesis": Bool -- Only has true value
+            }
+          ],
+          "melody": [
+            { -- Melody
+              "duration": NoteDuration, -- Enumeration of { w, wr, h, hr, q, qr, 8, 8r, 16, 16r, 32, 32r }
+              "keys": [ (Notes, Octave) ],  -- Octave is an Int
+                                            -- There are some notes with an 'n' or double '#'/'b'
+              -- optionals
+              "dot": Int, -- Only has values 1 or 2
+              "tie": Tie, -- Enumeration of { start, stop, stop_start }
+              "time_modification": Time,
+              "tuplet": Tuplet -- Enumeration of { null, start, stop } ?  (probably should consider this null value as 'ignore tuplet')
+            }
+          ],
+          -- optional
+          "1": Bool, -- Only has a "1" value
+          "2": Bool, -- Only has a "1" value
+          "coda": Bool, -- Only has a "1" value
+          "ending": Int, -- Values were from 1 to 4
+          "fine": Bool, -- Only has a "1" value
+          "on cue": Bool, -- Only has a "1" value
+          "segno":  Bool, -- Only has a "1" value
+          "sublabel": String,
+          "timeSignature": Time
+        }
+      ],
+      "endingNumBars": Int,
+      "id": Int, -- or String?
+      "name": String,
+      "numBars": Int,
+      "repeat": Int or "open",
+      "timeSignature": Time, -- may be empty
+      -- optional
+      "style": String
+    }
+  ],
+  "composer": String,
+  "editinfo": {
+    "date": {
+      "$date": String -- or Date Structure
+    },
+    "userid": String
+  },
+  "keySignature": Note,
+  "melody_file": {
+    "filename": FilePath,
+    -- optional
+    "id": Int -- or String?
+  },
+  "source": String,
+  "style": String,
+  "time": Time, -- (Int,Int) or enumeration of the possibilities
+  "title": String,
+
+  -- optional
+  "comments": String,
+  "img_source": [ String ], -- or FileName/FilePath
+  "pdf_source": {
+    "filename": FilePath,
+    -- optional
+    "id": Int -- or String?
+  },
+  "struct": String
+}
