@@ -1,0 +1,44 @@
+{
+  "aliases": [
+    { -- Alias
+      "locale": "String",
+      "name": "String",
+      "primary": "Bool",
+      "sort-name": "String",
+      "type": "String"
+    }
+  ],
+  "area": { -- Area
+    "disambiguation": "String",
+    "id": "String",
+    "iso_3166_1_codes": "[String]",
+    "iso_3166_2_codes": "[String]",
+    "iso_3166_3_codes": "[String]",
+    "name": "String",
+    "sort-name": "String"
+  },
+  "begin_area": "Area",
+  "country": "String",
+  "disambiguation": "String",
+  "end_area": "Area",
+  "id": "String",
+  "ipis": "[String]",
+  "life-span": { -- LifeSpan
+    "begin": "Date",
+    "end": "Date",
+    "ended": "Bool"
+  },
+  "name": "String",
+  "rating": { -- Rating
+    "value": "Double",
+    "votes-count": "Int"
+  },
+  "sort-name": "String",
+  "tags": [
+    { Tag
+      "count": "Int",
+      "name": "String"
+    }
+  ],
+  "type": "String"
+}
