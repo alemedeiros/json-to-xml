@@ -14,8 +14,15 @@ import Control.Applicative
 import Control.Monad
 
 data Person = Person
-        { name :: Text
-        , age :: Int
+        { n :: Text
+        , a :: [Int]
+        , b :: Date
+        } deriving Show
+
+data Date = NoDate | Date
+        { y :: Int
+        , m :: Int
+        , d :: Int
         } deriving Show
 
 -- The following makes use of <$> :: Functor f => (a -> b) -> f a -> f b, an infix notation for "fmap", see
@@ -34,15 +41,33 @@ data Person = Person
 instance FromJSON Person where
         parseJSON (Object v) = Person <$>
                 v .: "name" <*>
-                v .: "age"
+                v .: "age" <*>
+                v .:? "birth" .!= NoDate
         -- A non-Object value is of the wrong type, so fail.
         parseJSON _ = mzero
 
+instance FromJSON Date where
+        parseJSON (Object v) = Date <$>
+                v .: "year" <*>
+                v .: "month" <*>
+                v .: "day"
+        parseJSON Null = Control.Applicative.empty
+        parseJSON _ = mzero
+
 instance ToJSON Person where
-        toJSON (Person name age) = object ["name" .= name, "age" .= age]
+        toJSON (Person name age birth) = object ["name" .= name, "age" .= age, "birth" .= birth]
+
+instance ToJSON Date where
+        toJSON (Date year month day) = object ["year" .= year, "month" .= month, "day" .= day]
 
 test1 :: ByteString
-test1 = "{\"name\":\"Joe\",\"age\":12}"
+test1 = "{\n  \"name\":\"Joe\",\n  \"age\": [12], \n  \"birth\": {\"year\":1992,\"month\":7, \"day\":14}}"
+
+test2 :: ByteString
+test2 = "{\"name\":\"Joe\",\"age\": [12,10,9], \"birth\": null}"
+
+test3 :: ByteString
+test3 = "{\"name\":\"Joe\",\"age\": null, \"birth\": null}"
 
 aesonSample :: Maybe Person
-aesonSample = decode test1
+aesonSample = decode test3
