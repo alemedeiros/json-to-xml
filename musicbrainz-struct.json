@@ -1,5 +1,5 @@
 {
-  "alia-list": [
+  "alias-list": [
     { -- Alias
       "locale": "String",
       "alias": "String",
