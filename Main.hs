@@ -28,11 +28,6 @@ readArtist = decode
 
 main :: IO ()
 main = do
-        fnames <- getArgs
-        let dataset = Prelude.mapM parseFile fnames
-        print dataset
-
-parseFile :: String -> Maybe Artist
-parseFile fn = do
+        fn:_ <- getArgs
         contents <- Data.ByteString.Lazy.readFile fn
-        decode contents
+        print $ readArtist contents

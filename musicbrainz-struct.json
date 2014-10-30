@@ -1,8 +1,8 @@
 {
-  "aliases": [
+  "alia-list": [
     { -- Alias
       "locale": "String",
-      "name": "String",
+      "alias": "String",
       "primary": "Bool",
       "sort-name": "String",
       "type": "String"
@@ -11,18 +11,18 @@
   "area": { -- Area
     "disambiguation": "String",
     "id": "String",
-    "iso_3166_1_codes": "[String]",
-    "iso_3166_2_codes": "[String]",
-    "iso_3166_3_codes": "[String]",
+    "iso_3166_1_code-list": "[String]",
+    "iso_3166_2_code-list": "[String]",
+    "iso_3166_3_code-list": "[String]",
     "name": "String",
     "sort-name": "String"
   },
-  "begin_area": "Area",
+  "begin-area": "Area",
   "country": "String",
   "disambiguation": "String",
-  "end_area": "Area",
+  "end-area": "Area",
   "id": "String",
-  "ipis": "[String]",
+  "isni-list": "[String]",
   "life-span": { -- LifeSpan
     "begin": "Date",
     "end": "Date",
@@ -30,11 +30,11 @@
   },
   "name": "String",
   "rating": { -- Rating
-    "value": "Double",
+    "rating": "Double",
     "votes-count": "Int"
   },
   "sort-name": "String",
-  "tags": [
+  "tag-list": [
     { Tag
       "count": "Int",
       "name": "String"
