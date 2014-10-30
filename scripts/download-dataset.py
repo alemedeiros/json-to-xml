@@ -37,5 +37,5 @@ for l in f.read().splitlines():
         art_data = musicbrainzngs.get_artist_by_id(art['id'], includes=['aliases', 'tags', 'ratings'])
 
         # Save the data for each artist in a different json file
-        jf = open(art['id'] + '.json', 'w')
+        jf = open('json/' + art['id'] + '.json', 'w')
         jf.write(json.dumps(art_data['artist'], sort_keys=True, indent=2))
