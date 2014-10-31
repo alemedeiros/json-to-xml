@@ -52,9 +52,9 @@ data Area = NullArea | Area
         } deriving (Show)
 
 data LifeSpan = NullLifeSpan | LifeSpan
-        { begin :: String -- Change to a date type or something like YYYY-MM-DD
-        , end :: String
-        , ended :: Bool
+        { lifeSpanBegin :: String -- Change to a date type or something like YYYY-MM-DD
+        , lifeSpanEnd :: String
+        , lifeSpanEnded :: Bool
         } deriving (Show)
 
 data Rating = EmptyRating | Rating
