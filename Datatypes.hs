@@ -60,12 +60,19 @@ data LifeSpan = NullLifeSpan | LifeSpan
 data Rating = EmptyRating | Rating
         { ratingValue :: Double
         , ratingCount :: Int
-        } deriving (Show)
+        } deriving (Show, Eq)
 
 data Tag = NullTag | Tag
         { tagCount :: Int
         , tagName :: String
         } deriving (Show, Eq, Ord)
+
+instance Ord Rating where
+        compare (Rating vA cA) (Rating vB cB) = compare vA vB
+        compare   (Rating _ _)              _ = GT
+        compare              _   (Rating _ _) = LT
+        compare              _              _ = EQ
+
 
 instance FromJSON Artist where
         --parseJSON (Object v) | trace ("=> Artist: " ++ show v) False = undefined
