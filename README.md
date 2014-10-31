@@ -16,3 +16,12 @@ Then install the dependencies
 Then build the project with
 
     cabal build
+
+##Run GHCI inside cabal sandbox
+
+You can run this program on ghci by using the following command
+
+    cabal repl
+
+Cabal will load all the dependencies and the program into ghci before displaying
+the prompt.
