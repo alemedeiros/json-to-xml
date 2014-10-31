@@ -25,5 +25,5 @@ readArtist = fromMaybe NullArtist . decode
 main :: IO ()
 main = do
         args <- getArgs
-        dataStr <- sequence $ map BS.readFile args
+        dataStr <- mapM BS.readFile args
         print $ map readArtist dataStr
