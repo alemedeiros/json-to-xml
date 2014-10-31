@@ -1,0 +1,4 @@
+# Bloody Macs
+.DS_Store
+
+./.cabal-sandbox/*
