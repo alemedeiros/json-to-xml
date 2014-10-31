@@ -65,7 +65,7 @@ data Rating = EmptyRating | Rating
 data Tag = NullTag | Tag
         { tagCount :: Int
         , tagName :: String
-        } deriving (Show)
+        } deriving (Show, Eq, Ord)
 
 instance FromJSON Artist where
         --parseJSON (Object v) | trace ("=> Artist: " ++ show v) False = undefined
