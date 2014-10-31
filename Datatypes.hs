@@ -73,6 +73,12 @@ instance Ord Rating where
         compare              _   (Rating _ _) = LT
         compare              _              _ = EQ
 
+instance Ord Artist where
+        compare Artist{artistRating=rA} Artist{artistRating=rB} = compare rA rB
+        compare                Artist{}                       _ = GT
+        compare                       _                Artist{} = LT
+        compare                       _                       _ = EQ
+
 
 instance FromJSON Artist where
         --parseJSON (Object v) | trace ("=> Artist: " ++ show v) False = undefined
