@@ -31,7 +31,7 @@ data Artist = NullArtist | Artist
         , artistSortName :: String
         , artistTags :: [Tag]
         , artistType :: String
-        } deriving (Show)
+        } deriving (Show, Eq)
 
 data Alias = NullAlias | Alias
         { aliasLocale :: String
@@ -39,7 +39,7 @@ data Alias = NullAlias | Alias
         , aliasPrimary :: Bool
         , aliasSortName :: String
         , aliasType :: String
-        } deriving (Show)
+        } deriving (Show, Eq)
 
 data Area = NullArea | Area
         { areaDisambig :: String
@@ -49,13 +49,13 @@ data Area = NullArea | Area
         , areaISO3 :: [String]
         , areaName :: String
         , areaSortName :: String
-        } deriving (Show)
+        } deriving (Show, Eq)
 
 data LifeSpan = NullLifeSpan | LifeSpan
         { lifeSpanBegin :: String -- Change to a date type or something like YYYY-MM-DD
         , lifeSpanEnd :: String
         , lifeSpanEnded :: Bool
-        } deriving (Show)
+        } deriving (Show, Eq)
 
 data Rating = EmptyRating | Rating
         { ratingValue :: Double

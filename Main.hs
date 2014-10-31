@@ -46,7 +46,7 @@ maybeClean = map fromJust . filter (/= Nothing)
 -- Query 0:
 -- Return artist primary alias if there is one or Nothing otherwise
 getPrimAlias :: Artist -> Maybe (String,String)
-getPrimAlias (Artist aliases _ _ _ _ _ _ _ _ n _ _ _ _) = primAlias aliases
+getPrimAlias Artist{artistAliases = aliases, artistName = n} = primAlias aliases
         where
                 primAlias :: [Alias] ->  Maybe (String, String)
                 primAlias [] = Nothing
@@ -59,8 +59,8 @@ getArtistPrimAlias _ = Nothing
 -- Query 1:
 -- Return Tags list sorted by Tag count
 getTags :: Artist -> Maybe (String, [Tag])
-getTags (Artist _ _ _ _ _ _ _ _ _ _ _ _ [] _) = Nothing
-getTags (Artist _ _ _ _ _ _ _ _ _ n _ _ tags _) = Just (n, sortTags)
+getTags Artist{ artistTags = []                   } = Nothing
+getTags Artist{ artistTags = tags, artistName = n } = Just (n, sortTags)
         where
                 sortTags = sortBy (flip compare) tags
 getTags _ = Nothing
@@ -68,13 +68,13 @@ getTags _ = Nothing
 -- Query 2:
 -- Returns whether an artist is from the country named on String
 isFrom :: String -> Artist -> Bool
-isFrom str (Artist _ _ _ country _ _ _ _ _ _ _ _ _ _) = str == country
-isFrom _ _ = False
+isFrom str Artist{artistCountry = country} = str == country
+isFrom   _                               _ = False
 
 -- Query 3:
 -- If the Artist ended its career, returns its ending date, otherwise, returns
 -- nothing
 getEndDate :: Artist -> Maybe (String, String)
-getEndDate (Artist _ _ _ _ _ _ _ _ (LifeSpan _ endDate ended) n _ _ _ _)
+getEndDate Artist{ artistLifeSpan = (LifeSpan _ endDate ended), artistName = n}
         | ended  = Just (n, endDate)
 getEndDate _ = Nothing
