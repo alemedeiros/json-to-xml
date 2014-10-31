@@ -9,7 +9,6 @@
 
 module Main where
 
---import AesonSample
 import Datatypes
 
 import Data.Aeson
@@ -26,4 +25,23 @@ main :: IO ()
 main = do
         args <- getArgs
         dataStr <- mapM BS.readFile args
-        print $ map readArtist dataStr
+        let
+            artistData = map readArtist dataStr
+        putStrLn "Showing read data"
+        print artistData
+        -- Queries examples should be introduced here
+        putStrLn "Query 0: Primary artists name"
+        print . filter (/= Nothing) $ map getArtistPrimAlias artistData
+
+-- Query 0:
+-- Return artist primary alias if there is one or Nothing otherwise
+getArtistPrimAlias :: Artist -> Maybe String
+getArtistPrimAlias (Artist aliases _ _ _ _ _ _ _ _ _ _ _ _ _) = primAlias aliases
+        where
+                primAlias :: [Alias] -> Maybe String
+                primAlias [] = Nothing
+                primAlias ((Alias _ alias prim _ _):xs)
+                        | prim      = Just alias
+                        | otherwise = primAlias xs
+                primAlias _ = Nothing
+getArtistPrimAlias _ = Nothing
