@@ -57,7 +57,7 @@ executable json-to-xml
   -- other-extensions:
 
   -- Other library packages from which modules are imported.
-  build-depends:       base >=4.7 && <4.8, aeson, text, bytestring
+  build-depends:       base >=4.7 && <4.8, aeson, text, bytestring, xml, hxt
 
   -- Directories containing source files.
   -- hs-source-dirs:
