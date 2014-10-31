@@ -16,7 +16,7 @@ import Text.Read (readMaybe)
 
 --import Debug.Trace
 
-data Artist = Artist
+data Artist = NullArtist | Artist
         { artistAliases :: [Alias]
         , artistArea :: Area
         , artistBeginArea :: Area
@@ -33,7 +33,7 @@ data Artist = Artist
         , artistType :: String
         } deriving (Show)
 
-data Alias = Alias
+data Alias = NullAlias | Alias
         { aliasLocale :: String
         , aliasName :: String
         , aliasPrimary :: Bool
@@ -62,7 +62,7 @@ data Rating = EmptyRating | Rating
         , ratingCount :: Int
         } deriving (Show)
 
-data Tag = Tag
+data Tag = NullTag | Tag
         { tagCount :: Int
         , tagName :: String
         } deriving (Show)

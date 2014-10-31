@@ -13,21 +13,17 @@ module Main where
 import Datatypes
 
 import Data.Aeson
-import Data.ByteString.Lazy
+import qualified Data.ByteString.Lazy as BS
 import Data.Maybe
 
 import System.Environment
 
-{-
-main :: IO ()
-main = print $ fromJust aesonSample
--}
-
-readArtist :: ByteString -> Maybe Artist
-readArtist = decode
+-- This functions gets the string contents of a json file and returns an artist
+readArtist :: BS.ByteString -> Artist
+readArtist = fromMaybe NullArtist . decode
 
 main :: IO ()
 main = do
-        fn:_ <- getArgs
-        contents <- Data.ByteString.Lazy.readFile fn
-        print $ readArtist contents
+        args <- getArgs
+        dataStr <- sequence $ map BS.readFile args
+        print $ map readArtist dataStr
