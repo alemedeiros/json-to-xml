@@ -1,25 +1,12 @@
 module ToXml where
 
 import Datatypes
-import Main
 import Text.XML.Light
 import qualified Data.ByteString.Lazy as BS
 
 getFileContents :: FilePath -> IO BS.ByteString
 getFileContents fileName =
   BS.readFile fileName
-
-getArtist :: BS.ByteString -> Artist
-getArtist dataStr =
-  readArtist dataStr
-
-getArtistAliases :: Artist -> [Alias]
-getArtistAliases artist =
-  artistAliases artist
-
-getArtistArea :: Artist -> Area
-getArtistArea artist =
-  artistArea artist
 
 --Artist
 
@@ -129,16 +116,8 @@ makeXmlTag tag = Elem $ Element
                          ]
                        Nothing
                        
-writeToTemp :: Element -> IO ()
-writeToTemp xml = do
-  writeFile "./foo" $ showElement xml
+writeToFile :: Element -> IO ()
+writeToFile xml = do
+  writeFile "./xmls/foo.xml" $ showElement xml
 
 
-main :: IO ()
-main = do
-  --contents <- getFileContents "./json/f91e3a88-24ee-4563-8963-fab73d2765ed.json"
-  contents <- getFileContents "./json/f27ec8db-af05-4f36-916e-3d57f91ecf5e.json"
-  let artist = getArtist contents
-  let xml = makeXmlArtist artist
-  print $ showElement xml
-  writeToTemp xml

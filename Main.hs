@@ -10,6 +10,7 @@
 module Main where
 
 import Datatypes
+import ToXml
 
 import Data.Aeson
 import qualified Data.ByteString.Lazy as BS
@@ -30,6 +31,38 @@ main = do
             artistData = map readArtist dataStr
         putStrLn "Showing read data"
         print artistData
+
+       --convert to xml and put in file
+        let xmlData = map makeXmlArtist artistData
+        putStrLn "Showing XML"
+        print xmlData
+        mapM writeToFile xmlData
+        
+        -- Queries examples should be introduced here
+        putStrLn "Query 0: Primary artists alias"
+        print . maybeClean $ map getPrimAlias artistData
+        putStrLn "Query 1: Tags - Sorted by greater count first"
+        print . maybeClean $ map getTags artistData
+        putStrLn "Query 2: Artists that are from a specific country"
+        print . map artistName . filter (isFrom "GB") $ artistData
+        putStrLn "Query 3: End date"
+        print . maybeClean $ map getEndDate artistData
+
+--This works
+test :: [String] -> IO ()
+test args = do
+        dataStr <- mapM BS.readFile args
+        let
+            artistData = map readArtist dataStr
+        putStrLn "Showing read data"
+        print artistData
+
+       --convert to xml and put in file
+        let xmlData = map makeXmlArtist artistData
+        putStrLn "Showing XML"
+        print xmlData
+        mapM writeToFile xmlData
+        
         -- Queries examples should be introduced here
         putStrLn "Query 0: Primary artists alias"
         print . maybeClean $ map getPrimAlias artistData
