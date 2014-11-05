@@ -117,9 +117,9 @@ instance FromJSON Area where
         parseJSON (Object v) = Area <$>
                 v .:? "disambiguation"        .!= "" <*>
                 v .:? "id"                    .!= "" <*>
-                v .:? "iso_3166_1_code-list"  .!= [] <*>
-                v .:? "iso_3166_2_code-list"  .!= [] <*>
-                v .:? "iso_3166_3_code-list"  .!= [] <*>
+                v .:? "iso-3166-1-code-list"  .!= [] <*>
+                v .:? "iso-3166-2-code-list"  .!= [] <*>
+                v .:? "iso-3166-3-code-list"  .!= [] <*>
                 v .:? "name"                  .!= "" <*>
                 v .:? "sort-name"             .!= ""
         parseJSON _ = fail "fail at Area"
