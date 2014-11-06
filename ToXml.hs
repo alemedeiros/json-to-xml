@@ -116,8 +116,4 @@ makeXmlTag tag = Elem $ Element
                          ]
                        Nothing
                        
-writeToFile :: Element -> IO ()
-writeToFile xml = do
-  writeFile "./xmls/foo.xml" $ showElement xml
-
 
