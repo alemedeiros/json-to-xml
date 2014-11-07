@@ -25,6 +25,7 @@ import System.IO
 
 import System.Environment
 import System.Directory
+import Control.Exception
 
 -- This functions gets the string contents of a json file and returns an artist
 readArtist :: BS.ByteString -> Artist
@@ -32,22 +33,23 @@ readArtist = fromMaybe NullArtist . decode
 
 main :: IO ()
 main = do
-        fileNames <- getArgs
-        dataStr <- mapM BS.readFile fileNames
-        let
-            artistData = map readArtist dataStr
+
+        filePaths <- getArgs
+        dataStr <- mapM BS.readFile filePaths
+        let artistData = map readArtist dataStr
         putStrLn "Showing read data"
         print artistData
 
        --convert to xml and put in file
         let xmlData = map makeXmlArtist artistData
         putStrLn "Showing XML"
-        print xmlData
-        zipWithM writeToFile xmlData (map generateFilePath fileNames)
-        
-        doQueries artistData
+        print $ map showElement xmlData
+        zipWithM writeToFile xmlData (map generateFilePath filePaths)
 
+        doQueries artistData
+        
         putStrLn "End"
+
 
 -- This works, main doesn't. No idea why
 -- error is json-to-xml: No match in record selector artistAliases
@@ -57,15 +59,14 @@ runFromFileList :: [FilePath] -> IO ()
 runFromFileList filePaths = do
 
         dataStr <- mapM BS.readFile filePaths
-        let
-            artistData = map readArtist dataStr
+        let artistData = map readArtist dataStr
         putStrLn "Showing read data"
         print artistData
 
        --convert to xml and put in file
         let xmlData = map makeXmlArtist artistData
         putStrLn "Showing XML"
-        print xmlData
+        print $ map showElement xmlData
         zipWithM writeToFile xmlData (map generateFilePath filePaths)
 
         doQueries artistData
@@ -74,6 +75,8 @@ runFromFileList filePaths = do
 
 -- Runs the json-to-XML from a directory of json files.
 -- This works, only if there aren't too many files in the dir.
+-- Not quite sure best way of solving, it is due to lazy eval:
+-- http://stackoverflow.com/questions/2981582/haskell-lazy-i-o-and-closing-files?rq=1
 runFromDirectory :: FilePath -> IO ()
 runFromDirectory dir = do
 
@@ -85,16 +88,16 @@ runFromDirectory dir = do
         
 doQueries :: [Artist] -> IO ()
 doQueries artistData = do
-   -- Queries examples should be introduced here
-        putStrLn "Query 0: Primary artists alias"
-        print . maybeClean $ map getPrimAlias artistData
-        putStrLn "Query 1: Tags - Sorted by greater count first"
-        print . maybeClean $ map getTags artistData
-        putStrLn "Query 2: Artists that are from a specific country"
-        print . map artistName . filter (isFrom "US") $ artistData
-        putStrLn "Query 3: End date"
-        print . maybeClean $ map getEndDate artistData
-
+    -- Queries examples should be introduced here
+    putStrLn "Query 0: Primary artists alias"
+    print . maybeClean $ map getPrimAlias artistData
+    putStrLn "Query 1: Tags - Sorted by greater count first"
+    print . maybeClean $ map getTags artistData
+    putStrLn "Query 2: Artists that are from a specific country"
+    print . map artistName . filter (isFrom "US") $ artistData
+    putStrLn "Query 3: End date"
+    print . maybeClean $ map getEndDate artistData
+  
 maybeClean :: Eq a => [Maybe a] -> [a]
 maybeClean = map fromJust . filter (/= Nothing)
 
