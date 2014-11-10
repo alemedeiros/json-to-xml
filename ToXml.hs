@@ -1,3 +1,11 @@
+-- ToXml.hs
+--  by Alexandre Medeiros <alexandre.n.medeiros _at_ gmail.com>
+--     Tom Hedges <t.w.hedges _at_ qmul.ac.uk>
+--
+-- JSON to XML translation using Aeson
+--
+-- Internal Datatype to XML converter module
+
 module ToXml where
 
 import Datatypes
@@ -11,6 +19,7 @@ getFileContents fileName =
 --Artist
 
 makeXmlArtist :: Artist -> Element
+makeXmlArtist NullArtist = Element (unqual "Artist") [] [] Nothing
 makeXmlArtist artist = Element
                        (unqual "Artist")
                        []
@@ -43,6 +52,7 @@ makeArtistISNI isni = Elem $ Element
 --Alias
 
 makeXmlAlias :: Alias -> Content
+makeXmlAlias NullAlias = Elem $ Element (unqual "Alias") [] [] Nothing
 makeXmlAlias alias = Elem $ Element
                      (unqual "Alias")
                      []
@@ -58,6 +68,7 @@ makeXmlAlias alias = Elem $ Element
 --Area (uses makeAreaISO to get areaISO lists)
 
 makeXmlArea :: Area -> Content
+makeXmlArea NullArea = Elem $ Element (unqual "Area") [] [] Nothing
 makeXmlArea area = Elem $ Element
                    (unqual "Area")
                    []
@@ -82,6 +93,7 @@ makeAreaISO iso = Elem $ Element
 --LifeSpan
 
 makeXmlLifeSpan :: LifeSpan -> Content
+makeXmlLifeSpan NullLifeSpan = Elem $ Element (unqual "LifeSpan") [] [] Nothing
 makeXmlLifeSpan lifeSpan = Elem $ Element
                            (unqual "LifeSpan")
                            []
@@ -95,6 +107,7 @@ makeXmlLifeSpan lifeSpan = Elem $ Element
 --Rating
 
 makeXmlRating :: Rating -> Content
+makeXmlRating EmptyRating = Elem $ Element (unqual "Rating") [] [] Nothing
 makeXmlRating rating = Elem $ Element
                        (unqual "Rating")
                        []
@@ -107,6 +120,7 @@ makeXmlRating rating = Elem $ Element
 --Tag
 
 makeXmlTag :: Tag -> Content
+makeXmlTag NullTag = Elem $ Element (unqual "Tag") [] [] Nothing
 makeXmlTag tag = Elem $ Element
                        (unqual "Tag")
                        []
