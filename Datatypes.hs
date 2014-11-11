@@ -1,5 +1,10 @@
 -- Datatypes.hs
---  by alemedeiros <alexandre.n.medeiros _at_ gmail.com>
+--  by Alexandre Medeiros <alexandre.n.medeiros _at_ gmail.com>
+--     Tom Hedges <t.w.hedges _at_ qmul.ac.uk>
+--
+-- JSON to XML translation using Aeson
+--
+-- Datatypes definition and classtype implementations
 
 {-# LANGUAGE OverloadedStrings #-}
 
@@ -15,6 +20,8 @@ import Data.Maybe
 import Text.Read (readMaybe)
 
 --import Debug.Trace
+
+{- Datatypes definition; matching json fields -}
 
 data Artist = NullArtist | Artist
         { artistAliases :: [Alias]
@@ -52,7 +59,7 @@ data Area = NullArea | Area
         } deriving (Show, Eq)
 
 data LifeSpan = NullLifeSpan | LifeSpan
-        { lifeSpanBegin :: String -- Change to a date type or something like YYYY-MM-DD
+        { lifeSpanBegin :: String -- Change to a date type or something like YYYY-MM-DD ?
         , lifeSpanEnd :: String
         , lifeSpanEnded :: Bool
         } deriving (Show, Eq)
@@ -67,6 +74,7 @@ data Tag = NullTag | Tag
         , tagName :: String
         } deriving (Show, Eq, Ord)
 
+{- Implementation of Ord typeclass for Rating and Artist Datatypes -}
 instance Ord Rating where
         compare (Rating vA cA) (Rating vB cB) = compare vA vB
         compare   (Rating _ _)              _ = GT
@@ -79,7 +87,10 @@ instance Ord Artist where
         compare                       _                Artist{} = LT
         compare                       _                       _ = EQ
 
-
+{-
+- Implementation of FromJSON typeclass for all the datatypes.
+- Basicaly associates each json field with a field on the datatypes.
+-}
 instance FromJSON Artist where
         --parseJSON (Object v) | trace ("=> Artist: " ++ show v) False = undefined
         parseJSON (Object v) = Artist <$>
@@ -149,7 +160,7 @@ instance FromJSON Tag where
                 v .:? "name"  .!= ""
         parseJSON _ = fail "fail at Tag"
 
--- Field parsing functions
+{- Field parsing functions. -}
 readInt    = fromMaybe (-1) . readMaybe
 readDouble = fromMaybe  0.0 . readMaybe
 
