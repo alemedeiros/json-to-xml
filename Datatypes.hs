@@ -95,16 +95,16 @@ instance FromJSON Artist where
         --parseJSON (Object v) | trace ("=> Artist: " ++ show v) False = undefined
         parseJSON (Object v) = Artist <$>
                 v .:? "alias-list"      .!= [] <*>
-                v .:? "area"            .!= defaultArea <*>
-                v .:? "begin-area"      .!= defaultArea <*>
+                v .:? "area"            .!= NullArea <*>
+                v .:? "begin-area"      .!= NullArea <*>
                 v .:? "country"         .!= "" <*>
                 v .:? "disambiguation"  .!= "" <*>
-                v .:? "end-area"        .!= defaultArea <*>
+                v .:? "end-area"        .!= NullArea <*>
                 v .:? "id"              .!= "" <*>
                 v .:? "isni-list"       .!= [] <*>
-                v .:? "life-span"       .!= defaultLifeSpan <*>
+                v .:? "life-span"       .!= NullLifeSpan <*>
                 v .:? "name"            .!= ""<*>
-                v .:? "rating"          .!= defaultRating <*>
+                v .:? "rating"          .!= EmptyRating <*>
                 v .:? "sort-name"       .!= "" <*>
                 v .:? "tag-list"        .!= [] <*>
                 v .:? "type"            .!= ""
@@ -163,32 +163,3 @@ instance FromJSON Tag where
 {- Field parsing functions. -}
 readInt    = fromMaybe (-1) . readMaybe
 readDouble = fromMaybe  0.0 . readMaybe
-
-defaultAlias = Alias { aliasLocale = ""
-                     , aliasName = ""
-                     , aliasPrimary = False
-                     , aliasSortName = ""
-                     , aliasType = ""
-                     }
-
-defaultArea = Area {areaDisambig = ""
-                   , areaID = ""
-                   , areaISO1 = []
-                   , areaISO2 =  []
-                   , areaISO3 = []
-                   , areaName = ""
-                   , areaSortName = "" }
-
-defaultLifeSpan = LifeSpan {lifeSpanBegin = ""
-                  , lifeSpanEnd = ""
-                  , lifeSpanEnded = False
-                  }
-
-defaultRating = Rating {ratingValue = 0.0
-                       , ratingCount = 0
-                       } 
-defaultTag = Tag { tagCount = 0
-                 , tagName = ""
-                   }
-
-
