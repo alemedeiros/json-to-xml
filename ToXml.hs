@@ -15,7 +15,7 @@ import qualified Data.ByteString.Lazy as BS
 getFileContents :: FilePath -> IO BS.ByteString
 getFileContents fileName =
   BS.readFile fileName
-
+  
 --Artist
 
 makeXmlArtist :: Artist -> Element
