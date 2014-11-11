@@ -21,7 +21,7 @@ doQueries artistData = do
         print . maybeClean $ map getPrimAlias artistData
         putStrLn "Query 1: Tags - Sorted by greater count first"
         print . maybeClean $ map getTags artistData
-        putStrLn "Query 2: Artists that are from a specific country"
+        putStrLn "Query 2: Artists that are from a specific country (US)"
         print . map artistName . filter (isFrom "US") $ artistData
         putStrLn "Query 3: End date"
         print . maybeClean $ map getEndDate artistData
@@ -58,6 +58,8 @@ getTags _ = Nothing
 {-
 - Query 2:
 - Returns whether an artist is from the country named on String
+-
+- Some of the known values are: "US", "GB", "BR", "AU" and "JP".
 -}
 isFrom :: String -> Artist -> Bool
 isFrom str Artist{artistCountry = country} = str == country

@@ -32,13 +32,16 @@ main :: IO ()
 main = do
         -- Get file names from arguments
         fileNames <- getArgs
+        artistData <- runFromFileList fileNames
 
-        runFromFileList fileNames
+        -- Call example queries
+        doQueries artistData
 
-{--- Run parsing functions ---}
+{--- Parsing and conversion functions ---}
 
--- Run parsing and conversion on a list of files
-runFromFileList :: [FilePath] -> IO ()
+-- Run parsing and conversion on a list of files, saves the converted xml into
+-- file and returns the internal artist representation for queries
+runFromFileList :: [FilePath] -> IO [Artist]
 runFromFileList filePaths = do
         -- Get file content
         dataStr <- mapM BS.readFile filePaths
@@ -67,18 +70,18 @@ runFromFileList filePaths = do
         -- Write xml data to output files
         zipWithM_ writeToFile xmlData (map generateFilePath filePaths)
 
-        -- Call example queries
-        doQueries artistData
+        return artistData
 
--- Runs the json-to-XML from a directory of json files.
--- This works, only if there aren't too many files in the dir.
-runFromDirectory :: FilePath -> IO ()
+
+-- Run the json-to-XML on a directory of json files.
+runFromDirectory :: FilePath -> IO [Artist]
 runFromDirectory dir = do
         -- Get json files on directory
         fileNames <- getDirectoryContents dir
         let filteredFileNames = filterJsonFile fileNames
             fileDirs = replicate (length filteredFileNames) dir
             filePaths = zipWith combine fileDirs filteredFileNames
+
         -- Run on all files on directory
         runFromFileList filePaths
 
