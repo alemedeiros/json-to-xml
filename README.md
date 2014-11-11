@@ -46,10 +46,14 @@ and 1000 files for a Dell XPS 13 (4th gen i7, 8GB RAM, ghc 7.8.3, Linux kernel
 
 ###Compiled binary
 
-The binary expects the name of the json files in the command line arguments and
-can be run from the root directory of the project, as follows:
+The binary expects the name of the json files or a directory in the command line
+arguments and can be run from the root directory of the project, as follows:
 
-    ./dist/build/json-to-xml/json-to-xml json/002b8778-ce60-44ea-acae-81058c80bbd9.json
+    ./dist/build/json-to-xml/json-to-xml ./json1000
+
+or
+
+    ./dist/build/json-to-xml/json-to-xml ./json1000/00dab102-253c-4374-abd5-2f81eff1a226.json ./json1000/050fffd7-c7cc-4bb2-8f7a-a0ee4bc47678.json
 
 ###GHCI
 
@@ -58,11 +62,11 @@ above.
 
 Inside the interpreter, you may call the following functions:
 
-    > runFromFileList [ "json/002b8778-ce60-44ea-acae-81058c80bbd9.json", "json/00a6ee01-14b6-4dc5-ad1e-5e8f066fcc2b.json" ]
+    > runFromFileList [ "./json1000/002b8778-ce60-44ea-acae-81058c80bbd9.json", "./json1000/00a6ee01-14b6-4dc5-ad1e-5e8f066fcc2b.json" ]
 
 or
 
-    > runFromDirectory "json"
+    > runFromDirectory "./json1000"
 
 ##Queries
 

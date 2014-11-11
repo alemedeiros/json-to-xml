@@ -31,8 +31,14 @@ import Text.XML.Light
 main :: IO ()
 main = do
         -- Get file names from arguments
-        fileNames <- getArgs
-        artistData <- runFromFileList fileNames
+        args <- getArgs
+        isDir <- doesDirectoryExist $ head args
+
+        artistData <- if isDir
+           then
+                runFromDirectory $ head args
+           else
+                runFromFileList args
 
         -- Call example queries
         doQueries artistData
