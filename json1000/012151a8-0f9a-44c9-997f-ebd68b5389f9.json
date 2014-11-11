@@ -1,0 +1,24 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+  "life-span": {
+    "begin": "2008"
+  },
+  "name": "Imagine Dragons",
+  "sort-name": "Imagine Dragons",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "indie rock"
+    }
+  ],
+  "type": "Group"
+}

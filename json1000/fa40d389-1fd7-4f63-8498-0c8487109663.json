@@ -1,0 +1,17 @@
+{
+  "area": {
+    "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+    "iso-3166-1-code-list": [
+      "AU"
+    ],
+    "name": "Australia",
+    "sort-name": "Australia"
+  },
+  "country": "AU",
+  "disambiguation": "Australian musician",
+  "gender": "Male",
+  "id": "fa40d389-1fd7-4f63-8498-0c8487109663",
+  "name": "Mick Turner",
+  "sort-name": "Turner, Mick",
+  "type": "Person"
+}

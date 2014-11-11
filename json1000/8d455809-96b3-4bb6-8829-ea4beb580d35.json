@@ -1,0 +1,62 @@
+{
+  "area": {
+    "id": "08310658-51eb-3801-80de-5a0739207115",
+    "iso-3166-1-code-list": [
+      "FR"
+    ],
+    "name": "France",
+    "sort-name": "France"
+  },
+  "begin-area": {
+    "id": "2322e571-1d9b-4023-a31c-7222509407ab",
+    "name": "Versailles",
+    "sort-name": "Versailles"
+  },
+  "country": "FR",
+  "disambiguation": "French band",
+  "id": "8d455809-96b3-4bb6-8829-ea4beb580d35",
+  "life-span": {
+    "begin": "1999"
+  },
+  "name": "Phoenix",
+  "rating": {
+    "rating": "4.15",
+    "votes-count": "7"
+  },
+  "sort-name": "Phoenix",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "alternative rock"
+    },
+    {
+      "count": "1",
+      "name": "france"
+    },
+    {
+      "count": "1",
+      "name": "francophone"
+    },
+    {
+      "count": "1",
+      "name": "fran\u00e7ais"
+    },
+    {
+      "count": "1",
+      "name": "french"
+    },
+    {
+      "count": "1",
+      "name": "indie pop"
+    },
+    {
+      "count": "1",
+      "name": "indie rock"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    }
+  ],
+  "type": "Group"
+}

@@ -1,0 +1,24 @@
+{
+  "alias-count": 4,
+  "alias-list": [
+    {
+      "alias": "The Michaels",
+      "sort-name": "The Michaels"
+    },
+    {
+      "alias": "The Michaels'",
+      "sort-name": "The Michaels'"
+    },
+    {
+      "alias": "mic@max",
+      "sort-name": "mic@max"
+    },
+    {
+      "alias": "michaels @ maximum",
+      "sort-name": "michaels @ maximum"
+    }
+  ],
+  "id": "07532a9f-c2ca-44dc-b136-9ba6f7daf356",
+  "name": "michaels' @ maximum",
+  "sort-name": "michaels' @ maximum"
+}

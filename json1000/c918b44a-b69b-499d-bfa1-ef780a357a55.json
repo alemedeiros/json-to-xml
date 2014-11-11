@@ -1,0 +1,73 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "gender": "Male",
+  "id": "c918b44a-b69b-499d-bfa1-ef780a357a55",
+  "life-span": {
+    "begin": "1983-11-24"
+  },
+  "name": "Modular Punk",
+  "rating": {
+    "rating": "5",
+    "votes-count": "1"
+  },
+  "sort-name": "Punk, Modular",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "acid house"
+    },
+    {
+      "count": "1",
+      "name": "acid techno"
+    },
+    {
+      "count": "1",
+      "name": "dj/producer"
+    },
+    {
+      "count": "1",
+      "name": "electronic music"
+    },
+    {
+      "count": "1",
+      "name": "electronica"
+    },
+    {
+      "count": "1",
+      "name": "fall of man"
+    },
+    {
+      "count": "1",
+      "name": "felipe cersosimo"
+    },
+    {
+      "count": "1",
+      "name": "progressive house"
+    },
+    {
+      "count": "1",
+      "name": "progressive techno"
+    },
+    {
+      "count": "1",
+      "name": "rise of man"
+    },
+    {
+      "count": "1",
+      "name": "tech house"
+    },
+    {
+      "count": "1",
+      "name": "techno"
+    }
+  ],
+  "type": "Person"
+}

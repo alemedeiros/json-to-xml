@@ -1,0 +1,151 @@
+{
+  "alias-count": 6,
+  "alias-list": [
+    {
+      "alias": "Floyd",
+      "sort-name": "Floyd",
+      "type": "Search hint"
+    },
+    {
+      "alias": "Pink Floid",
+      "sort-name": "Pink Floid",
+      "type": "Search hint"
+    },
+    {
+      "alias": "Pink Floyd",
+      "locale": "en",
+      "primary": "primary",
+      "sort-name": "Pink Floyd",
+      "type": "Artist name"
+    },
+    {
+      "alias": "The Pink Floyd",
+      "sort-name": "The Pink Floyd",
+      "type": "Search hint"
+    },
+    {
+      "alias": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+      "locale": "ja",
+      "primary": "primary",
+      "sort-name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+      "type": "Artist name"
+    },
+    {
+      "alias": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+      "locale": "ko",
+      "primary": "primary",
+      "sort-name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+      "type": "Artist name"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "begin-area": {
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "name": "London",
+    "sort-name": "London"
+  },
+  "country": "GB",
+  "id": "83d91898-7763-47d7-b03b-b92132375c47",
+  "isni-list": [
+    "0000000109397559"
+  ],
+  "life-span": {
+    "begin": "1965"
+  },
+  "name": "Pink Floyd",
+  "rating": {
+    "rating": "4.5",
+    "votes-count": "56"
+  },
+  "sort-name": "Pink Floyd",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "60s"
+    },
+    {
+      "count": "1",
+      "name": "70s"
+    },
+    {
+      "count": "1",
+      "name": "80s"
+    },
+    {
+      "count": "1",
+      "name": "90s"
+    },
+    {
+      "count": "2",
+      "name": "art rock"
+    },
+    {
+      "count": "1",
+      "name": "band"
+    },
+    {
+      "count": "1",
+      "name": "britannique"
+    },
+    {
+      "count": "3",
+      "name": "british"
+    },
+    {
+      "count": "1",
+      "name": "classic pop and rock"
+    },
+    {
+      "count": "1",
+      "name": "classic rock"
+    },
+    {
+      "count": "1",
+      "name": "defacing"
+    },
+    {
+      "count": "1",
+      "name": "english"
+    },
+    {
+      "count": "4",
+      "name": "progressive"
+    },
+    {
+      "count": "7",
+      "name": "progressive rock"
+    },
+    {
+      "count": "4",
+      "name": "psychedelic rock"
+    },
+    {
+      "count": "7",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "rock opera"
+    },
+    {
+      "count": "1",
+      "name": "roger waters"
+    },
+    {
+      "count": "3",
+      "name": "space rock"
+    },
+    {
+      "count": "2",
+      "name": "uk"
+    }
+  ],
+  "type": "Group"
+}

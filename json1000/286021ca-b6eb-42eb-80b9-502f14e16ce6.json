@@ -1,0 +1,20 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "gender": "Male",
+  "id": "286021ca-b6eb-42eb-80b9-502f14e16ce6",
+  "ipi": "00589757861",
+  "ipi-list": [
+    "00589757861"
+  ],
+  "name": "Alex Metric",
+  "sort-name": "Metric, Alex",
+  "type": "Person"
+}

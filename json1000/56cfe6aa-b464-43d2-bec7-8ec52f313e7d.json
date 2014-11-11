@@ -1,0 +1,175 @@
+{
+  "alias-count": 29,
+  "alias-list": [
+    {
+      "alias": "String Quartet Tribute",
+      "sort-name": "String Quartet Tribute"
+    },
+    {
+      "alias": "String Tribute",
+      "sort-name": "String Tribute"
+    },
+    {
+      "alias": "The Angry String Orchestra",
+      "sort-name": "The Angry String Orchestra"
+    },
+    {
+      "alias": "The String Quartet Tribute",
+      "sort-name": "The String Quartet Tribute"
+    },
+    {
+      "alias": "The String Quartet Tribute",
+      "sort-name": "The String Quartet Tribute"
+    },
+    {
+      "alias": "The String Quartet Tribute To Black Sabbath",
+      "sort-name": "The String Quartet Tribute To Black Sabbath"
+    },
+    {
+      "alias": "The String Quartet Tribute To Jimi Hendrix",
+      "sort-name": "The String Quartet Tribute To Jimi Hendrix"
+    },
+    {
+      "alias": "The String Quartet Tribute To Slayer",
+      "sort-name": "The String Quartet Tribute To Slayer"
+    },
+    {
+      "alias": "The String Quartet Tribute to 3 Doors Down",
+      "sort-name": "The String Quartet Tribute to 3 Doors Down"
+    },
+    {
+      "alias": "The String Quartet Tribute to Bj\u00f6rk",
+      "sort-name": "The String Quartet Tribute to Bj\u00f6rk"
+    },
+    {
+      "alias": "The String Quartet Tribute to Celine Dion",
+      "sort-name": "The String Quartet Tribute to Celine Dion"
+    },
+    {
+      "alias": "The String Quartet Tribute to Creed",
+      "sort-name": "The String Quartet Tribute to Creed"
+    },
+    {
+      "alias": "The String Quartet Tribute to Iron Maiden",
+      "sort-name": "The String Quartet Tribute to Iron Maiden"
+    },
+    {
+      "alias": "The String Quartet Tribute to Korn",
+      "sort-name": "The String Quartet Tribute to Korn"
+    },
+    {
+      "alias": "The String Quartet Tribute to Marilyn Manson",
+      "sort-name": "The String Quartet Tribute to Marilyn Manson"
+    },
+    {
+      "alias": "The String Quartet Tribute to Massive Attack",
+      "sort-name": "The String Quartet Tribute to Massive Attack"
+    },
+    {
+      "alias": "The String Quartet Tribute to Nirvana",
+      "sort-name": "The String Quartet Tribute to Nirvana"
+    },
+    {
+      "alias": "The String Quartet Tribute to No Doubt",
+      "sort-name": "The String Quartet Tribute to No Doubt"
+    },
+    {
+      "alias": "The String Quartet Tribute to Oasis",
+      "sort-name": "The String Quartet Tribute to Oasis"
+    },
+    {
+      "alias": "The String Quartet Tribute to Peter Gabriel",
+      "sort-name": "The String Quartet Tribute to Peter Gabriel"
+    },
+    {
+      "alias": "The String Quartet Tribute to Pink Floyd",
+      "sort-name": "The String Quartet Tribute to Pink Floyd"
+    },
+    {
+      "alias": "The String Quartet Tribute to Radiohead",
+      "sort-name": "The String Quartet Tribute to Radiohead"
+    },
+    {
+      "alias": "The String Quartet Tribute to Sarah McLachlan",
+      "sort-name": "The String Quartet Tribute to Sarah McLachlan"
+    },
+    {
+      "alias": "The String Quartet Tribute to Staind",
+      "sort-name": "The String Quartet Tribute to Staind"
+    },
+    {
+      "alias": "The String Quartet Tribute to The Cure",
+      "sort-name": "The String Quartet Tribute to The Cure"
+    },
+    {
+      "alias": "The String Quartet Tribute to The Pixies",
+      "sort-name": "The String Quartet Tribute to The Pixies"
+    },
+    {
+      "alias": "The String Quartet Tribute to The Rolling Stones",
+      "sort-name": "The String Quartet Tribute to The Rolling Stones"
+    },
+    {
+      "alias": "The Tallywood Strings",
+      "sort-name": "The Tallywood Strings"
+    },
+    {
+      "alias": "The Vitamin String Quartet",
+      "sort-name": "The Vitamin String Quartet"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "56cfe6aa-b464-43d2-bec7-8ec52f313e7d",
+  "life-span": {
+    "begin": "1999"
+  },
+  "name": "Vitamin String Quartet",
+  "rating": {
+    "rating": "4.5",
+    "votes-count": "6"
+  },
+  "sort-name": "Vitamin String Quartet",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "chamber"
+    },
+    {
+      "count": "1",
+      "name": "classical"
+    },
+    {
+      "count": "1",
+      "name": "cover"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    },
+    {
+      "count": "1",
+      "name": "special purpose artist"
+    },
+    {
+      "count": "1",
+      "name": "string quartet"
+    },
+    {
+      "count": "1",
+      "name": "strings"
+    },
+    {
+      "count": "1",
+      "name": "tribute"
+    }
+  ],
+  "type": "Group"
+}

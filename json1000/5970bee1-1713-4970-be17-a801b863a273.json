@@ -1,0 +1,34 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Massimiliano Antonio Cavalera",
+      "sort-name": "Massimiliano Antonio Cavalera"
+    }
+  ],
+  "area": {
+    "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+    "iso-3166-1-code-list": [
+      "BR"
+    ],
+    "name": "Brazil",
+    "sort-name": "Brazil"
+  },
+  "begin-area": {
+    "id": "208e783b-661d-4164-935a-90f9e7937195",
+    "name": "Belo Horizonte",
+    "sort-name": "Belo Horizonte"
+  },
+  "country": "BR",
+  "gender": "Male",
+  "id": "5970bee1-1713-4970-be17-a801b863a273",
+  "isni-list": [
+    "0000000083973764"
+  ],
+  "life-span": {
+    "begin": "1969-08-04"
+  },
+  "name": "Max Cavalera",
+  "sort-name": "Cavalera, Max",
+  "type": "Person"
+}

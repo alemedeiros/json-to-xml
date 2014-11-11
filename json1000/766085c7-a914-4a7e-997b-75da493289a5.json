@@ -1,0 +1,32 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "MFTCC",
+      "sort-name": "MFTCC",
+      "type": "Search hint"
+    }
+  ],
+  "area": {
+    "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+    "iso-3166-1-code-list": [
+      "AU"
+    ],
+    "name": "Australia",
+    "sort-name": "Australia"
+  },
+  "country": "AU",
+  "id": "766085c7-a914-4a7e-997b-75da493289a5",
+  "life-span": {
+    "begin": "1989"
+  },
+  "name": "My Friend the Chocolate Cake",
+  "sort-name": "My Friend the Chocolate Cake",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "awesomename"
+    }
+  ],
+  "type": "Group"
+}

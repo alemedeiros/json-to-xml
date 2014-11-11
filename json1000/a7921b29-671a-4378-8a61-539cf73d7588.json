@@ -1,0 +1,51 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Cramer jr.",
+      "sort-name": "Cramer jr."
+    },
+    {
+      "alias": "Floyd Crammer",
+      "sort-name": "Floyd Crammer"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "792c0b7d-c00d-430c-a431-e0624841d523",
+    "name": "Shreveport",
+    "sort-name": "Shreveport"
+  },
+  "country": "US",
+  "end-area": {
+    "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74",
+    "name": "Nashville",
+    "sort-name": "Nashville"
+  },
+  "gender": "Male",
+  "id": "a7921b29-671a-4378-8a61-539cf73d7588",
+  "isni-list": [
+    "0000000114397975"
+  ],
+  "life-span": {
+    "begin": "1933-10-27",
+    "end": "1997-12-31",
+    "ended": "true"
+  },
+  "name": "Floyd Cramer",
+  "sort-name": "Cramer, Floyd",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "death by lung cancer"
+    }
+  ],
+  "type": "Person"
+}

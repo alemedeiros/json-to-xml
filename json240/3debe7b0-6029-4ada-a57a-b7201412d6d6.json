@@ -1,0 +1,24 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Remixed by L.E.D.",
+      "sort-name": "Remixed by L.E.D."
+    }
+  ],
+  "area": {
+    "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+    "iso-3166-1-code-list": [
+      "JP"
+    ],
+    "name": "Japan",
+    "sort-name": "Japan"
+  },
+  "country": "JP",
+  "disambiguation": "BEMANI artist Kakuta Toshiyuki",
+  "gender": "Male",
+  "id": "3debe7b0-6029-4ada-a57a-b7201412d6d6",
+  "name": "L.E.D.",
+  "sort-name": "L.E.D.",
+  "type": "Person"
+}

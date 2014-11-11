@@ -1,0 +1,25 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "d4985e8e-a316-4ede-a0c1-9587ff8adf0a",
+    "name": "El Monte",
+    "sort-name": "El Monte"
+  },
+  "country": "US",
+  "disambiguation": "Mexican-American rapper Alvin Trivette",
+  "gender": "Male",
+  "id": "4f294f8d-59af-47d1-97bd-7024c2c44f66",
+  "life-span": {
+    "begin": "1970-05-17"
+  },
+  "name": "A.L.T.",
+  "sort-name": "A.L.T.",
+  "type": "Person"
+}

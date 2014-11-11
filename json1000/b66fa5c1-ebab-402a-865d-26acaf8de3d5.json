@@ -1,0 +1,40 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "82a4e867-19e7-4968-9031-10aaf1c6895b",
+    "name": "Clarksdale",
+    "sort-name": "Clarksdale"
+  },
+  "country": "US",
+  "end-area": {
+    "id": "07ae79a2-78b4-4019-b3f9-2f908a08dd32",
+    "name": "San Marcos",
+    "sort-name": "San Marcos"
+  },
+  "gender": "Male",
+  "id": "b66fa5c1-ebab-402a-865d-26acaf8de3d5",
+  "isni-list": [
+    "0000000120207461"
+  ],
+  "life-span": {
+    "begin": "1931-11-05",
+    "end": "2007-12-12",
+    "ended": "true"
+  },
+  "name": "Ike Turner",
+  "sort-name": "Turner, Ike",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "classic pop and rock"
+    }
+  ],
+  "type": "Person"
+}

@@ -1,0 +1,63 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "disambiguation": "USA metal band",
+  "id": "4bb4e4e4-5f66-4509-98af-62dbb90c45c5",
+  "life-span": {
+    "begin": "1996",
+    "end": "2011",
+    "ended": "true"
+  },
+  "name": "Disturbed",
+  "rating": {
+    "rating": "4.4",
+    "votes-count": "5"
+  },
+  "sort-name": "Disturbed",
+  "tag-list": [
+    {
+      "count": "2",
+      "name": "alternative metal"
+    },
+    {
+      "count": "1",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "hard rock"
+    },
+    {
+      "count": "1",
+      "name": "heavy metal"
+    },
+    {
+      "count": "2",
+      "name": "metal"
+    },
+    {
+      "count": "1",
+      "name": "new metal"
+    },
+    {
+      "count": "1",
+      "name": "nu metal"
+    },
+    {
+      "count": "1",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    }
+  ],
+  "type": "Group"
+}

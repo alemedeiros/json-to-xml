@@ -1,0 +1,55 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "bc468dff-11c5-47d0-b5f3-353acbcd14c0",
+    "name": "Arlington",
+    "sort-name": "Arlington"
+  },
+  "country": "US",
+  "id": "541f16f5-ad7a-428e-af89-9fa1b16d3c9c",
+  "life-span": {
+    "begin": "1982",
+    "end": "2003",
+    "ended": "true"
+  },
+  "name": "Pantera",
+  "rating": {
+    "rating": "4.45",
+    "votes-count": "7"
+  },
+  "sort-name": "Pantera",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "dance and electronica"
+    },
+    {
+      "count": "1",
+      "name": "heavy metal"
+    },
+    {
+      "count": "2",
+      "name": "metal"
+    },
+    {
+      "count": "1",
+      "name": "nu metal"
+    },
+    {
+      "count": "1",
+      "name": "trash speed metal"
+    }
+  ],
+  "type": "Group"
+}

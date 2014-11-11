@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+    "iso-3166-1-code-list": [
+      "NZ"
+    ],
+    "name": "New Zealand",
+    "sort-name": "New Zealand"
+  },
+  "country": "NZ",
+  "disambiguation": "New Zealand Band",
+  "id": "fce9108a-84b2-4b27-b345-113d04ee1471",
+  "life-span": {
+    "begin": "1999"
+  },
+  "name": "The Rock and Roll Machine",
+  "sort-name": "Rock and Roll Machine. The",
+  "type": "Group"
+}

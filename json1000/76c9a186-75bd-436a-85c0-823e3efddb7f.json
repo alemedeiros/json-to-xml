@@ -1,0 +1,105 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Janis Joplin (w",
+      "sort-name": "Janis Joplin (w"
+    },
+    {
+      "alias": "Joplin, Janis",
+      "sort-name": "Joplin, Janis"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "f934c8da-e40e-4056-8f8c-212e68fdcaec",
+    "iso-3166-2-code-list": [
+      "US-TX"
+    ],
+    "name": "Texas",
+    "sort-name": "Texas"
+  },
+  "country": "US",
+  "end-area": {
+    "id": "ae0110b6-13d4-4998-9116-5b926287aa23",
+    "iso-3166-2-code-list": [
+      "US-CA"
+    ],
+    "name": "California",
+    "sort-name": "California"
+  },
+  "gender": "Female",
+  "id": "76c9a186-75bd-436a-85c0-823e3efddb7f",
+  "ipi": "00034520807",
+  "ipi-list": [
+    "00034520807"
+  ],
+  "isni-list": [
+    "0000000080869937"
+  ],
+  "life-span": {
+    "begin": "1943-01-19",
+    "end": "1970-10-04",
+    "ended": "true"
+  },
+  "name": "Janis Joplin",
+  "rating": {
+    "rating": "5",
+    "votes-count": "6"
+  },
+  "sort-name": "Joplin, Janis",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "27 club"
+    },
+    {
+      "count": "1",
+      "name": "acid rock"
+    },
+    {
+      "count": "1",
+      "name": "american"
+    },
+    {
+      "count": "2",
+      "name": "blues rock"
+    },
+    {
+      "count": "1",
+      "name": "classic pop and rock"
+    },
+    {
+      "count": "1",
+      "name": "death by heroin"
+    },
+    {
+      "count": "1",
+      "name": "death by overdose"
+    },
+    {
+      "count": "1",
+      "name": "folk"
+    },
+    {
+      "count": "1",
+      "name": "hard rock"
+    },
+    {
+      "count": "2",
+      "name": "psychedelic rock"
+    },
+    {
+      "count": "2",
+      "name": "rock"
+    }
+  ],
+  "type": "Person"
+}

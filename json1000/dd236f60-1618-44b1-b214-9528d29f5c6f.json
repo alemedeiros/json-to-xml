@@ -1,0 +1,20 @@
+{
+  "area": {
+    "id": "305d19c7-c040-349c-8d5f-6ac75d2d2a09",
+    "iso-3166-1-code-list": [
+      "MY"
+    ],
+    "name": "Malaysia",
+    "sort-name": "Malaysia"
+  },
+  "country": "MY",
+  "disambiguation": "Malaysian singer",
+  "gender": "Male",
+  "id": "dd236f60-1618-44b1-b214-9528d29f5c6f",
+  "life-span": {
+    "begin": "1987-12-21"
+  },
+  "name": "Black",
+  "sort-name": "Black",
+  "type": "Person"
+}

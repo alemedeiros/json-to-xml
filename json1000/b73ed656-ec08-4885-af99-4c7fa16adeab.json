@@ -1,0 +1,15 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "b73ed656-ec08-4885-af99-4c7fa16adeab",
+  "name": "The Horses of Instruction",
+  "sort-name": "Horses of Instruction, The",
+  "type": "Group"
+}

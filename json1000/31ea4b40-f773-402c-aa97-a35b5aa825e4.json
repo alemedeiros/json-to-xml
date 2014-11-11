@@ -1,0 +1,18 @@
+{
+  "area": {
+    "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+    "iso-3166-1-code-list": [
+      "AT"
+    ],
+    "name": "Austria",
+    "sort-name": "Austria"
+  },
+  "country": "AT",
+  "id": "31ea4b40-f773-402c-aa97-a35b5aa825e4",
+  "life-span": {
+    "begin": "2008"
+  },
+  "name": "Mother\u2019s Cake",
+  "sort-name": "Mother\u2019s Cake",
+  "type": "Group"
+}

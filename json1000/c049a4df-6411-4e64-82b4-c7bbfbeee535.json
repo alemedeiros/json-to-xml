@@ -1,0 +1,20 @@
+{
+  "id": "c049a4df-6411-4e64-82b4-c7bbfbeee535",
+  "name": "Ice Cake",
+  "sort-name": "Ice Cake",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "french"
+    },
+    {
+      "count": "1",
+      "name": "french metal"
+    },
+    {
+      "count": "1",
+      "name": "metal"
+    }
+  ],
+  "type": "Group"
+}

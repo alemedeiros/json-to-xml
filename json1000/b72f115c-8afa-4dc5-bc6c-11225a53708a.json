@@ -1,0 +1,52 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Ian, Janis",
+      "sort-name": "Ian, Janis"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+    "name": "New York",
+    "sort-name": "New York"
+  },
+  "country": "US",
+  "gender": "Female",
+  "id": "b72f115c-8afa-4dc5-bc6c-11225a53708a",
+  "ipi": "00014661405",
+  "ipi-list": [
+    "00014661405"
+  ],
+  "isni-list": [
+    "0000000063102865"
+  ],
+  "life-span": {
+    "begin": "1951-04-07"
+  },
+  "name": "Janis Ian",
+  "sort-name": "Ian, Janis",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "classic pop and rock"
+    },
+    {
+      "count": "1",
+      "name": "folk"
+    }
+  ],
+  "type": "Person"
+}

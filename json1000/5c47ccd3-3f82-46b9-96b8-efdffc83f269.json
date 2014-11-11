@@ -1,0 +1,59 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "De Phazz",
+      "sort-name": "De Phazz"
+    },
+    {
+      "alias": "De Phazz Astrud",
+      "sort-name": "De Phazz Astrud"
+    },
+    {
+      "alias": "DePhazz",
+      "sort-name": "DePhazz"
+    }
+  ],
+  "area": {
+    "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+    "iso-3166-2-code-list": [
+      "DE-BE"
+    ],
+    "name": "Berlin",
+    "sort-name": "Berlin"
+  },
+  "begin-area": {
+    "id": "eee2e250-e74b-4216-896d-ec1980ea123c",
+    "name": "Heidelberg",
+    "sort-name": "Heidelberg"
+  },
+  "id": "5c47ccd3-3f82-46b9-96b8-efdffc83f269",
+  "life-span": {
+    "begin": "1997"
+  },
+  "name": "De-Phazz",
+  "rating": {
+    "rating": "4",
+    "votes-count": "1"
+  },
+  "sort-name": "De-Phazz",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "electronic"
+    },
+    {
+      "count": "1",
+      "name": "german"
+    },
+    {
+      "count": "1",
+      "name": "heidelberg"
+    },
+    {
+      "count": "1",
+      "name": "jazz"
+    }
+  ],
+  "type": "Group"
+}

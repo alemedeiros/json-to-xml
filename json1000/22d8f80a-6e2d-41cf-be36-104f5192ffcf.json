@@ -1,0 +1,36 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Fu Schnikens",
+      "sort-name": "Schnikens, Fu"
+    },
+    {
+      "alias": "Fu-Shnickens",
+      "sort-name": "Fu-Shnickens"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+    "name": "Brooklyn",
+    "sort-name": "Brooklyn"
+  },
+  "country": "US",
+  "id": "22d8f80a-6e2d-41cf-be36-104f5192ffcf",
+  "life-span": {
+    "begin": "1991",
+    "end": "1996",
+    "ended": "true"
+  },
+  "name": "Fu-Schnickens",
+  "sort-name": "Fu-Schnickens",
+  "type": "Group"
+}

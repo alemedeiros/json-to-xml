@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+    "iso-3166-1-code-list": [
+      "ES"
+    ],
+    "name": "Spain",
+    "sort-name": "Spain"
+  },
+  "country": "ES",
+  "gender": "Male",
+  "id": "fa2f8acc-13db-4fb6-9323-21e5f038b78f",
+  "life-span": {
+    "begin": "1956-04-02"
+  },
+  "name": "Benet Casablancas",
+  "sort-name": "Casablancas, Benet",
+  "type": "Person"
+}

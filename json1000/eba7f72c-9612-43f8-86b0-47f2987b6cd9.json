@@ -1,0 +1,34 @@
+{
+  "area": {
+    "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+    "iso-3166-1-code-list": [
+      "NL"
+    ],
+    "name": "Netherlands",
+    "sort-name": "Netherlands"
+  },
+  "country": "NL",
+  "disambiguation": "Dutch Indie Rock Band",
+  "id": "eba7f72c-9612-43f8-86b0-47f2987b6cd9",
+  "name": "Maximum Bob",
+  "rating": {
+    "rating": "5",
+    "votes-count": "1"
+  },
+  "sort-name": "Maximum Bob",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "dutch"
+    },
+    {
+      "count": "1",
+      "name": "indie"
+    },
+    {
+      "count": "1",
+      "name": "rock"
+    }
+  ],
+  "type": "Group"
+}

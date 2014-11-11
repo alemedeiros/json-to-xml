@@ -1,0 +1,15 @@
+{
+  "area": {
+    "id": "08310658-51eb-3801-80de-5a0739207115",
+    "iso-3166-1-code-list": [
+      "FR"
+    ],
+    "name": "France",
+    "sort-name": "France"
+  },
+  "country": "FR",
+  "id": "3f05a6a3-ea0d-40b3-ba3d-53e40ff628f8",
+  "name": "Asia 2001",
+  "sort-name": "Asia 2001",
+  "type": "Group"
+}

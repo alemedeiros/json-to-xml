@@ -1,0 +1,65 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "begin-area": {
+    "id": "3ce737cb-f5bb-403d-a98a-e0602670229f",
+    "iso-3166-2-code-list": [
+      "GB-SHF"
+    ],
+    "name": "Sheffield",
+    "sort-name": "Sheffield"
+  },
+  "country": "GB",
+  "gender": "Male",
+  "id": "ee953029-6de8-4c50-8d0f-215a1e4e8dd6",
+  "ipi": "00480510477",
+  "ipi-list": [
+    "00480510477"
+  ],
+  "life-span": {
+    "begin": "1986-01-06"
+  },
+  "name": "Alex Turner",
+  "sort-name": "Turner, Alex",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "britannique"
+    },
+    {
+      "count": "1",
+      "name": "british"
+    },
+    {
+      "count": "1",
+      "name": "chanteur"
+    },
+    {
+      "count": "1",
+      "name": "guitarist"
+    },
+    {
+      "count": "1",
+      "name": "guitariste"
+    },
+    {
+      "count": "1",
+      "name": "indie rock"
+    },
+    {
+      "count": "1",
+      "name": "singer"
+    },
+    {
+      "count": "1",
+      "name": "uk"
+    }
+  ],
+  "type": "Person"
+}

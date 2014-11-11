@@ -1,0 +1,21 @@
+{
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "iso-3166-1-code-list": [
+      "IT"
+    ],
+    "name": "Italy",
+    "sort-name": "Italy"
+  },
+  "country": "IT",
+  "disambiguation": "Italian punk rock band",
+  "id": "3e666a85-dcfe-4d89-9653-3a01af3c73af",
+  "life-span": {
+    "begin": "1999",
+    "end": "2004",
+    "ended": "true"
+  },
+  "name": "Peter Punk",
+  "sort-name": "Peter Punk",
+  "type": "Group"
+}

@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "gender": "Male",
+  "id": "b4153442-e641-4528-8e3b-b252693ebe51",
+  "life-span": {
+    "begin": "1926"
+  },
+  "name": "Carlisle Floyd",
+  "sort-name": "Floyd, Carlisle",
+  "type": "Person"
+}

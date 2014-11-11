@@ -1,0 +1,34 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "disambiguation": "80s Scottish punk band",
+  "id": "fa9dae06-8e6e-4b04-a2e5-f61c83016ab0",
+  "name": "The Disturbed",
+  "sort-name": "Disturbed, The",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "glasgow"
+    },
+    {
+      "count": "1",
+      "name": "punk"
+    },
+    {
+      "count": "1",
+      "name": "scotland"
+    },
+    {
+      "count": "1",
+      "name": "uk"
+    }
+  ],
+  "type": "Group"
+}

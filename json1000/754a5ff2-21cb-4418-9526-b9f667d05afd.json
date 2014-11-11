@@ -1,0 +1,23 @@
+{
+  "area": {
+    "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+    "iso-3166-1-code-list": [
+      "FI"
+    ],
+    "name": "Finland",
+    "sort-name": "Finland"
+  },
+  "country": "FI",
+  "disambiguation": "Raw Black Metal band from Finland",
+  "id": "754a5ff2-21cb-4418-9526-b9f667d05afd",
+  "life-span": {
+    "begin": "2000"
+  },
+  "name": "O",
+  "rating": {
+    "rating": "5",
+    "votes-count": "1"
+  },
+  "sort-name": "O",
+  "type": "Group"
+}

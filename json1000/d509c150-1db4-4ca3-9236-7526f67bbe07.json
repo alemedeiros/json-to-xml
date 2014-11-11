@@ -1,0 +1,53 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Age of Change",
+      "sort-name": "Age of Change"
+    },
+    {
+      "alias": "The Age Of Chance",
+      "sort-name": "The Age Of Chance"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "begin-area": {
+    "id": "400bdd75-a3a0-48e2-a6ae-c4733366aff3",
+    "iso-3166-2-code-list": [
+      "GB-LDS"
+    ],
+    "name": "Leeds",
+    "sort-name": "Leeds"
+  },
+  "country": "GB",
+  "id": "d509c150-1db4-4ca3-9236-7526f67bbe07",
+  "life-span": {
+    "begin": "1985",
+    "end": "1992",
+    "ended": "true"
+  },
+  "name": "Age of Chance",
+  "sort-name": "Age of Chance",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "alternative"
+    },
+    {
+      "count": "1",
+      "name": "england"
+    },
+    {
+      "count": "1",
+      "name": "leeds"
+    }
+  ],
+  "type": "Group"
+}

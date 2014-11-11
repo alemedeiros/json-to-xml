@@ -1,0 +1,48 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "Banton Pato",
+      "sort-name": "Banton Pato"
+    },
+    {
+      "alias": "Pato Banton & The Reggae Revolution",
+      "sort-name": "Pato Banton & The Reggae Revolution"
+    },
+    {
+      "alias": "Pato Banton and the Reggae Revolution",
+      "sort-name": "Pato Banton and the Reggae Revolution"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "gender": "Male",
+  "id": "71e439be-9da4-40ed-a52a-6b1f950cd31a",
+  "life-span": {
+    "begin": "1961-01-28"
+  },
+  "name": "Pato Banton",
+  "sort-name": "Banton, Pato",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "british"
+    },
+    {
+      "count": "1",
+      "name": "english"
+    },
+    {
+      "count": "1",
+      "name": "uk"
+    }
+  ],
+  "type": "Person"
+}

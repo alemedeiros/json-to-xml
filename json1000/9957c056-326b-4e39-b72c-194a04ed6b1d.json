@@ -1,0 +1,21 @@
+{
+  "area": {
+    "id": "48802a32-075a-3805-a183-277c66047693",
+    "iso-3166-1-code-list": [
+      "IS"
+    ],
+    "name": "Iceland",
+    "sort-name": "Iceland"
+  },
+  "country": "IS",
+  "id": "9957c056-326b-4e39-b72c-194a04ed6b1d",
+  "name": "Bruni BB",
+  "sort-name": "Bruni BB",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "iceland"
+    }
+  ],
+  "type": "Group"
+}

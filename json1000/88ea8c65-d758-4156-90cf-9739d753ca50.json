@@ -1,0 +1,27 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "The Orange Bicycle",
+      "sort-name": "The Orange Bicycle"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "88ea8c65-d758-4156-90cf-9739d753ca50",
+  "life-span": {
+    "begin": "1967",
+    "end": "1971",
+    "ended": "true"
+  },
+  "name": "Orange Bicycle",
+  "sort-name": "Orange Bicycle",
+  "type": "Group"
+}

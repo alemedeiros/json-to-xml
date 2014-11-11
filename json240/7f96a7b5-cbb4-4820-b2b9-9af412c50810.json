@@ -1,0 +1,20 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "cfc2595c-46f7-42ae-8b1c-9892572bcd9a",
+    "name": "Santa Rosa",
+    "sort-name": "Santa Rosa"
+  },
+  "country": "US",
+  "id": "7f96a7b5-cbb4-4820-b2b9-9af412c50810",
+  "name": "Litany for the Whale",
+  "sort-name": "Litany for the Whale",
+  "type": "Group"
+}

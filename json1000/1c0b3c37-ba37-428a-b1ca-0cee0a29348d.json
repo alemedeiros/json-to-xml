@@ -1,0 +1,30 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "Candy Spooky Theater",
+      "sort-name": "Candy Spooky Theater"
+    },
+    {
+      "alias": "The Candy Spooky Theatre",
+      "sort-name": "The Candy Spooky Theatre"
+    },
+    {
+      "alias": "TheCandySpookyTheater",
+      "sort-name": "TheCandySpookyTheater"
+    }
+  ],
+  "area": {
+    "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+    "iso-3166-1-code-list": [
+      "JP"
+    ],
+    "name": "Japan",
+    "sort-name": "Japan"
+  },
+  "country": "JP",
+  "id": "1c0b3c37-ba37-428a-b1ca-0cee0a29348d",
+  "name": "The Candy Spooky Theater",
+  "sort-name": "Candy Spooky Theater, The",
+  "type": "Group"
+}

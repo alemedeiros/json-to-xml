@@ -1,0 +1,60 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "begin-area": {
+    "id": "f0723bcc-1f73-456d-b6fa-e12b2ec6016e",
+    "name": "Gravesend",
+    "sort-name": "Gravesend"
+  },
+  "country": "GB",
+  "disambiguation": "UK anarcho punk band",
+  "id": "315126eb-86bc-475c-a308-b8edfdd6c08c",
+  "life-span": {
+    "begin": "1980",
+    "end": "1984",
+    "ended": "true"
+  },
+  "name": "Anthrax",
+  "rating": {
+    "rating": "5",
+    "votes-count": "1"
+  },
+  "sort-name": "Anthrax",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "anarcho"
+    },
+    {
+      "count": "1",
+      "name": "england"
+    },
+    {
+      "count": "1",
+      "name": "gravesend"
+    },
+    {
+      "count": "1",
+      "name": "kent"
+    },
+    {
+      "count": "1",
+      "name": "punk"
+    },
+    {
+      "count": "1",
+      "name": "seen live"
+    },
+    {
+      "count": "1",
+      "name": "uk"
+    }
+  ],
+  "type": "Group"
+}

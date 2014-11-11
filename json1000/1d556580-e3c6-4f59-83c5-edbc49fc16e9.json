@@ -1,0 +1,28 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Something for the People",
+      "sort-name": "Something for the People"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "1d556580-e3c6-4f59-83c5-edbc49fc16e9",
+  "name": "Somethin\u2019 for the People",
+  "sort-name": "Somethin\u2019 for the People",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "r&b"
+    }
+  ],
+  "type": "Group"
+}

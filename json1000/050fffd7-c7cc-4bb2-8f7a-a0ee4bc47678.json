@@ -1,0 +1,25 @@
+{
+  "area": {
+    "id": "c249c30e-88ab-4b2f-a745-96a25bd7afee",
+    "iso-3166-2-code-list": [
+      "GB-LIV"
+    ],
+    "name": "Liverpool",
+    "sort-name": "Liverpool"
+  },
+  "begin-area": {
+    "id": "c249c30e-88ab-4b2f-a745-96a25bd7afee",
+    "iso-3166-2-code-list": [
+      "GB-LIV"
+    ],
+    "name": "Liverpool",
+    "sort-name": "Liverpool"
+  },
+  "id": "050fffd7-c7cc-4bb2-8f7a-a0ee4bc47678",
+  "life-span": {
+    "begin": "2013"
+  },
+  "name": "Circa Waves",
+  "sort-name": "Circa Waves",
+  "type": "Group"
+}

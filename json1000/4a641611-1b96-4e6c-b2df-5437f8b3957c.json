@@ -1,0 +1,20 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "4a641611-1b96-4e6c-b2df-5437f8b3957c",
+  "life-span": {
+    "begin": "1889-10-14",
+    "end": "1979-10-13",
+    "ended": "true"
+  },
+  "name": "Clarence Muse",
+  "sort-name": "Muse, Clarence",
+  "type": "Person"
+}

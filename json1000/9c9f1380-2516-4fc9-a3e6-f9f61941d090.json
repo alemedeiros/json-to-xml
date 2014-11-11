@@ -1,0 +1,106 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Muse",
+      "locale": "en",
+      "primary": "primary",
+      "sort-name": "Muse",
+      "type": "Artist name"
+    },
+    {
+      "alias": "\u30df\u30e5\u30fc\u30ba",
+      "locale": "ja",
+      "primary": "primary",
+      "sort-name": "\u30df\u30e5\u30fc\u30ba",
+      "type": "Artist name"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "begin-area": {
+    "id": "2021b983-80b8-4f6b-a2a9-7d33c23e15b6",
+    "iso-3166-2-code-list": [
+      "GB-DEV"
+    ],
+    "name": "Devon",
+    "sort-name": "Devon"
+  },
+  "country": "GB",
+  "disambiguation": "UK rock band",
+  "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+  "life-span": {
+    "begin": "1994"
+  },
+  "name": "Muse",
+  "rating": {
+    "rating": "4.6",
+    "votes-count": "36"
+  },
+  "sort-name": "Muse",
+  "tag-list": [
+    {
+      "count": "2",
+      "name": "alternative rock"
+    },
+    {
+      "count": "1",
+      "name": "best"
+    },
+    {
+      "count": "1",
+      "name": "britannique"
+    },
+    {
+      "count": "3",
+      "name": "british"
+    },
+    {
+      "count": "1",
+      "name": "english"
+    },
+    {
+      "count": "1",
+      "name": "male"
+    },
+    {
+      "count": "2",
+      "name": "new prog"
+    },
+    {
+      "count": "1",
+      "name": "producer"
+    },
+    {
+      "count": "1",
+      "name": "producteur"
+    },
+    {
+      "count": "1",
+      "name": "progressive rock"
+    },
+    {
+      "count": "5",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    },
+    {
+      "count": "4",
+      "name": "uk"
+    },
+    {
+      "count": "1",
+      "name": "united kingdom"
+    }
+  ],
+  "type": "Group"
+}

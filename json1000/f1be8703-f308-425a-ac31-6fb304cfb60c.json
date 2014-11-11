@@ -1,0 +1,23 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "disambiguation": "vocals in English heavy metal band Pariah",
+  "gender": "Male",
+  "id": "f1be8703-f308-425a-ac31-6fb304cfb60c",
+  "name": "Michael Jackson",
+  "sort-name": "Jackson, Michael",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "invincible"
+    }
+  ],
+  "type": "Person"
+}

@@ -1,0 +1,28 @@
+{
+  "alias-count": 4,
+  "alias-list": [
+    {
+      "alias": "Bombay Jayashree",
+      "sort-name": "Bombay Jayashree"
+    },
+    {
+      "alias": "Bombay Jayashri Ramnath",
+      "locale": "ta",
+      "sort-name": "Ramnath, Bombay Jayashri",
+      "type": "Legal name"
+    },
+    {
+      "alias": "Bombay S. Jayashree",
+      "sort-name": "Bombay S. Jayashree"
+    },
+    {
+      "alias": "Bombay S. Jayashri",
+      "sort-name": "Bombay S. Jayashri"
+    }
+  ],
+  "gender": "Female",
+  "id": "fc5db44d-8b22-4b0c-8005-00c60553662d",
+  "name": "Bombay Jayashri",
+  "sort-name": "Jayashri, Bombay",
+  "type": "Person"
+}

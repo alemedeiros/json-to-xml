@@ -1,0 +1,22 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Dee'Grees",
+      "sort-name": "Dee'Grees"
+    }
+  ],
+  "area": {
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+    "iso-3166-1-code-list": [
+      "DE"
+    ],
+    "name": "Germany",
+    "sort-name": "Germany"
+  },
+  "country": "DE",
+  "id": "c48667b6-b84c-405c-b045-055cb180bb0b",
+  "name": "De-Grees",
+  "sort-name": "De-Grees",
+  "type": "Group"
+}

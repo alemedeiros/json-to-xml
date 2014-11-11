@@ -1,0 +1,21 @@
+{
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "iso-3166-1-code-list": [
+      "IT"
+    ],
+    "name": "Italy",
+    "sort-name": "Italy"
+  },
+  "country": "IT",
+  "gender": "Female",
+  "id": "dbe751ed-b8fe-4ce0-86b6-dc002b123281",
+  "life-span": {
+    "begin": "1913-08-20",
+    "end": "1971-01-03",
+    "ended": "true"
+  },
+  "name": "Norma Bruni",
+  "sort-name": "Bruni, Norma",
+  "type": "Person"
+}

@@ -1,0 +1,84 @@
+{
+  "alias-count": 9,
+  "alias-list": [
+    {
+      "alias": "Jackson 5",
+      "sort-name": "Jackson 5"
+    },
+    {
+      "alias": "Jackson 5 (The)",
+      "sort-name": "Jackson 5 (The)"
+    },
+    {
+      "alias": "Jackson Five",
+      "sort-name": "Jackson Five"
+    },
+    {
+      "alias": "Jacksons",
+      "sort-name": "The Jacksons"
+    },
+    {
+      "alias": "Michael Jackson And The Jackson 5",
+      "sort-name": "Michael Jackson And The Jackson 5"
+    },
+    {
+      "alias": "The Jackson 5",
+      "sort-name": "The Jackson 5"
+    },
+    {
+      "alias": "The Jackson Five",
+      "sort-name": "The Jackson Five"
+    },
+    {
+      "alias": "The Jacksons",
+      "sort-name": "The Jacksons"
+    },
+    {
+      "alias": "jackson fivve",
+      "sort-name": "jackson fivve"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "34357067-8f7f-4c7a-8d5e-99b6e60f7891",
+    "name": "Gary",
+    "sort-name": "Gary"
+  },
+  "country": "US",
+  "id": "e5257dc5-1edd-4fca-b7e6-1158e00522c8",
+  "isni-list": [
+    "0000000122592391"
+  ],
+  "life-span": {
+    "begin": "1966",
+    "ended": "true"
+  },
+  "name": "The Jackson 5",
+  "rating": {
+    "rating": "3.5",
+    "votes-count": "4"
+  },
+  "sort-name": "Jackson 5, The",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "pop"
+    },
+    {
+      "count": "1",
+      "name": "pop and chart"
+    },
+    {
+      "count": "1",
+      "name": "soul and reggae"
+    }
+  ],
+  "type": "Group"
+}

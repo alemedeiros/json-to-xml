@@ -1,0 +1,53 @@
+{
+  "alias-count": 5,
+  "alias-list": [
+    {
+      "alias": "J Preister",
+      "sort-name": "J Preister"
+    },
+    {
+      "alias": "J Prester",
+      "sort-name": "J Prester"
+    },
+    {
+      "alias": "J Priester",
+      "sort-name": "J Priester"
+    },
+    {
+      "alias": "Julian Preister",
+      "sort-name": "Julian Preister"
+    },
+    {
+      "alias": "Julian Priester Pepo Mtoto",
+      "sort-name": "Julian Priester Pepo Mtoto"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+    "name": "Chicago",
+    "sort-name": "Chicago"
+  },
+  "country": "US",
+  "gender": "Male",
+  "id": "ef334ada-16e2-4ee6-a3d8-b89a125ff50e",
+  "life-span": {
+    "begin": "1935-06-29"
+  },
+  "name": "Julian Priester",
+  "sort-name": "Priester, Julian",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "jazz and blues"
+    }
+  ],
+  "type": "Person"
+}

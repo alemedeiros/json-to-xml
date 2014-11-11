@@ -1,0 +1,22 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "\u30f4\u30a9\u30e9\u30fb\u30a2\u30f3\u30c9\u30fb\u30b8\u30fb\u30aa\u30ea\u30a8\u30f3\u30bf\u30eb\u30fb\u30de\u30b7\u30fc\u30f3",
+      "sort-name": "\u30f4\u30a9\u30e9\u30fb\u30a2\u30f3\u30c9\u30fb\u30b8\u30fb\u30aa\u30ea\u30a8\u30f3\u30bf\u30eb\u30fb\u30de\u30b7\u30fc\u30f3"
+    }
+  ],
+  "area": {
+    "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+    "iso-3166-1-code-list": [
+      "JP"
+    ],
+    "name": "Japan",
+    "sort-name": "Japan"
+  },
+  "country": "JP",
+  "id": "dafcf61a-b256-406e-b5fa-b2e4d3c89e22",
+  "name": "VOLA & THE ORIENTAL MACHINE",
+  "sort-name": "VOLA & THE ORIENTAL MACHINE",
+  "type": "Group"
+}

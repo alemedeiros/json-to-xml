@@ -1,0 +1,15 @@
+{
+  "area": {
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "iso-3166-1-code-list": [
+      "AR"
+    ],
+    "name": "Argentina",
+    "sort-name": "Argentina"
+  },
+  "country": "AR",
+  "id": "08dd2dbb-a747-42a7-a139-33e8d1f4a133",
+  "name": "Cola de Pato",
+  "sort-name": "Cola de Pato",
+  "type": "Group"
+}

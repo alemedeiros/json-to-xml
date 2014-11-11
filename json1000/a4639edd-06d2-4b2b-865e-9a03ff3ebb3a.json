@@ -1,0 +1,37 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "2daecb4c-082b-46eb-81e0-d67fe3a53f89",
+    "name": "McKeesport",
+    "sort-name": "McKeesport"
+  },
+  "country": "US",
+  "gender": "Male",
+  "id": "a4639edd-06d2-4b2b-865e-9a03ff3ebb3a",
+  "isni-list": [
+    "0000000119533892"
+  ],
+  "life-span": {
+    "begin": "1928-03-24"
+  },
+  "name": "Byron Janis",
+  "sort-name": "Janis, Byron",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "american pianist"
+    },
+    {
+      "count": "1",
+      "name": "pianist"
+    }
+  ],
+  "type": "Person"
+}

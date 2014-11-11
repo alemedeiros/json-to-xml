@@ -1,0 +1,20 @@
+{
+  "area": {
+    "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+    "iso-3166-1-code-list": [
+      "RU"
+    ],
+    "name": "Russian Federation",
+    "sort-name": "Russian Federation"
+  },
+  "country": "RU",
+  "disambiguation": "progressive house",
+  "gender": "Male",
+  "id": "285faa93-38bb-4f22-b59c-accde82c98ed",
+  "life-span": {
+    "begin": "1987-01-10"
+  },
+  "name": "Arctic Night",
+  "sort-name": "Arctic Night",
+  "type": "Person"
+}

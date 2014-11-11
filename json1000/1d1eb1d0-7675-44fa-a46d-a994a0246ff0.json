@@ -1,0 +1,23 @@
+{
+  "id": "1d1eb1d0-7675-44fa-a46d-a994a0246ff0",
+  "life-span": {
+    "begin": "2003"
+  },
+  "name": "Crimson Orchid",
+  "sort-name": "Crimson Orchid",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "metalcore"
+    },
+    {
+      "count": "1",
+      "name": "progressive metal"
+    },
+    {
+      "count": "1",
+      "name": "progressive rock"
+    }
+  ],
+  "type": "Group"
+}

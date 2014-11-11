@@ -1,0 +1,18 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "a3c80cc6-634f-44eb-8e4a-acd24d9413bb",
+  "life-span": {
+    "begin": "1991"
+  },
+  "name": "Crimson Thorn",
+  "sort-name": "Crimson Thorn",
+  "type": "Group"
+}

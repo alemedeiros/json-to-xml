@@ -1,0 +1,26 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "De Nije Kast",
+      "sort-name": "De Nije Kast"
+    },
+    {
+      "alias": "De kast",
+      "sort-name": "De kast"
+    },
+    {
+      "alias": "Kast",
+      "sort-name": "Kast"
+    }
+  ],
+  "id": "d1793890-7d98-41f9-aa32-406576056139",
+  "life-span": {
+    "begin": "1987-02",
+    "end": "2004-07",
+    "ended": "true"
+  },
+  "name": "De Kast",
+  "sort-name": "Kast, De",
+  "type": "Group"
+}

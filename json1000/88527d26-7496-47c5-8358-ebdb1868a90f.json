@@ -1,0 +1,57 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Jackson Brown",
+      "sort-name": "Jackson Brown"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "eee2e250-e74b-4216-896d-ec1980ea123c",
+    "name": "Heidelberg",
+    "sort-name": "Heidelberg"
+  },
+  "country": "US",
+  "gender": "Male",
+  "id": "88527d26-7496-47c5-8358-ebdb1868a90f",
+  "ipi": "00004365023",
+  "ipi-list": [
+    "00004365023",
+    "00581172355"
+  ],
+  "isni-list": [
+    "0000000078272285"
+  ],
+  "life-span": {
+    "begin": "1948-10-09"
+  },
+  "name": "Jackson Browne",
+  "rating": {
+    "rating": "5",
+    "votes-count": "1"
+  },
+  "sort-name": "Browne, Jackson",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "classic pop and rock"
+    },
+    {
+      "count": "1",
+      "name": "folk"
+    },
+    {
+      "count": "1",
+      "name": "multiple ipi"
+    }
+  ],
+  "type": "Person"
+}

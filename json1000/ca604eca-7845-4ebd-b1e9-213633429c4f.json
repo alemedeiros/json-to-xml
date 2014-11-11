@@ -1,0 +1,21 @@
+{
+  "area": {
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+    "iso-3166-1-code-list": [
+      "SE"
+    ],
+    "name": "Sweden",
+    "sort-name": "Sweden"
+  },
+  "country": "SE",
+  "disambiguation": "Swedish band",
+  "id": "ca604eca-7845-4ebd-b1e9-213633429c4f",
+  "life-span": {
+    "begin": "1994",
+    "end": "2000",
+    "ended": "true"
+  },
+  "name": "Monster",
+  "sort-name": "Monster",
+  "type": "Group"
+}

@@ -1,0 +1,51 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Daft Punk vs. Stardust",
+      "sort-name": "Daft Punk vs. Stardust"
+    }
+  ],
+  "area": {
+    "id": "08310658-51eb-3801-80de-5a0739207115",
+    "iso-3166-1-code-list": [
+      "FR"
+    ],
+    "name": "France",
+    "sort-name": "France"
+  },
+  "begin-area": {
+    "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+    "iso-3166-2-code-list": [
+      "FR-75"
+    ],
+    "name": "Paris",
+    "sort-name": "Paris"
+  },
+  "country": "FR",
+  "disambiguation": "one-time house project \"Music Sounds Better With You\"",
+  "end-area": {
+    "id": "c7ee402c-0137-4931-a72e-a262796c0d16",
+    "name": "Montpellier",
+    "sort-name": "Montpellier"
+  },
+  "id": "7b75e88a-f211-4886-8c3d-dd9d7171eee5",
+  "life-span": {
+    "begin": "1997-12",
+    "end": "1998-08",
+    "ended": "true"
+  },
+  "name": "Stardust",
+  "rating": {
+    "rating": "5",
+    "votes-count": "2"
+  },
+  "sort-name": "Stardust",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "house"
+    }
+  ],
+  "type": "Group"
+}

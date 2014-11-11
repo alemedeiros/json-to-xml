@@ -1,0 +1,84 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Cope, Julian",
+      "sort-name": "Cope, Julian"
+    },
+    {
+      "alias": "Juilan Cope",
+      "sort-name": "Juilan Cope"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "begin-area": {
+    "id": "f40a6a2b-8d0e-4bae-b571-d8505ba77952",
+    "name": "Deri, Caerphilly",
+    "sort-name": "Deri, Caerphilly"
+  },
+  "country": "GB",
+  "gender": "Male",
+  "id": "09d878d8-bc2e-4d04-b4aa-57ab614f93ab",
+  "ipi": "00047064390",
+  "ipi-list": [
+    "00047064390"
+  ],
+  "isni-list": [
+    "0000000077254712"
+  ],
+  "life-span": {
+    "begin": "1957-10-21"
+  },
+  "name": "Julian Cope",
+  "rating": {
+    "rating": "4",
+    "votes-count": "1"
+  },
+  "sort-name": "Cope, Julian",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "alternative"
+    },
+    {
+      "count": "1",
+      "name": "alternative rock"
+    },
+    {
+      "count": "1",
+      "name": "british"
+    },
+    {
+      "count": "1",
+      "name": "england"
+    },
+    {
+      "count": "1",
+      "name": "post-punk"
+    },
+    {
+      "count": "1",
+      "name": "psychedelic rock"
+    },
+    {
+      "count": "2",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    },
+    {
+      "count": "1",
+      "name": "uk"
+    }
+  ],
+  "type": "Person"
+}

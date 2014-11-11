@@ -1,0 +1,82 @@
+{
+  "alias-count": 13,
+  "alias-list": [
+    {
+      "alias": "Eric Gorfain and the Section",
+      "sort-name": "Eric Gorfain and the Section"
+    },
+    {
+      "alias": "String Quartet",
+      "sort-name": "String Quartet"
+    },
+    {
+      "alias": "The Section",
+      "sort-name": "The Section"
+    },
+    {
+      "alias": "The Section String Quartet",
+      "sort-name": "The Section String Quartet"
+    },
+    {
+      "alias": "The String Quartet",
+      "sort-name": "The String Quartet"
+    },
+    {
+      "alias": "The String Quartet Tribute to 311",
+      "sort-name": "The String Quartet Tribute to 311"
+    },
+    {
+      "alias": "The String Quartet Tribute to Coldplay",
+      "sort-name": "The String Quartet Tribute to Coldplay"
+    },
+    {
+      "alias": "The String Quartet Tribute to Disturbed",
+      "sort-name": "The String Quartet Tribute to Disturbed"
+    },
+    {
+      "alias": "The String Quartet Tribute to Incubus",
+      "sort-name": "The String Quartet Tribute to Incubus"
+    },
+    {
+      "alias": "The String Quartet Tribute to Nine Inch Nails",
+      "sort-name": "The String Quartet Tribute to Nine Inch Nails"
+    },
+    {
+      "alias": "The String Quartet Tribute to Tool",
+      "sort-name": "The String Quartet Tribute to Tool"
+    },
+    {
+      "alias": "The String Tribute to System of a Down",
+      "sort-name": "The String Tribute to System of a Down"
+    },
+    {
+      "alias": "The String Tribute to TOOL",
+      "sort-name": "The String Tribute to TOOL"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+    "name": "Los Angeles",
+    "sort-name": "Los Angeles"
+  },
+  "country": "US",
+  "id": "2b5929bc-ffbf-496b-a66f-90dae13cbfe7",
+  "life-span": {
+    "begin": "1998"
+  },
+  "name": "The Section Quartet",
+  "rating": {
+    "rating": "4",
+    "votes-count": "1"
+  },
+  "sort-name": "Section Quartet, The",
+  "type": "Group"
+}

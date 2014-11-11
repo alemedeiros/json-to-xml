@@ -1,0 +1,29 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "The University of Michigan Band",
+      "sort-name": "The University of Michigan Band"
+    },
+    {
+      "alias": "The University of Michigan Marching Band",
+      "sort-name": "The University of Michigan Marching Band"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "ddc305d7-9ac6-40a7-944d-a8d15d38e21c",
+  "life-span": {
+    "begin": "1896"
+  },
+  "name": "University of Michigan Marching Band",
+  "sort-name": "University of Michigan Marching Band",
+  "type": "Group"
+}

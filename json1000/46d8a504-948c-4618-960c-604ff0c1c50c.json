@@ -1,0 +1,25 @@
+{
+  "area": {
+    "id": "3a28f05b-59e0-4aa1-9a79-b96f5ef6403b",
+    "iso-3166-2-code-list": [
+      "GB-YOR"
+    ],
+    "name": "York",
+    "sort-name": "York"
+  },
+  "begin-area": {
+    "id": "3a28f05b-59e0-4aa1-9a79-b96f5ef6403b",
+    "iso-3166-2-code-list": [
+      "GB-YOR"
+    ],
+    "name": "York",
+    "sort-name": "York"
+  },
+  "id": "46d8a504-948c-4618-960c-604ff0c1c50c",
+  "life-span": {
+    "begin": "2011"
+  },
+  "name": "Shot Down Stay Down",
+  "sort-name": "Down, Shot Down Stay",
+  "type": "Group"
+}

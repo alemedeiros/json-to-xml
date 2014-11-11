@@ -1,0 +1,18 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "d8178db1-3c89-4623-bc29-37c4e9ef37f3",
+  "life-span": {
+    "begin": "1994"
+  },
+  "name": "Crimson Moon",
+  "sort-name": "Crimson Moon",
+  "type": "Group"
+}

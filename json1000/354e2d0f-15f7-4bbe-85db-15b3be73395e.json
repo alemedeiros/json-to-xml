@@ -1,0 +1,30 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Riefu",
+      "sort-name": "Riefu"
+    },
+    {
+      "alias": "\u308a\u3048\u3075\u3045",
+      "sort-name": "\u308a\u3048\u3075\u3045"
+    }
+  ],
+  "area": {
+    "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+    "iso-3166-1-code-list": [
+      "JP"
+    ],
+    "name": "Japan",
+    "sort-name": "Japan"
+  },
+  "country": "JP",
+  "gender": "Female",
+  "id": "354e2d0f-15f7-4bbe-85db-15b3be73395e",
+  "life-span": {
+    "begin": "1985-01-11"
+  },
+  "name": "Rie fu",
+  "sort-name": "Rie fu",
+  "type": "Person"
+}

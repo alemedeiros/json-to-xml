@@ -1,0 +1,22 @@
+{
+  "area": {
+    "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+    "iso-3166-1-code-list": [
+      "AT"
+    ],
+    "name": "Austria",
+    "sort-name": "Austria"
+  },
+  "country": "AT",
+  "disambiguation": "Austrian double-bass player and composer",
+  "gender": "Male",
+  "id": "efc19cdb-86ab-4710-9ce5-b9f3ecbdb611",
+  "life-span": {
+    "begin": "1903",
+    "end": "1945",
+    "ended": "true"
+  },
+  "name": "Bernhard Alt",
+  "sort-name": "Alt, Bernhard",
+  "type": "Person"
+}

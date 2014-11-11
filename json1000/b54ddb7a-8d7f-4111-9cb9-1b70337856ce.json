@@ -1,0 +1,37 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Namie Amuro with SUPER MONKEY's",
+      "sort-name": "Namie Amuro with SUPER MONKEY's"
+    },
+    {
+      "alias": "\u5b89\u5ba4\u5948\u7f8e\u6075 with \u30b9\u30fc\u30d1\u30fc\u00b7\u30e2\u30f3\u30ad\u30fc\u30ba",
+      "sort-name": "\u5b89\u5ba4\u5948\u7f8e\u6075 with \u30b9\u30fc\u30d1\u30fc\u00b7\u30e2\u30f3\u30ad\u30fc\u30ba"
+    }
+  ],
+  "area": {
+    "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+    "iso-3166-1-code-list": [
+      "JP"
+    ],
+    "name": "Japan",
+    "sort-name": "Japan"
+  },
+  "country": "JP",
+  "id": "b54ddb7a-8d7f-4111-9cb9-1b70337856ce",
+  "life-span": {
+    "begin": "1992",
+    "end": "1995",
+    "ended": "true"
+  },
+  "name": "SUPER MONKEY'S",
+  "sort-name": "SUPER MONKEY'S",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "japanese"
+    }
+  ],
+  "type": "Group"
+}

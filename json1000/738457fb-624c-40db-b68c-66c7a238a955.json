@@ -1,0 +1,50 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "begin-area": {
+    "id": "c249c30e-88ab-4b2f-a745-96a25bd7afee",
+    "iso-3166-2-code-list": [
+      "GB-LIV"
+    ],
+    "name": "Liverpool",
+    "sort-name": "Liverpool"
+  },
+  "country": "GB",
+  "disambiguation": "UK indie pop musician Colin Vearncombe",
+  "gender": "Male",
+  "id": "738457fb-624c-40db-b68c-66c7a238a955",
+  "life-span": {
+    "begin": "1962-05-26"
+  },
+  "name": "Black",
+  "rating": {
+    "rating": "4.5",
+    "votes-count": "2"
+  },
+  "sort-name": "Black",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "british"
+    },
+    {
+      "count": "1",
+      "name": "english"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    },
+    {
+      "count": "1",
+      "name": "uk"
+    }
+  ],
+  "type": "Person"
+}

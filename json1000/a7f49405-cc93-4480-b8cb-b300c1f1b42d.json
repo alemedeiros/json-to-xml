@@ -1,0 +1,15 @@
+{
+  "area": {
+    "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+    "iso-3166-1-code-list": [
+      "NZ"
+    ],
+    "name": "New Zealand",
+    "sort-name": "New Zealand"
+  },
+  "country": "NZ",
+  "id": "a7f49405-cc93-4480-b8cb-b300c1f1b42d",
+  "name": "Space Cake",
+  "sort-name": "Space Cake",
+  "type": "Group"
+}

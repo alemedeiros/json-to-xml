@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "iso-3166-1-code-list": [
+      "AR"
+    ],
+    "name": "Argentina",
+    "sort-name": "Argentina"
+  },
+  "country": "AR",
+  "gender": "Male",
+  "id": "32291f41-3cd8-45e2-ba21-42d13fc3f92b",
+  "life-span": {
+    "begin": "1945-07-23"
+  },
+  "name": "\u00c1ngel \"Pato\" Garc\u00eda",
+  "sort-name": "Garc\u00eda, \u00c1ngel \"Pato\"",
+  "type": "Person"
+}

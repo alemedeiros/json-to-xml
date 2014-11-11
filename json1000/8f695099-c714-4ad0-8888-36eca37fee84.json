@@ -1,0 +1,49 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "disambiguation": "UK Progressive Rock",
+  "id": "8f695099-c714-4ad0-8888-36eca37fee84",
+  "life-span": {
+    "begin": "1981"
+  },
+  "name": "Asia",
+  "rating": {
+    "rating": "2.75",
+    "votes-count": "4"
+  },
+  "sort-name": "Asia",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "british"
+    },
+    {
+      "count": "1",
+      "name": "classic pop and rock"
+    },
+    {
+      "count": "1",
+      "name": "english"
+    },
+    {
+      "count": "1",
+      "name": "progressive rock"
+    },
+    {
+      "count": "1",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "uk"
+    }
+  ],
+  "type": "Group"
+}

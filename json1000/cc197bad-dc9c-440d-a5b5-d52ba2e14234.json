@@ -1,0 +1,98 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Cold Play",
+      "sort-name": "Cold Play",
+      "type": "Search hint"
+    },
+    {
+      "alias": "The Coldplay",
+      "end-date": "1998",
+      "sort-name": "Coldplay, The",
+      "type": "Artist name"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "begin-area": {
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "name": "London",
+    "sort-name": "London"
+  },
+  "country": "GB",
+  "id": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+  "isni-list": [
+    "000000011551394X"
+  ],
+  "life-span": {
+    "begin": "1996-09"
+  },
+  "name": "Coldplay",
+  "rating": {
+    "rating": "4.35",
+    "votes-count": "24"
+  },
+  "sort-name": "Coldplay",
+  "tag-list": [
+    {
+      "count": "2",
+      "name": "alternative rock"
+    },
+    {
+      "count": "1",
+      "name": "britannique"
+    },
+    {
+      "count": "3",
+      "name": "british"
+    },
+    {
+      "count": "1",
+      "name": "chapel"
+    },
+    {
+      "count": "1",
+      "name": "english"
+    },
+    {
+      "count": "1",
+      "name": "parlophone"
+    },
+    {
+      "count": "1",
+      "name": "piano pop"
+    },
+    {
+      "count": "1",
+      "name": "piano rock"
+    },
+    {
+      "count": "1",
+      "name": "pop rock"
+    },
+    {
+      "count": "1",
+      "name": "pop/rock"
+    },
+    {
+      "count": "2",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    },
+    {
+      "count": "3",
+      "name": "uk"
+    }
+  ],
+  "type": "Group"
+}

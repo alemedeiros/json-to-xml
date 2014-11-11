@@ -1,0 +1,18 @@
+{
+  "area": {
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+    "iso-3166-1-code-list": [
+      "SE"
+    ],
+    "name": "Sweden",
+    "sort-name": "Sweden"
+  },
+  "country": "SE",
+  "id": "bb5a67a6-2621-48cd-9208-e4d1476f4049",
+  "life-span": {
+    "begin": "1993"
+  },
+  "name": "Face Down",
+  "sort-name": "Face Down",
+  "type": "Group"
+}

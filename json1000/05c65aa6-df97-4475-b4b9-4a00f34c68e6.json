@@ -1,0 +1,50 @@
+{
+  "alias-count": 4,
+  "alias-list": [
+    {
+      "alias": "J\u0101nis Dzintarnieks",
+      "locale": "lv",
+      "sort-name": "Dzintarnieks, J\u0101nis",
+      "type": "Artist name"
+    },
+    {
+      "alias": "J\u0101nis Reinholds",
+      "locale": "lv",
+      "primary": "primary",
+      "sort-name": "Reinholds, J\u0101nis",
+      "type": "Legal name"
+    },
+    {
+      "alias": "Trak\u0101 Dore",
+      "locale": "lv",
+      "sort-name": "Trak\u0101 Dore",
+      "type": "Artist name"
+    },
+    {
+      "alias": "Venti\u0146u Vents",
+      "locale": "lv",
+      "sort-name": "Venti\u0146u Vents",
+      "type": "Artist name"
+    }
+  ],
+  "area": {
+    "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+    "iso-3166-1-code-list": [
+      "LV"
+    ],
+    "name": "Latvia",
+    "sort-name": "Latvia"
+  },
+  "country": "LV",
+  "disambiguation": "Aka \"Venti\u0146u Vents\" and \"J\u0101nis Dzintarnieks\"",
+  "gender": "Male",
+  "id": "05c65aa6-df97-4475-b4b9-4a00f34c68e6",
+  "life-span": {
+    "begin": "1896",
+    "end": "1933",
+    "ended": "true"
+  },
+  "name": "J\u0101nis Reinholds",
+  "sort-name": "Reinholds, J\u0101nis",
+  "type": "Person"
+}

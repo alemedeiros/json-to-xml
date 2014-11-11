@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "5c1b82f4-cd09-41cb-a3cb-67190a7748a6",
+  "name": "Circa:",
+  "rating": {
+    "rating": "5",
+    "votes-count": "1"
+  },
+  "sort-name": "Circa:",
+  "type": "Group"
+}

@@ -1,0 +1,31 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Olli Wunderkynd Banjo",
+      "sort-name": "Olli Wunderkynd Banjo"
+    }
+  ],
+  "area": {
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+    "iso-3166-1-code-list": [
+      "DE"
+    ],
+    "name": "Germany",
+    "sort-name": "Germany"
+  },
+  "begin-area": {
+    "id": "eee2e250-e74b-4216-896d-ec1980ea123c",
+    "name": "Heidelberg",
+    "sort-name": "Heidelberg"
+  },
+  "country": "DE",
+  "gender": "Male",
+  "id": "b2147fa3-b035-49bb-9f51-595db592f231",
+  "life-span": {
+    "begin": "1977-01-12"
+  },
+  "name": "Olli Banjo",
+  "sort-name": "Banjo, Olli",
+  "type": "Person"
+}

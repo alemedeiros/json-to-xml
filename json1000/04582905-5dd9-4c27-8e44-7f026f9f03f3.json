@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "iso-3166-1-code-list": [
+      "AR"
+    ],
+    "name": "Argentina",
+    "sort-name": "Argentina"
+  },
+  "country": "AR",
+  "gender": "Male",
+  "id": "04582905-5dd9-4c27-8e44-7f026f9f03f3",
+  "life-span": {
+    "begin": "1919-11-13"
+  },
+  "name": "Atilio Bruni",
+  "sort-name": "Bruni, Atilio",
+  "type": "Person"
+}

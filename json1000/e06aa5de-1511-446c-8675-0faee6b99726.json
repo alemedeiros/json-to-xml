@@ -1,0 +1,28 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "ae0110b6-13d4-4998-9116-5b926287aa23",
+    "iso-3166-2-code-list": [
+      "US-CA"
+    ],
+    "name": "California",
+    "sort-name": "California"
+  },
+  "country": "US",
+  "disambiguation": "Oh No",
+  "gender": "Male",
+  "id": "e06aa5de-1511-446c-8675-0faee6b99726",
+  "life-span": {
+    "begin": "1979-11-06"
+  },
+  "name": "Michael Jackson",
+  "sort-name": "Jackson, Michael",
+  "type": "Person"
+}

@@ -1,0 +1,18 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "4f2dd95f-1a4f-4f76-a422-18bc85d8d029",
+  "life-span": {
+    "begin": "1973-03-31"
+  },
+  "name": "Rain Phoenix",
+  "sort-name": "Phoenix, Rain",
+  "type": "Person"
+}

@@ -1,0 +1,16 @@
+{
+  "area": {
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+    "iso-3166-1-code-list": [
+      "SE"
+    ],
+    "name": "Sweden",
+    "sort-name": "Sweden"
+  },
+  "country": "SE",
+  "disambiguation": "Swedish artist",
+  "id": "9a47029c-aba7-43c5-94c1-3b67834395b7",
+  "name": "Joy",
+  "sort-name": "Joy",
+  "type": "Person"
+}

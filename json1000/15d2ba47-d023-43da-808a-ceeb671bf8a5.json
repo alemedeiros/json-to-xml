@@ -1,0 +1,33 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "8293dc49-e4e1-4d29-8395-14fe2500c7ae",
+    "name": "Fresno",
+    "sort-name": "Fresno"
+  },
+  "country": "US",
+  "gender": "Male",
+  "id": "15d2ba47-d023-43da-808a-ceeb671bf8a5",
+  "isni-list": [
+    "0000000041429568"
+  ],
+  "life-span": {
+    "begin": "1976-10-24"
+  },
+  "name": "Planet Asia",
+  "sort-name": "Planet Asia",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "hip hop"
+    }
+  ],
+  "type": "Person"
+}

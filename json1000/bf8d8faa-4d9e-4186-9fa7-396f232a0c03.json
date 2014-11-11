@@ -1,0 +1,27 @@
+{
+  "area": {
+    "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+    "iso-3166-1-code-list": [
+      "LV"
+    ],
+    "name": "Latvia",
+    "sort-name": "Latvia"
+  },
+  "country": "LV",
+  "gender": "Male",
+  "id": "bf8d8faa-4d9e-4186-9fa7-396f232a0c03",
+  "life-span": {
+    "begin": "1906-10-09",
+    "end": "1983-03-27",
+    "ended": "true"
+  },
+  "name": "J\u0101nis Ivanovs",
+  "sort-name": "Ivanovs, J\u0101nis",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "latvian"
+    }
+  ],
+  "type": "Person"
+}

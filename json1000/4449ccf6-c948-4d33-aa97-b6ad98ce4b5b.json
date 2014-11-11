@@ -1,0 +1,61 @@
+{
+  "area": {
+    "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+    "iso-3166-1-code-list": [
+      "CA"
+    ],
+    "name": "Canada",
+    "sort-name": "Canada"
+  },
+  "begin-area": {
+    "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+    "name": "Toronto",
+    "sort-name": "Toronto"
+  },
+  "country": "CA",
+  "disambiguation": "indie rock",
+  "id": "4449ccf6-c948-4d33-aa97-b6ad98ce4b5b",
+  "isni-list": [
+    "0000000110905178"
+  ],
+  "life-span": {
+    "begin": "1998"
+  },
+  "name": "Metric",
+  "rating": {
+    "rating": "4.6",
+    "votes-count": "5"
+  },
+  "sort-name": "Metric",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "00s"
+    },
+    {
+      "count": "1",
+      "name": "10s"
+    },
+    {
+      "count": "2",
+      "name": "canada"
+    },
+    {
+      "count": "1",
+      "name": "electronic"
+    },
+    {
+      "count": "1",
+      "name": "female vocalists"
+    },
+    {
+      "count": "1",
+      "name": "pop"
+    },
+    {
+      "count": "1",
+      "name": "soft rock"
+    }
+  ],
+  "type": "Group"
+}

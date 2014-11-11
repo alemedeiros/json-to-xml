@@ -1,0 +1,54 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "J\u0101nis Bite",
+      "sort-name": "J\u0101nis Bite",
+      "type": "Search hint"
+    },
+    {
+      "alias": "J\u0101nis Medi\u0146\u0161",
+      "locale": "lv",
+      "sort-name": "Medi\u0146\u0161, J\u0101nis",
+      "type": "Legal name"
+    }
+  ],
+  "area": {
+    "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+    "iso-3166-1-code-list": [
+      "LV"
+    ],
+    "name": "Latvia",
+    "sort-name": "Latvia"
+  },
+  "begin-area": {
+    "id": "9c612199-d66f-4109-aedc-67ab26e0a43b",
+    "iso-3166-2-code-list": [
+      "LV-RIX"
+    ],
+    "name": "R\u012bga",
+    "sort-name": "R\u012bga"
+  },
+  "country": "LV",
+  "end-area": {
+    "id": "1127ddc2-eab3-4662-8718-6adbdeea3b10",
+    "name": "Stockholm",
+    "sort-name": "Stockholm"
+  },
+  "gender": "Male",
+  "id": "c5d6fe50-68b5-46b5-8f27-2efa2582057a",
+  "life-span": {
+    "begin": "1890-10-09",
+    "end": "1966-03-04",
+    "ended": "true"
+  },
+  "name": "J\u0101nis Medi\u0146\u0161",
+  "sort-name": "Medi\u0146\u0161, J\u0101nis",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "latvian"
+    }
+  ],
+  "type": "Person"
+}

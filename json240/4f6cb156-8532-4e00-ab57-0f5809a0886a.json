@@ -1,0 +1,21 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "Ike & Tina's Kings of Rhythm",
+      "sort-name": "Ike & Tina's Kings of Rhythm"
+    },
+    {
+      "alias": "Ike Turner & The Kings of Rhythm",
+      "sort-name": "Ike Turner & The Kings of Rhythm"
+    },
+    {
+      "alias": "Ike Turner and his Kings of Rhythm",
+      "sort-name": "Ike Turner and his Kings of Rhythm"
+    }
+  ],
+  "id": "4f6cb156-8532-4e00-ab57-0f5809a0886a",
+  "name": "Ike Turner's Kings of Rhythm",
+  "sort-name": "Turner, Ike, Kings of Rhythm",
+  "type": "Group"
+}

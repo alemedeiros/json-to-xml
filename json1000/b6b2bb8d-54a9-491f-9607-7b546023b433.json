@@ -1,0 +1,75 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Poxies",
+      "sort-name": "Poxies"
+    },
+    {
+      "alias": "The Pixies",
+      "sort-name": "The Pixies"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "e331bfdf-b908-429c-a79b-710cf9c06abb",
+    "name": "Boston",
+    "sort-name": "Boston"
+  },
+  "country": "US",
+  "id": "b6b2bb8d-54a9-491f-9607-7b546023b433",
+  "isni-list": [
+    "0000000109426540"
+  ],
+  "life-span": {
+    "begin": "1986"
+  },
+  "name": "Pixies",
+  "rating": {
+    "rating": "4.35",
+    "votes-count": "12"
+  },
+  "sort-name": "Pixies",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "4ad"
+    },
+    {
+      "count": "3",
+      "name": "alternative rock"
+    },
+    {
+      "count": "2",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "am\u00e9ricain"
+    },
+    {
+      "count": "1",
+      "name": "indie rock"
+    },
+    {
+      "count": "1",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    },
+    {
+      "count": "1",
+      "name": "usa"
+    }
+  ],
+  "type": "Group"
+}

@@ -1,0 +1,23 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Eon Project",
+      "sort-name": "Eon Project"
+    }
+  ],
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "iso-3166-1-code-list": [
+      "IT"
+    ],
+    "name": "Italy",
+    "sort-name": "Italy"
+  },
+  "country": "IT",
+  "disambiguation": "electronic, goa trance/breaks",
+  "id": "5ba98d56-5dda-4348-b16b-64cc47650bcf",
+  "name": "E:O:N: Project",
+  "sort-name": "E:O:N: Project",
+  "type": "Group"
+}

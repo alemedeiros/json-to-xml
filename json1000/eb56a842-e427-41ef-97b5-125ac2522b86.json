@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+    "iso-3166-1-code-list": [
+      "PL"
+    ],
+    "name": "Poland",
+    "sort-name": "Poland"
+  },
+  "country": "PL",
+  "gender": "Male",
+  "id": "eb56a842-e427-41ef-97b5-125ac2522b86",
+  "life-span": {
+    "begin": "1988"
+  },
+  "name": "Arctic Moon",
+  "sort-name": "Arctic Moon",
+  "type": "Person"
+}

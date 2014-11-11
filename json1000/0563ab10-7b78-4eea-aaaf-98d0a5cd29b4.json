@@ -1,0 +1,52 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "0563ab10-7b78-4eea-aaaf-98d0a5cd29b4",
+  "life-span": {
+    "begin": "2012-01-31"
+  },
+  "name": "The Elephant Trio",
+  "sort-name": "Elephant Trio, The",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "british"
+    },
+    {
+      "count": "1",
+      "name": "jazz"
+    },
+    {
+      "count": "1",
+      "name": "keyboards"
+    },
+    {
+      "count": "1",
+      "name": "original instrumental compositions"
+    },
+    {
+      "count": "1",
+      "name": "original songs"
+    },
+    {
+      "count": "1",
+      "name": "percussion"
+    },
+    {
+      "count": "1",
+      "name": "trombone"
+    },
+    {
+      "count": "1",
+      "name": "vocals"
+    }
+  ],
+  "type": "Group"
+}

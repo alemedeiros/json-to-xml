@@ -1,0 +1,33 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "begin-area": {
+    "id": "39558a32-af09-4c02-9315-d36032a16a01",
+    "name": "Washington",
+    "sort-name": "Washington"
+  },
+  "country": "GB",
+  "id": "d3b17fa2-6c18-412d-9698-a93687f0965f",
+  "life-span": {
+    "begin": "1979"
+  },
+  "name": "Murder the Disturbed",
+  "sort-name": "Murder the Disturbed",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "england"
+    },
+    {
+      "count": "1",
+      "name": "punk"
+    }
+  ],
+  "type": "Group"
+}

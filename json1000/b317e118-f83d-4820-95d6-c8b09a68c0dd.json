@@ -1,0 +1,20 @@
+{
+  "area": {
+    "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+    "iso-3166-1-code-list": [
+      "CZ"
+    ],
+    "life-span": {
+      "begin": "1993-01-01"
+    },
+    "name": "Czech Republic",
+    "sort-name": "Czech Republic"
+  },
+  "country": "CZ",
+  "disambiguation": "Czech hiphop artist",
+  "gender": "Male",
+  "id": "b317e118-f83d-4820-95d6-c8b09a68c0dd",
+  "name": "Alex",
+  "sort-name": "Alex",
+  "type": "Person"
+}

@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+    "iso-3166-1-code-list": [
+      "NL"
+    ],
+    "name": "Netherlands",
+    "sort-name": "Netherlands"
+  },
+  "country": "NL",
+  "id": "84bcf224-7b77-4239-aa17-025fb9d5c303",
+  "life-span": {
+    "begin": "2002",
+    "ended": "true"
+  },
+  "name": "Led Astray",
+  "sort-name": "Led Astray",
+  "type": "Group"
+}

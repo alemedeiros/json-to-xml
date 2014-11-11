@@ -1,0 +1,24 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "J\u0101nis",
+      "locale": "lv",
+      "sort-name": "J\u0101nis"
+    }
+  ],
+  "area": {
+    "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+    "iso-3166-1-code-list": [
+      "LV"
+    ],
+    "name": "Latvia",
+    "sort-name": "Latvia"
+  },
+  "country": "LV",
+  "gender": "Male",
+  "id": "9402e62a-823e-4846-be3c-812ac465cad5",
+  "name": "J\u0101nis Jansons",
+  "sort-name": "Jansons, J\u0101nis",
+  "type": "Person"
+}

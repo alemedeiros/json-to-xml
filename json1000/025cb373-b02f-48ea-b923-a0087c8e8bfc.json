@@ -1,0 +1,18 @@
+{
+  "area": {
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+    "iso-3166-1-code-list": [
+      "SE"
+    ],
+    "name": "Sweden",
+    "sort-name": "Sweden"
+  },
+  "country": "SE",
+  "id": "025cb373-b02f-48ea-b923-a0087c8e8bfc",
+  "life-span": {
+    "begin": "1997"
+  },
+  "name": "Crimson Moonlight",
+  "sort-name": "Crimson Moonlight",
+  "type": "Group"
+}

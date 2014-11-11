@@ -1,0 +1,60 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "6a65d878-fcd0-42cf-aff9-ca1d636a8bcc",
+  "life-span": {
+    "begin": "2005"
+  },
+  "name": "Foals",
+  "rating": {
+    "rating": "4.25",
+    "votes-count": "4"
+  },
+  "sort-name": "Foals",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "composer"
+    },
+    {
+      "count": "1",
+      "name": "compositeur"
+    },
+    {
+      "count": "1",
+      "name": "indie rock"
+    },
+    {
+      "count": "1",
+      "name": "lyricist"
+    },
+    {
+      "count": "2",
+      "name": "math rock"
+    },
+    {
+      "count": "1",
+      "name": "oxford"
+    },
+    {
+      "count": "1",
+      "name": "parolier"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    },
+    {
+      "count": "1",
+      "name": "uk"
+    }
+  ],
+  "type": "Group"
+}

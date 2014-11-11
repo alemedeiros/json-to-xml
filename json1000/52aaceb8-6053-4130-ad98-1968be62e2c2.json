@@ -1,0 +1,21 @@
+{
+  "area": {
+    "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+    "iso-3166-1-code-list": [
+      "JP"
+    ],
+    "name": "Japan",
+    "sort-name": "Japan"
+  },
+  "country": "JP",
+  "disambiguation": "avex Japanese group",
+  "id": "52aaceb8-6053-4130-ad98-1968be62e2c2",
+  "life-span": {
+    "begin": "2000-01-01",
+    "end": "2005-06-25",
+    "ended": "true"
+  },
+  "name": "dream",
+  "sort-name": "dream",
+  "type": "Group"
+}

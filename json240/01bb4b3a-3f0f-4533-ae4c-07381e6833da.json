@@ -1,0 +1,22 @@
+{
+  "area": {
+    "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+    "iso-3166-1-code-list": [
+      "CA"
+    ],
+    "name": "Canada",
+    "sort-name": "Canada"
+  },
+  "country": "CA",
+  "id": "01bb4b3a-3f0f-4533-ae4c-07381e6833da",
+  "life-span": {
+    "begin": "2006"
+  },
+  "name": "Said the Whale",
+  "rating": {
+    "rating": "5",
+    "votes-count": "1"
+  },
+  "sort-name": "Said the Whale",
+  "type": "Group"
+}

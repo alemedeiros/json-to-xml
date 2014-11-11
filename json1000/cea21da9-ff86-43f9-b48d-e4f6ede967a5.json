@@ -1,0 +1,18 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Ferdinand Neumair",
+      "sort-name": "Ferdinand Neumair"
+    }
+  ],
+  "id": "cea21da9-ff86-43f9-b48d-e4f6ede967a5",
+  "life-span": {
+    "begin": "1890-09-08",
+    "end": "1969-03-24",
+    "ended": "true"
+  },
+  "name": "Ferdinand Neumaier",
+  "sort-name": "Neumaier, Ferdinand",
+  "type": "Person"
+}

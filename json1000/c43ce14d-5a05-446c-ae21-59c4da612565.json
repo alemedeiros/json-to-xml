@@ -1,0 +1,37 @@
+{
+  "alias-count": 4,
+  "alias-list": [
+    {
+      "alias": "G. Rag Y Los Hermanos Patchekos",
+      "sort-name": "G. Rag Y Los Hermanos Patchekos"
+    },
+    {
+      "alias": "G.Rag + Hermanos Patchekos",
+      "sort-name": "G.Rag + Hermanos Patchekos"
+    },
+    {
+      "alias": "G.Rag Y Los Hermanos Patcheko",
+      "sort-name": "G.Rag Y Los Hermanos Patcheko"
+    },
+    {
+      "alias": "GRag Y Los Hermanos Patchekos",
+      "sort-name": "GRag Y Los Hermanos Patchekos"
+    }
+  ],
+  "area": {
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+    "iso-3166-1-code-list": [
+      "DE"
+    ],
+    "name": "Germany",
+    "sort-name": "Germany"
+  },
+  "country": "DE",
+  "id": "c43ce14d-5a05-446c-ae21-59c4da612565",
+  "life-span": {
+    "begin": "1999"
+  },
+  "name": "G.Rag y los Hermanos Patchekos",
+  "sort-name": "G.Rag y Hermanos Patchekos, los",
+  "type": "Group"
+}

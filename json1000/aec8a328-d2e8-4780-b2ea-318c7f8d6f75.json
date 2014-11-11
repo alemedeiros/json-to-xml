@@ -1,0 +1,62 @@
+{
+  "alias-count": 4,
+  "alias-list": [
+    {
+      "alias": "Joplin",
+      "sort-name": "Joplin"
+    },
+    {
+      "alias": "Scot Joplin",
+      "sort-name": "Scot Joplin"
+    },
+    {
+      "alias": "Scott Joplin (1868-1917)",
+      "sort-name": "Scott Joplin (1868-1917)"
+    },
+    {
+      "alias": "\u30b8\u30e7\u30d7\u30ea\u30f3",
+      "sort-name": "\u30b8\u30e7\u30d7\u30ea\u30f3"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "f934c8da-e40e-4056-8f8c-212e68fdcaec",
+    "iso-3166-2-code-list": [
+      "US-TX"
+    ],
+    "name": "Texas",
+    "sort-name": "Texas"
+  },
+  "country": "US",
+  "end-area": {
+    "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+    "name": "New York",
+    "sort-name": "New York"
+  },
+  "gender": "Male",
+  "id": "aec8a328-d2e8-4780-b2ea-318c7f8d6f75",
+  "isni-list": [
+    "0000000109045211"
+  ],
+  "life-span": {
+    "begin": "1868-11-24",
+    "end": "1917-04-01",
+    "ended": "true"
+  },
+  "name": "Scott Joplin",
+  "sort-name": "Joplin, Scott",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "death by syphilis"
+    }
+  ],
+  "type": "Person"
+}

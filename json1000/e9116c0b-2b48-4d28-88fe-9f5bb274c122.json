@@ -1,0 +1,25 @@
+{
+  "area": {
+    "id": "08310658-51eb-3801-80de-5a0739207115",
+    "iso-3166-1-code-list": [
+      "FR"
+    ],
+    "name": "France",
+    "sort-name": "France"
+  },
+  "country": "FR",
+  "id": "e9116c0b-2b48-4d28-88fe-9f5bb274c122",
+  "name": "Maximum Boycott",
+  "sort-name": "Maximum Boycott",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "france"
+    },
+    {
+      "count": "1",
+      "name": "punk"
+    }
+  ],
+  "type": "Group"
+}

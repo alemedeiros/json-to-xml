@@ -1,0 +1,55 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Noah & the Whale",
+      "sort-name": "Noah & the Whale"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "917bc621-ad02-477d-9308-a0304c5f9727",
+  "life-span": {
+    "begin": "2006"
+  },
+  "name": "Noah and the Whale",
+  "rating": {
+    "rating": "4.5",
+    "votes-count": "2"
+  },
+  "sort-name": "Noah and the Whale",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "british"
+    },
+    {
+      "count": "1",
+      "name": "folk"
+    },
+    {
+      "count": "1",
+      "name": "folk rock"
+    },
+    {
+      "count": "1",
+      "name": "indie"
+    },
+    {
+      "count": "1",
+      "name": "indie folk"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    }
+  ],
+  "type": "Group"
+}

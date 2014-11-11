@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "disambiguation": "David Nuss, Jamie Myers and Jex Thoth",
+  "id": "57fd7983-ad98-4aa2-9319-6b2ee8281c50",
+  "life-span": {
+    "begin": "2009"
+  },
+  "name": "Sabbath Assembly",
+  "sort-name": "Sabbath Assembly",
+  "type": "Group"
+}

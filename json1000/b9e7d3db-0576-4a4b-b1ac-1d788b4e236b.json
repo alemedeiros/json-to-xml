@@ -1,0 +1,27 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Breast Secreting Cake",
+      "sort-name": "Breast Secreting Cake"
+    }
+  ],
+  "area": {
+    "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+    "iso-3166-1-code-list": [
+      "NZ"
+    ],
+    "name": "New Zealand",
+    "sort-name": "New Zealand"
+  },
+  "country": "NZ",
+  "id": "b9e7d3db-0576-4a4b-b1ac-1d788b4e236b",
+  "life-span": {
+    "begin": "1991",
+    "end": "2007",
+    "ended": "true"
+  },
+  "name": "Bressa Creeting Cake",
+  "sort-name": "Bressa Creeting Cake",
+  "type": "Group"
+}

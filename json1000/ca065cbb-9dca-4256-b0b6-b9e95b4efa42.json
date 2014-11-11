@@ -1,0 +1,16 @@
+{
+  "area": {
+    "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+    "iso-3166-1-code-list": [
+      "NL"
+    ],
+    "name": "Netherlands",
+    "sort-name": "Netherlands"
+  },
+  "country": "NL",
+  "disambiguation": "Dutch euro house \"Joyride\"",
+  "id": "ca065cbb-9dca-4256-b0b6-b9e95b4efa42",
+  "name": "Joy",
+  "sort-name": "Joy",
+  "type": "Group"
+}

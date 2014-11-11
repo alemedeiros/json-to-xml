@@ -1,0 +1,38 @@
+{
+  "alias-count": 5,
+  "alias-list": [
+    {
+      "alias": "K.O.T.",
+      "sort-name": "K.O.T."
+    },
+    {
+      "alias": "King of Tomorrow",
+      "sort-name": "King of Tomorrow"
+    },
+    {
+      "alias": "Kings of Tommorow",
+      "sort-name": "Kings of Tommorow"
+    },
+    {
+      "alias": "Kings of Tommorrow",
+      "sort-name": "Kings of Tommorrow"
+    },
+    {
+      "alias": "Kings of tomorrow",
+      "sort-name": "Kings of tomorrow"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "8b391c81-dc53-4b0e-aa09-3d01292496e8",
+  "name": "Kings of Tomorrow",
+  "sort-name": "Kings of Tomorrow",
+  "type": "Group"
+}

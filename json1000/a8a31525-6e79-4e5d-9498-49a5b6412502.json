@@ -1,0 +1,29 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "a8a31525-6e79-4e5d-9498-49a5b6412502",
+  "name": "3 Daft Monkeys",
+  "sort-name": "3 Daft Monkeys",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "acoustic"
+    },
+    {
+      "count": "1",
+      "name": "english"
+    },
+    {
+      "count": "1",
+      "name": "folk"
+    }
+  ],
+  "type": "Group"
+}

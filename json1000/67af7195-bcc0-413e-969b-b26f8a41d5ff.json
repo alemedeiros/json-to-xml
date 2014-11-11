@@ -1,0 +1,66 @@
+{
+  "alias-count": 9,
+  "alias-list": [
+    {
+      "alias": "Choir of King's College",
+      "sort-name": "Choir of King's College"
+    },
+    {
+      "alias": "Choir of King's College Cambridge",
+      "sort-name": "Choir of King's College Cambridge"
+    },
+    {
+      "alias": "Choir of Kings College Chapel, Cambridge",
+      "sort-name": "Choir of Kings College Chapel, Cambridge"
+    },
+    {
+      "alias": "Choir of Kings College, Cambridge",
+      "sort-name": "Choir of Kings College, Cambridge"
+    },
+    {
+      "alias": "King's College Choir",
+      "sort-name": "King's College Choir"
+    },
+    {
+      "alias": "Kings College Choir",
+      "sort-name": "Kings College Choir"
+    },
+    {
+      "alias": "King\u2019s College Choir, Cambridge",
+      "sort-name": "King\u2019s College Choir, Cambridge"
+    },
+    {
+      "alias": "The Choir of King's College",
+      "sort-name": "The Choir of King's College"
+    },
+    {
+      "alias": "The Choir of King's College, Cambridge",
+      "sort-name": "The Choir of King's College, Cambridge"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "67af7195-bcc0-413e-969b-b26f8a41d5ff",
+  "isni-list": [
+    "0000000120342735"
+  ],
+  "life-span": {
+    "begin": "1441"
+  },
+  "name": "Choir of King\u2019s College, Cambridge",
+  "sort-name": "Choir of King\u2019s College, Cambridge",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "classical"
+    }
+  ],
+  "type": "Group"
+}

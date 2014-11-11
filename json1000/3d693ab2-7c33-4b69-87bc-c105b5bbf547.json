@@ -1,0 +1,53 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "TMGE",
+      "sort-name": "TMGE"
+    },
+    {
+      "alias": "The Michelle Gun Elephant",
+      "sort-name": "The Michelle Gun Elephant"
+    }
+  ],
+  "area": {
+    "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+    "iso-3166-1-code-list": [
+      "JP"
+    ],
+    "name": "Japan",
+    "sort-name": "Japan"
+  },
+  "country": "JP",
+  "id": "3d693ab2-7c33-4b69-87bc-c105b5bbf547",
+  "life-span": {
+    "begin": "1994",
+    "end": "2003-10",
+    "ended": "true"
+  },
+  "name": "Thee Michelle Gun Elephant",
+  "rating": {
+    "rating": "4",
+    "votes-count": "1"
+  },
+  "sort-name": "Thee Michelle Gun Elephant",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "fixme label mess"
+    },
+    {
+      "count": "1",
+      "name": "garage"
+    },
+    {
+      "count": "1",
+      "name": "japanese"
+    },
+    {
+      "count": "1",
+      "name": "kick ass"
+    }
+  ],
+  "type": "Group"
+}

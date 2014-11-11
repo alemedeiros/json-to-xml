@@ -1,0 +1,35 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "\uc6e8\uc77c",
+      "sort-name": "\uc6e8\uc77c"
+    }
+  ],
+  "area": {
+    "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+    "iso-3166-1-code-list": [
+      "KR"
+    ],
+    "name": "South Korea",
+    "sort-name": "South Korea"
+  },
+  "begin-area": {
+    "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+    "iso-3166-1-code-list": [
+      "KR"
+    ],
+    "name": "South Korea",
+    "sort-name": "South Korea"
+  },
+  "country": "KR",
+  "disambiguation": "Korean vocalist",
+  "gender": "Female",
+  "id": "6b368788-8e13-4e6d-8922-bca0fc780400",
+  "life-span": {
+    "begin": "1985-03-06"
+  },
+  "name": "Whale",
+  "sort-name": "Whale",
+  "type": "Person"
+}

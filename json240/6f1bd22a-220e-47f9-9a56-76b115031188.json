@@ -1,0 +1,16 @@
+{
+  "area": {
+    "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+    "iso-3166-1-code-list": [
+      "ES"
+    ],
+    "name": "Spain",
+    "sort-name": "Spain"
+  },
+  "country": "ES",
+  "gender": "Male",
+  "id": "6f1bd22a-220e-47f9-9a56-76b115031188",
+  "name": "Alt Fenster",
+  "sort-name": "Alt Fenster",
+  "type": "Person"
+}

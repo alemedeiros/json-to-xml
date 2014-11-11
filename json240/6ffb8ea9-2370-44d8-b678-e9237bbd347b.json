@@ -1,0 +1,72 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74",
+    "name": "Nashville",
+    "sort-name": "Nashville"
+  },
+  "country": "US",
+  "id": "6ffb8ea9-2370-44d8-b678-e9237bbd347b",
+  "isni-list": [
+    "0000000122901684"
+  ],
+  "life-span": {
+    "begin": "1999"
+  },
+  "name": "Kings of Leon",
+  "rating": {
+    "rating": "4.15",
+    "votes-count": "7"
+  },
+  "sort-name": "Kings of Leon",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "alternative rock"
+    },
+    {
+      "count": "2",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "am\u00e9ricain"
+    },
+    {
+      "count": "1",
+      "name": "garage rock"
+    },
+    {
+      "count": "1",
+      "name": "indie rock"
+    },
+    {
+      "count": "2",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    },
+    {
+      "count": "2",
+      "name": "southern rock"
+    },
+    {
+      "count": "1",
+      "name": "united states"
+    },
+    {
+      "count": "1",
+      "name": "usa"
+    }
+  ],
+  "type": "Group"
+}

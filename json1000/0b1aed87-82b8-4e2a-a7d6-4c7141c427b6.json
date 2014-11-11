@@ -1,0 +1,31 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Age of Love",
+      "sort-name": "Age of Love"
+    },
+    {
+      "alias": "The Age Of Love",
+      "sort-name": "The Age of Love"
+    }
+  ],
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "iso-3166-1-code-list": [
+      "IT"
+    ],
+    "name": "Italy",
+    "sort-name": "Italy"
+  },
+  "country": "IT",
+  "id": "0b1aed87-82b8-4e2a-a7d6-4c7141c427b6",
+  "life-span": {
+    "begin": "1990",
+    "end": "1990",
+    "ended": "true"
+  },
+  "name": "Age of Love",
+  "sort-name": "Age of Love",
+  "type": "Group"
+}

@@ -1,0 +1,119 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Management",
+      "sort-name": "Management",
+      "type": "Search hint"
+    },
+    {
+      "alias": "The Management",
+      "end-date": "2005",
+      "sort-name": "Management, The",
+      "type": "Artist name"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "88772016-5866-496a-8de7-4340e922d663",
+    "iso-3166-2-code-list": [
+      "US-CT"
+    ],
+    "name": "Connecticut",
+    "sort-name": "Connecticut"
+  },
+  "country": "US",
+  "disambiguation": "US pop rock group",
+  "id": "c485632c-b784-4ee9-8ea1-c5fb365681fc",
+  "life-span": {
+    "begin": "2002-12"
+  },
+  "name": "MGMT",
+  "rating": {
+    "rating": "4.3",
+    "votes-count": "7"
+  },
+  "sort-name": "MGMT",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "am\u00e9ricain"
+    },
+    {
+      "count": "1",
+      "name": "electropop"
+    },
+    {
+      "count": "2",
+      "name": "indie pop"
+    },
+    {
+      "count": "2",
+      "name": "indie rock"
+    },
+    {
+      "count": "1",
+      "name": "indietronica"
+    },
+    {
+      "count": "1",
+      "name": "ing\u00e9nieur du son"
+    },
+    {
+      "count": "1",
+      "name": "neo-psychedelia"
+    },
+    {
+      "count": "1",
+      "name": "pop"
+    },
+    {
+      "count": "1",
+      "name": "producer"
+    },
+    {
+      "count": "1",
+      "name": "producteur"
+    },
+    {
+      "count": "1",
+      "name": "psychedelic pop"
+    },
+    {
+      "count": "1",
+      "name": "psychedelic rock"
+    },
+    {
+      "count": "1",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    },
+    {
+      "count": "1",
+      "name": "sound engineer"
+    },
+    {
+      "count": "1",
+      "name": "synthpop"
+    },
+    {
+      "count": "1",
+      "name": "usa"
+    }
+  ],
+  "type": "Group"
+}

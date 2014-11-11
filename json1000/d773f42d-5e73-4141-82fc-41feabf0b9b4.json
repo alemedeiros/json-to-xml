@@ -1,0 +1,23 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "disambiguation": "UK Americana band formed 2004",
+  "id": "d773f42d-5e73-4141-82fc-41feabf0b9b4",
+  "ipi": "00162587748",
+  "ipi-list": [
+    "00162587748"
+  ],
+  "life-span": {
+    "begin": "2004"
+  },
+  "name": "Society",
+  "sort-name": "Society",
+  "type": "Group"
+}

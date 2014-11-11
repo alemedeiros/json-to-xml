@@ -1,0 +1,17 @@
+{
+  "area": {
+    "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+    "iso-3166-1-code-list": [
+      "ES"
+    ],
+    "name": "Spain",
+    "sort-name": "Spain"
+  },
+  "country": "ES",
+  "disambiguation": "Spanish pop vocalist, winner of Operaci\u00f3n Triunfo",
+  "gender": "Male",
+  "id": "dd4586a0-ee49-4616-8a69-1916cd6d5923",
+  "name": "Alex",
+  "sort-name": "Alex",
+  "type": "Person"
+}

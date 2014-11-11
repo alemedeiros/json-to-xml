@@ -1,0 +1,23 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Ed Cake",
+      "sort-name": "Ed Cake"
+    }
+  ],
+  "area": {
+    "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+    "iso-3166-1-code-list": [
+      "NZ"
+    ],
+    "name": "New Zealand",
+    "sort-name": "New Zealand"
+  },
+  "country": "NZ",
+  "gender": "Male",
+  "id": "8cd083e3-eb14-4737-98b8-2484235e803b",
+  "name": "Edmund Cake",
+  "sort-name": "Cake, Edmund",
+  "type": "Person"
+}

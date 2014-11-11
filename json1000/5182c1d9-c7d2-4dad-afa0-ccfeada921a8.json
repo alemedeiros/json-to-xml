@@ -1,0 +1,102 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "Blac Sabat",
+      "sort-name": "Blac Sabat"
+    },
+    {
+      "alias": "Black Sabath",
+      "sort-name": "Black Sabath"
+    },
+    {
+      "alias": "\u30d6\u30e9\u30c3\u30af\u30fb\u30b5\u30d0\u30b9",
+      "sort-name": "\u30d6\u30e9\u30c3\u30af\u30fb\u30b5\u30d0\u30b9"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "begin-area": {
+    "id": "226c4dca-ef2a-4d4b-ba25-4118d116557a",
+    "iso-3166-2-code-list": [
+      "GB-BIR"
+    ],
+    "name": "Birmingham",
+    "sort-name": "Birmingham"
+  },
+  "country": "GB",
+  "id": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+  "isni-list": [
+    "0000000123694269"
+  ],
+  "life-span": {
+    "begin": "1969"
+  },
+  "name": "Black Sabbath",
+  "rating": {
+    "rating": "4.85",
+    "votes-count": "20"
+  },
+  "sort-name": "Black Sabbath",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "birmingham"
+    },
+    {
+      "count": "2",
+      "name": "british"
+    },
+    {
+      "count": "1",
+      "name": "classic pop and rock"
+    },
+    {
+      "count": "1",
+      "name": "english"
+    },
+    {
+      "count": "3",
+      "name": "hard rock"
+    },
+    {
+      "count": "7",
+      "name": "heavy metal"
+    },
+    {
+      "count": "4",
+      "name": "metal"
+    },
+    {
+      "count": "1",
+      "name": "new wave of british heavy metal"
+    },
+    {
+      "count": "1",
+      "name": "nwobhm"
+    },
+    {
+      "count": "1",
+      "name": "reunion"
+    },
+    {
+      "count": "2",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "uk"
+    },
+    {
+      "count": "1",
+      "name": "want to listen"
+    }
+  ],
+  "type": "Group"
+}

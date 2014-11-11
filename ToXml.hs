@@ -12,11 +12,9 @@ import Datatypes
 import Text.XML.Light
 import qualified Data.ByteString.Lazy as BS
 
-getFileContents :: FilePath -> IO BS.ByteString
-getFileContents fileName =
-  BS.readFile fileName
-
---Artist
+--Takes Artist (internal datatype defined in Datatypes.hs) returns XML Element
+--Top of the xml tree, contains XML Content from functions below (makeXMLArea, makeXMLAlias etc.)
+-- If passed NullArtist, returns an empty element (same for all other makeXml... functions)
 
 makeXmlArtist :: Artist -> Element
 makeXmlArtist NullArtist = Element (unqual "Artist") [] [] Nothing
@@ -49,7 +47,8 @@ makeArtistISNI isni = Elem $ Element
                   [Text $ CData CDataText isni Nothing]
                   Nothing
 
---Alias
+--Artist Alias
+--Returns XML Content up to makeArtistXML
 
 makeXmlAlias :: Alias -> Content
 makeXmlAlias NullAlias = Elem $ Element (unqual "Alias") [] [] Nothing
@@ -65,7 +64,9 @@ makeXmlAlias alias = Elem $ Element
                        ]
                      Nothing
 
---Area (uses makeAreaISO to get areaISO lists)
+--Artist Area
+-- Returns XML Conent up to makeXmlArtist
+-- Uses makeAreaISO to get areaISO lists
 
 makeXmlArea :: Area -> Content
 makeXmlArea NullArea = Elem $ Element (unqual "Area") [] [] Nothing
@@ -90,7 +91,8 @@ makeAreaISO iso = Elem $ Element
                   [Text $ CData CDataText iso Nothing]
                   Nothing
 
---LifeSpan
+--Artist LifeSpan
+--returns XML Conent up to makeXmlArtist 
 
 makeXmlLifeSpan :: LifeSpan -> Content
 makeXmlLifeSpan NullLifeSpan = Elem $ Element (unqual "LifeSpan") [] [] Nothing
@@ -104,7 +106,8 @@ makeXmlLifeSpan lifeSpan = Elem $ Element
                              ]
                            Nothing
 
---Rating
+--Artist Rating
+--returns XML Conent up to makeXmlArtist 
 
 makeXmlRating :: Rating -> Content
 makeXmlRating EmptyRating = Elem $ Element (unqual "Rating") [] [] Nothing
@@ -117,7 +120,8 @@ makeXmlRating rating = Elem $ Element
                          ]
                        Nothing
 
---Tag
+--Artist Tags
+--returns XML Conent up to makeXmlArtist 
 
 makeXmlTag :: Tag -> Content
 makeXmlTag NullTag = Elem $ Element (unqual "Tag") [] [] Nothing
@@ -129,5 +133,12 @@ makeXmlTag tag = Elem $ Element
                          Elem $ Element (unqual "TagName") [] [Text $ CData CDataText (tagName tag) Nothing] Nothing
                          ]
                        Nothing
+
+--takes a filepath, returns the file contents.
+--for debugging and testing only.
+
+getFileContents :: FilePath -> IO BS.ByteString
+getFileContents fileName =
+  BS.readFile fileName
                        
 

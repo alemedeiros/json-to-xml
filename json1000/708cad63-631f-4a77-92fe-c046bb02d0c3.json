@@ -1,0 +1,44 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "Pasarea Phoenix",
+      "sort-name": "Pasarea Phoenix"
+    },
+    {
+      "alias": "Pas\u0103rea Phoenix",
+      "sort-name": "Pas\u0103rea Phoenix"
+    },
+    {
+      "alias": "Transsylvania Phoenix",
+      "sort-name": "Transsylvania Phoenix"
+    }
+  ],
+  "area": {
+    "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+    "iso-3166-1-code-list": [
+      "RO"
+    ],
+    "name": "Romania",
+    "sort-name": "Romania"
+  },
+  "country": "RO",
+  "disambiguation": "Romanian rock band",
+  "id": "708cad63-631f-4a77-92fe-c046bb02d0c3",
+  "life-span": {
+    "begin": "1962"
+  },
+  "name": "Phoenix",
+  "rating": {
+    "rating": "5",
+    "votes-count": "1"
+  },
+  "sort-name": "Phoenix",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "romanian"
+    }
+  ],
+  "type": "Group"
+}

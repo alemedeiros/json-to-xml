@@ -1,0 +1,44 @@
+{
+  "area": {
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+    "iso-3166-1-code-list": [
+      "SE"
+    ],
+    "name": "Sweden",
+    "sort-name": "Sweden"
+  },
+  "begin-area": {
+    "id": "1127ddc2-eab3-4662-8718-6adbdeea3b10",
+    "name": "Stockholm",
+    "sort-name": "Stockholm"
+  },
+  "country": "SE",
+  "disambiguation": "Swedish group",
+  "id": "7289f08a-0788-4214-af74-ad10d7c6ae05",
+  "life-span": {
+    "begin": "1993",
+    "end": "1999",
+    "ended": "true"
+  },
+  "name": "Whale",
+  "sort-name": "Whale",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "european"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    },
+    {
+      "count": "1",
+      "name": "sweden"
+    },
+    {
+      "count": "1",
+      "name": "swedish"
+    }
+  ],
+  "type": "Group"
+}

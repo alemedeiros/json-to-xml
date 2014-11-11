@@ -1,0 +1,22 @@
+{
+  "area": {
+    "id": "4757b525-2a60-324a-b060-578765d2c993",
+    "iso-3166-1-code-list": [
+      "DK"
+    ],
+    "name": "Denmark",
+    "sort-name": "Denmark"
+  },
+  "country": "DK",
+  "id": "a7e5d0ad-5244-4144-9764-b7040423debe",
+  "life-span": {
+    "begin": "2002-06-01"
+  },
+  "name": "Pink Floyd Project",
+  "rating": {
+    "rating": "5",
+    "votes-count": "1"
+  },
+  "sort-name": "Pink Floyd Project",
+  "type": "Group"
+}

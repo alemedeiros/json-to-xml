@@ -1,0 +1,27 @@
+{
+  "area": {
+    "id": "d3a68bd0-7419-3f99-a5bd-204d6e057089",
+    "iso-3166-1-code-list": [
+      "ID"
+    ],
+    "name": "Indonesia",
+    "sort-name": "Indonesia"
+  },
+  "begin-area": {
+    "id": "c0448520-84ef-441e-9320-cd7fd21004c3",
+    "iso-3166-2-code-list": [
+      "ID-JK"
+    ],
+    "name": "Jakarta",
+    "sort-name": "Jakarta"
+  },
+  "country": "ID",
+  "disambiguation": "Indonesian alternative rock/pop band",
+  "id": "3ab9740e-8983-4d5c-9c63-1b13124b610c",
+  "life-span": {
+    "begin": "2012-08-02"
+  },
+  "name": "Noah",
+  "sort-name": "Noah",
+  "type": "Group"
+}

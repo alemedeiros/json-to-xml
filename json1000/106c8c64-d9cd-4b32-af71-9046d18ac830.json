@@ -1,0 +1,29 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "J\u0101nis Leme\u017es",
+      "sort-name": "J\u0101nis Leme\u017es"
+    }
+  ],
+  "area": {
+    "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+    "iso-3166-1-code-list": [
+      "LV"
+    ],
+    "name": "Latvia",
+    "sort-name": "Latvia"
+  },
+  "country": "LV",
+  "gender": "Male",
+  "id": "106c8c64-d9cd-4b32-af71-9046d18ac830",
+  "name": "J\u0101nis Leme\u017eis",
+  "sort-name": "Leme\u017eis, J\u0101nis",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "latvian"
+    }
+  ],
+  "type": "Person"
+}

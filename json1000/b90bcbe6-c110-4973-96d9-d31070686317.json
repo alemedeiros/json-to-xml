@@ -1,0 +1,15 @@
+{
+  "area": {
+    "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+    "iso-3166-1-code-list": [
+      "NL"
+    ],
+    "name": "Netherlands",
+    "sort-name": "Netherlands"
+  },
+  "country": "NL",
+  "id": "b90bcbe6-c110-4973-96d9-d31070686317",
+  "name": "16 Down",
+  "sort-name": "16 Down",
+  "type": "Group"
+}

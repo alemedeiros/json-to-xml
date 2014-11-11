@@ -1,0 +1,122 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Gorilaz",
+      "sort-name": "Gorilaz"
+    },
+    {
+      "alias": "Gorrilaz",
+      "sort-name": "Gorrilaz"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "e21857d5-3256-4547-afb3-4b6ded592596",
+  "isni-list": [
+    "0000000114814345"
+  ],
+  "life-span": {
+    "begin": "1999"
+  },
+  "name": "Gorillaz",
+  "rating": {
+    "rating": "4.4",
+    "votes-count": "10"
+  },
+  "sort-name": "Gorillaz",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "alternative hip-hop"
+    },
+    {
+      "count": "1",
+      "name": "alternative rock"
+    },
+    {
+      "count": "2",
+      "name": "british"
+    },
+    {
+      "count": "1",
+      "name": "crossover"
+    },
+    {
+      "count": "2",
+      "name": "electronic"
+    },
+    {
+      "count": "1",
+      "name": "electronica"
+    },
+    {
+      "count": "1",
+      "name": "electropop"
+    },
+    {
+      "count": "1",
+      "name": "english"
+    },
+    {
+      "count": "1",
+      "name": "fictional"
+    },
+    {
+      "count": "1",
+      "name": "hip hop"
+    },
+    {
+      "count": "1",
+      "name": "hip-hop"
+    },
+    {
+      "count": "1",
+      "name": "parlophone"
+    },
+    {
+      "count": "1",
+      "name": "producer"
+    },
+    {
+      "count": "1",
+      "name": "producteur"
+    },
+    {
+      "count": "1",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    },
+    {
+      "count": "1",
+      "name": "trip hop"
+    },
+    {
+      "count": "2",
+      "name": "trip rock"
+    },
+    {
+      "count": "1",
+      "name": "trip-hop"
+    },
+    {
+      "count": "1",
+      "name": "uk"
+    },
+    {
+      "count": "1",
+      "name": "united kingdom"
+    }
+  ],
+  "type": "Group"
+}

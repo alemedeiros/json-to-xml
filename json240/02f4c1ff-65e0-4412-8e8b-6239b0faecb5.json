@@ -1,0 +1,17 @@
+{
+  "area": {
+    "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+    "iso-3166-1-code-list": [
+      "NL"
+    ],
+    "name": "Netherlands",
+    "sort-name": "Netherlands"
+  },
+  "country": "NL",
+  "disambiguation": "Dutch Hardcore producer Patrick van Kerckhoven",
+  "gender": "Male",
+  "id": "02f4c1ff-65e0-4412-8e8b-6239b0faecb5",
+  "name": "Phoenix",
+  "sort-name": "Phoenix",
+  "type": "Person"
+}

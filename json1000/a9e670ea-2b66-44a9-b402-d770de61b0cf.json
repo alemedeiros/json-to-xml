@@ -1,0 +1,38 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "disambiguation": "UK punk band",
+  "id": "a9e670ea-2b66-44a9-b402-d770de61b0cf",
+  "name": "Youth in Asia",
+  "sort-name": "Youth in Asia",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "anarcho"
+    },
+    {
+      "count": "1",
+      "name": "england"
+    },
+    {
+      "count": "1",
+      "name": "london"
+    },
+    {
+      "count": "1",
+      "name": "punk"
+    },
+    {
+      "count": "1",
+      "name": "uk"
+    }
+  ],
+  "type": "Group"
+}
