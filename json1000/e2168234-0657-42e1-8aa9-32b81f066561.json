@@ -1,0 +1,18 @@
+{
+  "area": {
+    "id": "92d52542-3363-351c-a8b6-d991e0bccb8f",
+    "iso-3166-1-code-list": [
+      "KZ"
+    ],
+    "name": "Kazakhstan",
+    "sort-name": "Kazakhstan"
+  },
+  "country": "KZ",
+  "id": "e2168234-0657-42e1-8aa9-32b81f066561",
+  "life-span": {
+    "begin": "1997-05"
+  },
+  "name": "Holy Dragons",
+  "sort-name": "Holy Dragons",
+  "type": "Group"
+}

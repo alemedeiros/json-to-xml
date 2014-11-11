@@ -1,0 +1,34 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "disambiguation": "70s UK punk band",
+  "id": "448579df-6b71-4c98-a8ba-5f8be40f2b90",
+  "name": "Disturbed",
+  "sort-name": "Disturbed",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "england"
+    },
+    {
+      "count": "1",
+      "name": "london"
+    },
+    {
+      "count": "1",
+      "name": "punk"
+    },
+    {
+      "count": "1",
+      "name": "uk"
+    }
+  ],
+  "type": "Group"
+}

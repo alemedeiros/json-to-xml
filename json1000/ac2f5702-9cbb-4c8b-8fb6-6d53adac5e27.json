@@ -1,0 +1,24 @@
+{
+  "area": {
+    "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+    "iso-3166-1-code-list": [
+      "EE"
+    ],
+    "name": "Estonia",
+    "sort-name": "Estonia"
+  },
+  "begin-area": {
+    "id": "060e538d-a434-4ed0-8201-453e693f279e",
+    "name": "Paide",
+    "sort-name": "Paide"
+  },
+  "country": "EE",
+  "gender": "Female",
+  "id": "ac2f5702-9cbb-4c8b-8fb6-6d53adac5e27",
+  "life-span": {
+    "begin": "1974-08-15"
+  },
+  "name": "Anne Alt",
+  "sort-name": "Alt, Anne",
+  "type": "Person"
+}

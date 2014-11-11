@@ -1,0 +1,22 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "University of Michigan Symphonic Band",
+      "sort-name": "University of Michigan Symphonic Band"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "55f3bc6b-28bd-4b17-9072-8c5305809518",
+  "name": "University of Michigan Symphony Band",
+  "sort-name": "University of Michigan Symphony Band",
+  "type": "Group"
+}

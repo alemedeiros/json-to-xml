@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+    "iso-3166-1-code-list": [
+      "NL"
+    ],
+    "name": "Netherlands",
+    "sort-name": "Netherlands"
+  },
+  "country": "NL",
+  "disambiguation": "dutch black metal",
+  "id": "27c29140-7bfd-4019-8a9a-a75932678524",
+  "life-span": {
+    "begin": "1988"
+  },
+  "name": "Conspiracy",
+  "sort-name": "Conspiracy",
+  "type": "Group"
+}

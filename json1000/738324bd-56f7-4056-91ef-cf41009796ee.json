@@ -1,0 +1,21 @@
+{
+  "area": {
+    "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+    "iso-3166-1-code-list": [
+      "CA"
+    ],
+    "name": "Canada",
+    "sort-name": "Canada"
+  },
+  "country": "CA",
+  "id": "738324bd-56f7-4056-91ef-cf41009796ee",
+  "name": "The Man and His Machine",
+  "sort-name": "Man and His Machine, The",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "canada"
+    }
+  ],
+  "type": "Group"
+}

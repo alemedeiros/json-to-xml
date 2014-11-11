@@ -1,0 +1,40 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "be109372-067e-4965-b7b9-85d4c1a2f9a3",
+  "life-span": {
+    "begin": "2003"
+  },
+  "name": "7Day Conspiracy",
+  "sort-name": "7Day Conspiracy",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "england"
+    },
+    {
+      "count": "1",
+      "name": "punk"
+    },
+    {
+      "count": "1",
+      "name": "seen live"
+    },
+    {
+      "count": "1",
+      "name": "sittingbourne"
+    },
+    {
+      "count": "1",
+      "name": "uk"
+    }
+  ],
+  "type": "Group"
+}

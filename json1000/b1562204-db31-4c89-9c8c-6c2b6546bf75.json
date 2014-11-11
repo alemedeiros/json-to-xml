@@ -1,0 +1,39 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Age of Electric",
+      "locale": "en_CA",
+      "sort-name": "Age of Electric",
+      "type": "Artist name"
+    }
+  ],
+  "area": {
+    "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+    "iso-3166-1-code-list": [
+      "CA"
+    ],
+    "name": "Canada",
+    "sort-name": "Canada"
+  },
+  "begin-area": {
+    "id": "d93e07f5-b093-48ea-a837-2f5bc79d6fd6",
+    "name": "Lanigan",
+    "sort-name": "Lanigan"
+  },
+  "country": "CA",
+  "end-area": {
+    "id": "6ccc62d1-bdd8-4f08-8fae-bfaa5310e5ef",
+    "name": "Vancouver",
+    "sort-name": "Vancouver"
+  },
+  "id": "b1562204-db31-4c89-9c8c-6c2b6546bf75",
+  "life-span": {
+    "begin": "1989",
+    "end": "1999",
+    "ended": "true"
+  },
+  "name": "The Age of Electric",
+  "sort-name": "Age of Electric, The",
+  "type": "Group"
+}

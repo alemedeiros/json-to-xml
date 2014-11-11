@@ -1,0 +1,17 @@
+{
+  "area": {
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+    "iso-3166-1-code-list": [
+      "DE"
+    ],
+    "name": "Germany",
+    "sort-name": "Germany"
+  },
+  "country": "DE",
+  "disambiguation": "vocalist on Meine Welt by Peter Heppner",
+  "gender": "Female",
+  "id": "c604f9d2-8dd6-4c92-9000-fb943b68d85a",
+  "name": "Carla",
+  "sort-name": "Carla",
+  "type": "Person"
+}

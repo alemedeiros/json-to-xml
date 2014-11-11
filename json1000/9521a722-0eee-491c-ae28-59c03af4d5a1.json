@@ -1,0 +1,42 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "R.A.F. Punk",
+      "sort-name": "R.A.F. Punk"
+    }
+  ],
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "iso-3166-1-code-list": [
+      "IT"
+    ],
+    "name": "Italy",
+    "sort-name": "Italy"
+  },
+  "begin-area": {
+    "id": "f3045d73-6a82-43cd-934d-42e75a5f73f6",
+    "name": "Bologna",
+    "sort-name": "Bologna"
+  },
+  "country": "IT",
+  "id": "9521a722-0eee-491c-ae28-59c03af4d5a1",
+  "life-span": {
+    "begin": "1978",
+    "end": "1986",
+    "ended": "true"
+  },
+  "name": "RAF Punk",
+  "sort-name": "RAF Punk",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "italy"
+    },
+    {
+      "count": "1",
+      "name": "punk"
+    }
+  ],
+  "type": "Group"
+}

@@ -1,0 +1,25 @@
+{
+  "area": {
+    "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+    "iso-3166-1-code-list": [
+      "CA"
+    ],
+    "name": "Canada",
+    "sort-name": "Canada"
+  },
+  "country": "CA",
+  "gender": "Male",
+  "id": "d96b66be-ee88-4510-9bc8-c2c05294e47b",
+  "life-span": {
+    "begin": "1977-06-10"
+  },
+  "name": "Dan\u2010E\u2010O",
+  "sort-name": "Dan\u2010E\u2010O",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "hip hop"
+    }
+  ],
+  "type": "Person"
+}

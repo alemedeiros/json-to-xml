@@ -1,0 +1,20 @@
+{
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "iso-3166-1-code-list": [
+      "IT"
+    ],
+    "name": "Italy",
+    "sort-name": "Italy"
+  },
+  "country": "IT",
+  "id": "29e2d5b6-a2d2-4931-b8a2-b0f1e1275592",
+  "life-span": {
+    "begin": "1969",
+    "end": "1973",
+    "ended": "true"
+  },
+  "name": "De De Lind",
+  "sort-name": "Lind, De De",
+  "type": "Group"
+}

@@ -1,0 +1,44 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "Sea and Cake",
+      "sort-name": "Sea and Cake"
+    },
+    {
+      "alias": "The Sea & Cake",
+      "sort-name": "The Sea & Cake"
+    },
+    {
+      "alias": "The Sea and Cace",
+      "sort-name": "The Sea and Cace"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+    "name": "Chicago",
+    "sort-name": "Chicago"
+  },
+  "country": "US",
+  "id": "74171cb6-1ff8-42bd-be8a-96660c22e3e0",
+  "life-span": {
+    "begin": "1994"
+  },
+  "name": "The Sea and Cake",
+  "sort-name": "Sea and Cake, The",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "classic pop and rock"
+    }
+  ],
+  "type": "Group"
+}

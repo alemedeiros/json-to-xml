@@ -1,0 +1,20 @@
+{
+  "disambiguation": "Doom/Death Metal band from the USA",
+  "id": "3480b719-c7fa-4259-a151-d5bfb7be3941",
+  "life-span": {
+    "begin": "1995"
+  },
+  "name": "Crimson Relic",
+  "sort-name": "Crimson Relic",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "death metal"
+    },
+    {
+      "count": "1",
+      "name": "doom metal"
+    }
+  ],
+  "type": "Group"
+}

@@ -1,0 +1,27 @@
+{
+  "area": {
+    "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+    "iso-3166-1-code-list": [
+      "CA"
+    ],
+    "name": "Canada",
+    "sort-name": "Canada"
+  },
+  "begin-area": {
+    "id": "c3cc624e-b963-49cf-ad0b-e318cb341963",
+    "name": "Montreal",
+    "sort-name": "Montreal"
+  },
+  "country": "CA",
+  "disambiguation": "un cercle",
+  "id": "72306f03-9a57-4928-a6af-423e6580732b",
+  "name": "-O-",
+  "sort-name": "-O-",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "sillyname"
+    }
+  ],
+  "type": "Group"
+}

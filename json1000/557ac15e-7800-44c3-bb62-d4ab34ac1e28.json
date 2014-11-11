@@ -1,0 +1,23 @@
+{
+  "area": {
+    "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+    "iso-3166-1-code-list": [
+      "BR"
+    ],
+    "name": "Brazil",
+    "sort-name": "Brazil"
+  },
+  "country": "BR",
+  "disambiguation": "Brazilian band",
+  "id": "557ac15e-7800-44c3-bb62-d4ab34ac1e28",
+  "life-span": {
+    "begin": "1997"
+  },
+  "name": "Los Hermanos",
+  "rating": {
+    "rating": "5",
+    "votes-count": "1"
+  },
+  "sort-name": "Hermanos, Los",
+  "type": "Group"
+}

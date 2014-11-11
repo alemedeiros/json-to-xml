@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+    "iso-3166-1-code-list": [
+      "HU"
+    ],
+    "name": "Hungary",
+    "sort-name": "Hungary"
+  },
+  "country": "HU",
+  "disambiguation": "Hungarian pop singer/guitarist",
+  "id": "0e3781cb-91a2-4684-a916-8bf16b5efc5b",
+  "life-span": {
+    "begin": "1978-08-30"
+  },
+  "name": "Alex",
+  "sort-name": "Alex",
+  "type": "Person"
+}

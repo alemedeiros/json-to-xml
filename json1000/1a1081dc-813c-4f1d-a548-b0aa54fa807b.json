@@ -1,0 +1,17 @@
+{
+  "area": {
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+    "iso-3166-1-code-list": [
+      "DE"
+    ],
+    "name": "Germany",
+    "sort-name": "Germany"
+  },
+  "country": "DE",
+  "disambiguation": "Noah Wuske, German artist",
+  "gender": "Male",
+  "id": "1a1081dc-813c-4f1d-a548-b0aa54fa807b",
+  "name": "Noah",
+  "sort-name": "Noah",
+  "type": "Person"
+}

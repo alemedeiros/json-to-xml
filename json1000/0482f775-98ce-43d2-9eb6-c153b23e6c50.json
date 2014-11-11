@@ -1,0 +1,31 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Dr Bombay",
+      "sort-name": "Dr Bombay"
+    }
+  ],
+  "area": {
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+    "iso-3166-1-code-list": [
+      "SE"
+    ],
+    "name": "Sweden",
+    "sort-name": "Sweden"
+  },
+  "begin-area": {
+    "id": "fcda3715-d830-4901-8ecd-9ca06b670d02",
+    "name": "Malm\u00f6 Municipality",
+    "sort-name": "Malm\u00f6 Municipality"
+  },
+  "country": "SE",
+  "gender": "Male",
+  "id": "0482f775-98ce-43d2-9eb6-c153b23e6c50",
+  "life-span": {
+    "begin": "1963-11-17"
+  },
+  "name": "Dr. Bombay",
+  "sort-name": "Bombay, Dr.",
+  "type": "Person"
+}

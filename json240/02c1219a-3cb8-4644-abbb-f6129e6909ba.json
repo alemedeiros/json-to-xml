@@ -1,0 +1,18 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "02c1219a-3cb8-4644-abbb-f6129e6909ba",
+  "life-span": {
+    "begin": "1973-03-13"
+  },
+  "name": "David Draiman",
+  "sort-name": "Draiman, David",
+  "type": "Person"
+}

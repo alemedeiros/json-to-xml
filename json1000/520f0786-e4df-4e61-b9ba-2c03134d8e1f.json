@@ -1,0 +1,25 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "disambiguation": "UK symphonic progressive metal band",
+  "id": "520f0786-e4df-4e61-b9ba-2c03134d8e1f",
+  "life-span": {
+    "begin": "2003"
+  },
+  "name": "Crimson Tears",
+  "sort-name": "Crimson Tears",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "symphonic progressive metal"
+    }
+  ],
+  "type": "Group"
+}

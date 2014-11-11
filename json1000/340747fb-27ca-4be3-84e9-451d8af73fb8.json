@@ -1,0 +1,17 @@
+{
+  "area": {
+    "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+    "iso-3166-1-code-list": [
+      "ES"
+    ],
+    "name": "Spain",
+    "sort-name": "Spain"
+  },
+  "country": "ES",
+  "disambiguation": "Spanish MC, more details unknown, probably different + younger than the other",
+  "gender": "Male",
+  "id": "340747fb-27ca-4be3-84e9-451d8af73fb8",
+  "name": "Alex",
+  "sort-name": "Alex",
+  "type": "Person"
+}

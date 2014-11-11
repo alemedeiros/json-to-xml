@@ -1,0 +1,86 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Da Funk",
+      "sort-name": "Da Funk"
+    },
+    {
+      "alias": "Duft Punk",
+      "sort-name": "Duft Punk"
+    }
+  ],
+  "area": {
+    "id": "08310658-51eb-3801-80de-5a0739207115",
+    "iso-3166-1-code-list": [
+      "FR"
+    ],
+    "name": "France",
+    "sort-name": "France"
+  },
+  "begin-area": {
+    "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+    "iso-3166-2-code-list": [
+      "FR-75"
+    ],
+    "name": "Paris",
+    "sort-name": "Paris"
+  },
+  "country": "FR",
+  "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+  "isni-list": [
+    "0000000123531208"
+  ],
+  "life-span": {
+    "begin": "1992"
+  },
+  "name": "Daft Punk",
+  "rating": {
+    "rating": "4.65",
+    "votes-count": "23"
+  },
+  "sort-name": "Daft Punk",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "dance and electronica"
+    },
+    {
+      "count": "3",
+      "name": "electronic"
+    },
+    {
+      "count": "1",
+      "name": "european"
+    },
+    {
+      "count": "1",
+      "name": "film score"
+    },
+    {
+      "count": "4",
+      "name": "french"
+    },
+    {
+      "count": "1",
+      "name": "french house"
+    },
+    {
+      "count": "2",
+      "name": "house"
+    },
+    {
+      "count": "1",
+      "name": "thomas bangalter"
+    },
+    {
+      "count": "1",
+      "name": "vocoder"
+    },
+    {
+      "count": "1",
+      "name": "wp musicians"
+    }
+  ],
+  "type": "Group"
+}

@@ -1,0 +1,15 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "172fac8f-9e1d-4238-b68f-d5bf15688f57",
+  "name": "Maximum Roach",
+  "sort-name": "Maximum Roach",
+  "type": "Group"
+}

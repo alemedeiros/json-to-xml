@@ -1,0 +1,28 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Pau",
+      "sort-name": "Pau",
+      "type": "Artist name"
+    }
+  ],
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "iso-3166-1-code-list": [
+      "IT"
+    ],
+    "name": "Italy",
+    "sort-name": "Italy"
+  },
+  "country": "IT",
+  "disambiguation": "frontman of Italian band Negrita",
+  "gender": "Male",
+  "id": "2ed77ec6-a54c-42a0-9261-07b34e6100bb",
+  "life-span": {
+    "begin": "1967-06-02"
+  },
+  "name": "Paolo Bruni",
+  "sort-name": "Bruni, Paolo",
+  "type": "Person"
+}

@@ -1,0 +1,25 @@
+{
+  "area": {
+    "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+    "iso-3166-1-code-list": [
+      "JP"
+    ],
+    "name": "Japan",
+    "sort-name": "Japan"
+  },
+  "country": "JP",
+  "id": "60e97f2d-56fa-48c1-a5da-a9439c99c7d1",
+  "name": "Yellow Label",
+  "sort-name": "Yellow Label",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "japan"
+    },
+    {
+      "count": "1",
+      "name": "punk"
+    }
+  ],
+  "type": "Group"
+}

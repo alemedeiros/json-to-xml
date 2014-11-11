@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "iso-3166-1-code-list": [
+      "IT"
+    ],
+    "name": "Italy",
+    "sort-name": "Italy"
+  },
+  "country": "IT",
+  "gender": "Female",
+  "id": "9ee9bd16-8b80-4f4f-b20c-c1219f4ae17f",
+  "life-span": {
+    "begin": "1988-10-28"
+  },
+  "name": "Giorgia Bruni",
+  "sort-name": "Bruni, Giorgia",
+  "type": "Person"
+}

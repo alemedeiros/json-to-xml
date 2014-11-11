@@ -1,0 +1,27 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Coldplay Sister",
+      "locale": "en",
+      "primary": "primary",
+      "sort-name": "Coldplay Sister"
+    }
+  ],
+  "area": {
+    "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+    "iso-3166-1-code-list": [
+      "TW"
+    ],
+    "iso-3166-2-code-list": [
+      "CN-71"
+    ],
+    "name": "Taiwan",
+    "sort-name": "Taiwan"
+  },
+  "country": "TW",
+  "id": "a7331511-edcf-4e1f-b2b4-46f3b30f7f32",
+  "name": "\u51b7\u73a9\u59b9",
+  "sort-name": "Coldplay Sister",
+  "type": "Person"
+}

@@ -1,0 +1,29 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Dread Zepplin",
+      "sort-name": "Dread Zepplin"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "74e2c381-7a79-4c21-8738-20da383e14d2",
+  "life-span": {
+    "begin": "1989"
+  },
+  "name": "Dread Zeppelin",
+  "rating": {
+    "rating": "5",
+    "votes-count": "2"
+  },
+  "sort-name": "Dread Zeppelin",
+  "type": "Group"
+}

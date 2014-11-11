@@ -1,0 +1,47 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "De",
+      "sort-name": "De"
+    },
+    {
+      "alias": "De Vision",
+      "sort-name": "De Vision"
+    },
+    {
+      "alias": "DeVision",
+      "sort-name": "DeVision"
+    }
+  ],
+  "area": {
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+    "iso-3166-1-code-list": [
+      "DE"
+    ],
+    "name": "Germany",
+    "sort-name": "Germany"
+  },
+  "country": "DE",
+  "id": "c72c1c3d-bf05-457f-a9f7-a642bae6ca91",
+  "life-span": {
+    "begin": "1988-07"
+  },
+  "name": "De/Vision",
+  "sort-name": "De/Vision",
+  "tag-list": [
+    {
+      "count": "2",
+      "name": "electronic"
+    },
+    {
+      "count": "2",
+      "name": "german"
+    },
+    {
+      "count": "2",
+      "name": "synthpop"
+    }
+  ],
+  "type": "Group"
+}

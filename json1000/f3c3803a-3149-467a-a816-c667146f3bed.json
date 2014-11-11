@@ -1,0 +1,28 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "f3c3803a-3149-467a-a816-c667146f3bed",
+  "life-span": {
+    "begin": "1997"
+  },
+  "name": "I Monster",
+  "sort-name": "I Monster",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "pop and chart"
+    },
+    {
+      "count": "1",
+      "name": "sheffield"
+    }
+  ],
+  "type": "Group"
+}

@@ -1,0 +1,23 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "De Deur Zakkers",
+      "sort-name": "De Deur Zakkers"
+    },
+    {
+      "alias": "Deurzakkers",
+      "sort-name": "Deurzakkers"
+    }
+  ],
+  "id": "5fd392ae-8a32-4f96-8c59-cce6c4a53f08",
+  "name": "De Deurzakkers",
+  "sort-name": "Deurzakkers, De",
+  "tag-list": [
+    {
+      "count": "2",
+      "name": "dutch"
+    }
+  ],
+  "type": "Group"
+}

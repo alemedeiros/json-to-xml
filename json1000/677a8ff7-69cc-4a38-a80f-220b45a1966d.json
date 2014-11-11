@@ -1,0 +1,16 @@
+{
+  "area": {
+    "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+    "iso-3166-1-code-list": [
+      "RO"
+    ],
+    "name": "Romania",
+    "sort-name": "Romania"
+  },
+  "country": "RO",
+  "disambiguation": "Romania/pop",
+  "id": "677a8ff7-69cc-4a38-a80f-220b45a1966d",
+  "name": "A.S.I.A.",
+  "sort-name": "A.S.I.A.",
+  "type": "Group"
+}

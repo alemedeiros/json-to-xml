@@ -1,0 +1,30 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Saturday People",
+      "sort-name": "Saturday People"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "af59135f-38b5-4ea4-b4e2-dd28c5f0bad7",
+    "iso-3166-2-code-list": [
+      "US-DC"
+    ],
+    "name": "Washington, D.C.",
+    "sort-name": "Washington, D.C."
+  },
+  "country": "US",
+  "id": "98bd40ee-21f0-47ef-8f4e-5876bec20623",
+  "name": "The Saturday People",
+  "sort-name": "Saturday People, The",
+  "type": "Group"
+}

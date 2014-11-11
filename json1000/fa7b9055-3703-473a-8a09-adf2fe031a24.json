@@ -1,0 +1,61 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Cake Et Al",
+      "sort-name": "Cake Et Al"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "21879fba-fe4e-4dbc-99e8-cad9142e5618",
+    "name": "Sacramento",
+    "sort-name": "Sacramento"
+  },
+  "country": "US",
+  "disambiguation": "US alt. rock band",
+  "id": "fa7b9055-3703-473a-8a09-adf2fe031a24",
+  "life-span": {
+    "begin": "1992"
+  },
+  "name": "CAKE",
+  "rating": {
+    "rating": "4",
+    "votes-count": "5"
+  },
+  "sort-name": "CAKE",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "alternative rock"
+    },
+    {
+      "count": "1",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "college rock"
+    },
+    {
+      "count": "1",
+      "name": "indie rock"
+    },
+    {
+      "count": "1",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    }
+  ],
+  "type": "Group"
+}

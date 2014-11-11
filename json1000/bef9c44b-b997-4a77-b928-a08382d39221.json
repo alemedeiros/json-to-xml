@@ -1,0 +1,17 @@
+{
+  "area": {
+    "id": "2b568f1a-0bbc-4416-86ad-ced6ef6d56f4",
+    "iso-3166-2-code-list": [
+      "DE-SN"
+    ],
+    "name": "Sachsen",
+    "sort-name": "Sachsen"
+  },
+  "id": "bef9c44b-b997-4a77-b928-a08382d39221",
+  "life-span": {
+    "begin": "2003"
+  },
+  "name": "Thiasos Dionysos",
+  "sort-name": "Thiasos Dionysos",
+  "type": "Group"
+}

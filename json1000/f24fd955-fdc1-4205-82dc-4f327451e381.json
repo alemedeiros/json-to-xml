@@ -1,0 +1,16 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "gender": "Male",
+  "id": "f24fd955-fdc1-4205-82dc-4f327451e381",
+  "name": "Vincent Floyd",
+  "sort-name": "Floyd, Vincent",
+  "type": "Person"
+}

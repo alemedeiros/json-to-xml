@@ -1,0 +1,30 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Carl Stefan \"Carla\" Jonsson",
+      "sort-name": "Carl Stefan \"Carla\" Jonsson"
+    }
+  ],
+  "area": {
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+    "iso-3166-1-code-list": [
+      "SE"
+    ],
+    "name": "Sweden",
+    "sort-name": "Sweden"
+  },
+  "country": "SE",
+  "gender": "Male",
+  "id": "b54b1d4c-1a8e-452f-9de0-8d469e5d1ab6",
+  "life-span": {
+    "begin": "1953-07-19"
+  },
+  "name": "Carla Jonsson",
+  "rating": {
+    "rating": "4",
+    "votes-count": "1"
+  },
+  "sort-name": "Jonsson, Carla",
+  "type": "Person"
+}

@@ -1,0 +1,25 @@
+{
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "iso-3166-1-code-list": [
+      "IT"
+    ],
+    "name": "Italy",
+    "sort-name": "Italy"
+  },
+  "country": "IT",
+  "id": "93211c7f-a0a6-4126-b383-c782b203a4d9",
+  "name": "Uart Punk",
+  "sort-name": "Uart Punk",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "italy"
+    },
+    {
+      "count": "1",
+      "name": "punk"
+    }
+  ],
+  "type": "Group"
+}

@@ -1,0 +1,41 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "7ad22b60-636b-4d86-8584-73105edf9524",
+  "name": "Dragons",
+  "rating": {
+    "rating": "4",
+    "votes-count": "1"
+  },
+  "sort-name": "Dragons",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "00s"
+    },
+    {
+      "count": "1",
+      "name": "bristol"
+    },
+    {
+      "count": "1",
+      "name": "british"
+    },
+    {
+      "count": "1",
+      "name": "indie rock"
+    },
+    {
+      "count": "1",
+      "name": "male vocalists"
+    }
+  ],
+  "type": "Group"
+}

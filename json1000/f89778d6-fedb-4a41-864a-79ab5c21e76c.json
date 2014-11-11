@@ -1,0 +1,40 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Sas, Julian",
+      "sort-name": "Sas, Julian"
+    }
+  ],
+  "area": {
+    "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+    "iso-3166-1-code-list": [
+      "NL"
+    ],
+    "name": "Netherlands",
+    "sort-name": "Netherlands"
+  },
+  "country": "NL",
+  "gender": "Male",
+  "id": "f89778d6-fedb-4a41-864a-79ab5c21e76c",
+  "life-span": {
+    "begin": "1970-05-29"
+  },
+  "name": "Julian Sas",
+  "rating": {
+    "rating": "4",
+    "votes-count": "1"
+  },
+  "sort-name": "Sas, Julian",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "blues"
+    },
+    {
+      "count": "1",
+      "name": "bluesrock"
+    }
+  ],
+  "type": "Person"
+}

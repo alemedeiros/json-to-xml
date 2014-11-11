@@ -1,0 +1,59 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "Dream Theatre",
+      "sort-name": "Dream Theatre"
+    },
+    {
+      "alias": "DreamTheater",
+      "sort-name": "DreamTheater"
+    },
+    {
+      "alias": "Majesty",
+      "sort-name": "Majesty"
+    }
+  ],
+  "area": {
+    "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+    "name": "New York",
+    "sort-name": "New York"
+  },
+  "begin-area": {
+    "id": "e331bfdf-b908-429c-a79b-710cf9c06abb",
+    "name": "Boston",
+    "sort-name": "Boston"
+  },
+  "id": "28503ab7-8bf2-4666-a7bd-2644bfc7cb1d",
+  "isni-list": [
+    "0000000123695368"
+  ],
+  "life-span": {
+    "begin": "1986-09"
+  },
+  "name": "Dream Theater",
+  "rating": {
+    "rating": "4.45",
+    "votes-count": "23"
+  },
+  "sort-name": "Dream Theater",
+  "tag-list": [
+    {
+      "count": "2",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "metal"
+    },
+    {
+      "count": "2",
+      "name": "prog metal"
+    },
+    {
+      "count": "6",
+      "name": "progressive metal"
+    }
+  ],
+  "type": "Group"
+}

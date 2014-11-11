@@ -1,0 +1,18 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "9e0757b6-387e-456c-867c-95a18f8e8b5d",
+  "life-span": {
+    "begin": "2008-08-05"
+  },
+  "name": "Military Arcade",
+  "sort-name": "Military Arcade",
+  "type": "Group"
+}

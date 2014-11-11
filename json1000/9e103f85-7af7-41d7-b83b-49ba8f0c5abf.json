@@ -1,0 +1,32 @@
+{
+  "area": {
+    "id": "48802a32-075a-3805-a183-277c66047693",
+    "iso-3166-1-code-list": [
+      "IS"
+    ],
+    "name": "Iceland",
+    "sort-name": "Iceland"
+  },
+  "country": "IS",
+  "id": "9e103f85-7af7-41d7-b83b-49ba8f0c5abf",
+  "life-span": {
+    "begin": "2010"
+  },
+  "name": "Of Monsters and Men",
+  "rating": {
+    "rating": "5",
+    "votes-count": "1"
+  },
+  "sort-name": "Of Monsters and Men",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "folk"
+    },
+    {
+      "count": "1",
+      "name": "indie"
+    }
+  ],
+  "type": "Group"
+}

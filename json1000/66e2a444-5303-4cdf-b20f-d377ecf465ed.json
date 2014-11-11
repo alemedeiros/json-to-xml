@@ -1,0 +1,31 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Carla Thomes",
+      "sort-name": "Carla Thomes"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a",
+    "name": "Memphis",
+    "sort-name": "Memphis"
+  },
+  "country": "US",
+  "gender": "Female",
+  "id": "66e2a444-5303-4cdf-b20f-d377ecf465ed",
+  "life-span": {
+    "begin": "1942-12-21"
+  },
+  "name": "Carla Thomas",
+  "sort-name": "Thomas, Carla",
+  "type": "Person"
+}

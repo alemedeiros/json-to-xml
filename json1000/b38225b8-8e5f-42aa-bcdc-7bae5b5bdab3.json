@@ -1,0 +1,95 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "King Crimson, with Jon Anderso",
+      "sort-name": "King Crimson, with Jon Anderso"
+    },
+    {
+      "alias": "King Krimson",
+      "sort-name": "King Krimson"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "begin-area": {
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "name": "London",
+    "sort-name": "London"
+  },
+  "country": "GB",
+  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+  "isni-list": [
+    "0000000123245914"
+  ],
+  "life-span": {
+    "begin": "1969-01-13"
+  },
+  "name": "King Crimson",
+  "rating": {
+    "rating": "4.65",
+    "votes-count": "12"
+  },
+  "sort-name": "King Crimson",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "art rock"
+    },
+    {
+      "count": "3",
+      "name": "british"
+    },
+    {
+      "count": "1",
+      "name": "classic pop and rock"
+    },
+    {
+      "count": "2",
+      "name": "english"
+    },
+    {
+      "count": "1",
+      "name": "free improvisation"
+    },
+    {
+      "count": "1",
+      "name": "jazz"
+    },
+    {
+      "count": "1",
+      "name": "jazz fusion"
+    },
+    {
+      "count": "1",
+      "name": "pioneers"
+    },
+    {
+      "count": "6",
+      "name": "progressive rock"
+    },
+    {
+      "count": "1",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "symphonic prog"
+    },
+    {
+      "count": "1",
+      "name": "symphonic rock"
+    },
+    {
+      "count": "1",
+      "name": "uk"
+    }
+  ],
+  "type": "Group"
+}

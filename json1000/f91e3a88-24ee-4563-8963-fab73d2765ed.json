@@ -1,0 +1,206 @@
+{
+  "alias-count": 22,
+  "alias-list": [
+    {
+      "alias": "F. Shubert",
+      "sort-name": "F. Shubert",
+      "type": "Search hint"
+    },
+    {
+      "alias": "F. \u0160\u016bberts",
+      "locale": "lv",
+      "sort-name": "\u0160\u016bberts, F."
+    },
+    {
+      "alias": "Francis \u0160\u016bberts",
+      "locale": "lv",
+      "primary": "primary",
+      "sort-name": "\u0160\u016bberts, Francis",
+      "type": "Artist name"
+    },
+    {
+      "alias": "Franz Peter Schubert",
+      "locale": "en",
+      "sort-name": "Schubert, Franz Peter",
+      "type": "Legal name"
+    },
+    {
+      "alias": "Franz Schubert",
+      "locale": "en",
+      "primary": "primary",
+      "sort-name": "Schubert, Franz",
+      "type": "Artist name"
+    },
+    {
+      "alias": "Franz Schubert (1797-1828)",
+      "sort-name": "Franz Schubert (1797-1828)",
+      "type": "Search hint"
+    },
+    {
+      "alias": "Franz Schubert (Zacharias)",
+      "sort-name": "Franz Schubert (Zacharias)",
+      "type": "Search hint"
+    },
+    {
+      "alias": "Franz Shubert",
+      "sort-name": "Franz Shubert",
+      "type": "Search hint"
+    },
+    {
+      "alias": "Franze Schubert",
+      "sort-name": "Schubert, Franze",
+      "type": "Artist name"
+    },
+    {
+      "alias": "Schubert",
+      "sort-name": "Schubert, Franz"
+    },
+    {
+      "alias": "Schubert, F",
+      "sort-name": "Schubert, F",
+      "type": "Search hint"
+    },
+    {
+      "alias": "Schubert, Franz (1797-1828)",
+      "sort-name": "Schubert, Franz (1797-1828)",
+      "type": "Search hint"
+    },
+    {
+      "alias": "Shubert",
+      "sort-name": "Shubert",
+      "type": "Search hint"
+    },
+    {
+      "alias": "f Schubert",
+      "sort-name": "f Schubert",
+      "type": "Search hint"
+    },
+    {
+      "alias": "f Scubert",
+      "sort-name": "f Scubert",
+      "type": "Search hint"
+    },
+    {
+      "alias": "scubert",
+      "sort-name": "scubert",
+      "type": "Search hint"
+    },
+    {
+      "alias": "\u0424\u0440\u0430\u043d\u0446 \u0428\u0443\u0431\u0435\u0440\u0442",
+      "locale": "ru",
+      "primary": "primary",
+      "sort-name": "\u0428\u0443\u0431\u0435\u0440\u0442, \u0424\u0440\u0430\u043d\u0446",
+      "type": "Artist name"
+    },
+    {
+      "alias": "\u30b7\u30e5\u30fc\u30d9\u30eb\u30c8",
+      "locale": "ja",
+      "sort-name": "\u30b7\u30e5\u30fc\u30d9\u30eb\u30c8",
+      "type": "Artist name"
+    },
+    {
+      "alias": "\u30d5\u30e9\u30f3\u30c4\u30fb\u30b7\u30e5\u30fc\u30d9\u30eb\u30c8",
+      "locale": "ja",
+      "primary": "primary",
+      "sort-name": "\u30d5\u30e9\u30f3\u30c4\u30fb\u30b7\u30e5\u30fc\u30d9\u30eb\u30c8",
+      "type": "Artist name"
+    },
+    {
+      "alias": "\u30d5\u30e9\u30f3\u30c4\u30fb\u30da\u30fc\u30bf\u30fc\u30fb\u30b7\u30e5\u30fc\u30d9\u30eb\u30c8",
+      "locale": "ja",
+      "sort-name": "\u30d5\u30e9\u30f3\u30c4\u30fb\u30da\u30fc\u30bf\u30fc\u30fb\u30b7\u30e5\u30fc\u30d9\u30eb\u30c8",
+      "type": "Artist name"
+    },
+    {
+      "alias": "\uc288\ubca0\ub974\ud2b8",
+      "locale": "ko",
+      "sort-name": "\uc288\ubca0\ub974\ud2b8",
+      "type": "Artist name"
+    },
+    {
+      "alias": "\ud504\ub780\uce20 \uc288\ubca0\ub974\ud2b8",
+      "locale": "ko",
+      "primary": "primary",
+      "sort-name": "\ud504\ub780\uce20 \uc288\ubca0\ub974\ud2b8",
+      "type": "Artist name"
+    }
+  ],
+  "area": {
+    "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+    "iso-3166-1-code-list": [
+      "AT"
+    ],
+    "name": "Austria",
+    "sort-name": "Austria"
+  },
+  "begin-area": {
+    "id": "b49e74af-e7b6-44d2-ae4a-dea6fbb55008",
+    "name": "Alsergrund",
+    "sort-name": "Alsergrund"
+  },
+  "country": "AT",
+  "disambiguation": "Austrian composer Franz Peter Schubert",
+  "end-area": {
+    "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+    "iso-3166-2-code-list": [
+      "AT-9"
+    ],
+    "name": "Wien",
+    "sort-name": "Wien"
+  },
+  "gender": "Male",
+  "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+  "ipi": "00028072890",
+  "ipi-list": [
+    "00028072890"
+  ],
+  "isni-list": [
+    "0000000120958492"
+  ],
+  "life-span": {
+    "begin": "1797-01-31",
+    "end": "1828-11-19",
+    "ended": "true"
+  },
+  "name": "Franz Schubert",
+  "rating": {
+    "rating": "4.7",
+    "votes-count": "7"
+  },
+  "sort-name": "Schubert, Franz",
+  "tag-list": [
+    {
+      "count": "2",
+      "name": "austrian"
+    },
+    {
+      "count": "1",
+      "name": "austrian composer"
+    },
+    {
+      "count": "3",
+      "name": "classical"
+    },
+    {
+      "count": "2",
+      "name": "composer"
+    },
+    {
+      "count": "1",
+      "name": "death"
+    },
+    {
+      "count": "1",
+      "name": "european"
+    },
+    {
+      "count": "1",
+      "name": "german"
+    },
+    {
+      "count": "1",
+      "name": "romantic"
+    }
+  ],
+  "type": "Person"
+}

@@ -1,0 +1,25 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Cavelera Conspiracy",
+      "sort-name": "Cavelera Conspiracy"
+    }
+  ],
+  "area": {
+    "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+    "iso-3166-1-code-list": [
+      "BR"
+    ],
+    "name": "Brazil",
+    "sort-name": "Brazil"
+  },
+  "country": "BR",
+  "id": "5bd1060b-8608-4817-93ca-207f7c828e2f",
+  "life-span": {
+    "begin": "2007"
+  },
+  "name": "Cavalera Conspiracy",
+  "sort-name": "Cavalera Conspiracy",
+  "type": "Group"
+}

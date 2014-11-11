@@ -1,0 +1,41 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "7ca27b3e-897e-4d01-8c73-36135bc96656",
+    "name": "Red Bank",
+    "sort-name": "Red Bank"
+  },
+  "country": "US",
+  "id": "a0955511-1324-4e9b-834f-e1e140502850",
+  "life-span": {
+    "begin": "1989"
+  },
+  "name": "Monster Magnet",
+  "rating": {
+    "rating": "4.65",
+    "votes-count": "3"
+  },
+  "sort-name": "Monster Magnet",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "heavy metal"
+    },
+    {
+      "count": "1",
+      "name": "stoner metal"
+    },
+    {
+      "count": "1",
+      "name": "stoner rock"
+    }
+  ],
+  "type": "Group"
+}

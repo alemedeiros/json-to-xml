@@ -1,0 +1,23 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "disambiguation": "American heavy metal",
+  "id": "59e9158e-39c0-41aa-9dbf-57a3678a98e6",
+  "life-span": {
+    "begin": "1992"
+  },
+  "name": "CAGE",
+  "rating": {
+    "rating": "5",
+    "votes-count": "1"
+  },
+  "sort-name": "CAGE",
+  "type": "Group"
+}

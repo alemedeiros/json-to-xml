@@ -1,0 +1,26 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Hermanos Dalton, Los",
+      "sort-name": "Hermanos Dalton, Los"
+    },
+    {
+      "alias": "Los heramnos Dalton",
+      "sort-name": "Los heramnos Dalton"
+    }
+  ],
+  "area": {
+    "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+    "iso-3166-1-code-list": [
+      "ES"
+    ],
+    "name": "Spain",
+    "sort-name": "Spain"
+  },
+  "country": "ES",
+  "id": "38ae1a57-de55-4183-adb4-75ff3739bc4d",
+  "name": "Los hermanos Dalton",
+  "sort-name": "Hermanos Dalton, Los",
+  "type": "Group"
+}

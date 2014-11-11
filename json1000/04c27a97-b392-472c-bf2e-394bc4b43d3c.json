@@ -1,0 +1,24 @@
+{
+  "area": {
+    "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+    "iso-3166-1-code-list": [
+      "FI"
+    ],
+    "name": "Finland",
+    "sort-name": "Finland"
+  },
+  "country": "FI",
+  "id": "04c27a97-b392-472c-bf2e-394bc4b43d3c",
+  "life-span": {
+    "begin": "2000"
+  },
+  "name": "Major Label",
+  "sort-name": "Major Label",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "finnish"
+    }
+  ],
+  "type": "Group"
+}

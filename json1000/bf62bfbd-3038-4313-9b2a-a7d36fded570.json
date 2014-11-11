@@ -1,0 +1,26 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "che-fu",
+      "sort-name": "che-fu"
+    }
+  ],
+  "area": {
+    "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+    "iso-3166-1-code-list": [
+      "NZ"
+    ],
+    "name": "New Zealand",
+    "sort-name": "New Zealand"
+  },
+  "country": "NZ",
+  "gender": "Male",
+  "id": "bf62bfbd-3038-4313-9b2a-a7d36fded570",
+  "life-span": {
+    "begin": "1974"
+  },
+  "name": "Che Fu",
+  "sort-name": "Che Fu",
+  "type": "Person"
+}

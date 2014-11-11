@@ -1,0 +1,39 @@
+{
+  "alias-count": 4,
+  "alias-list": [
+    {
+      "alias": "Band of Gypsies",
+      "sort-name": "Band of Gypsies"
+    },
+    {
+      "alias": "Hendrix Band of Gypsys",
+      "sort-name": "Hendrix Band of Gypsys"
+    },
+    {
+      "alias": "Jimi Hendrix with Band of Gypsys",
+      "sort-name": "Jimi Hendrix with Band of Gypsys"
+    },
+    {
+      "alias": "The Band of Gypsys",
+      "sort-name": "The Band of Gypsys"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "ca8c28db-561b-4772-827f-bdb29d106395",
+  "life-span": {
+    "begin": "1969",
+    "end": "1970",
+    "ended": "true"
+  },
+  "name": "Band of Gypsys",
+  "sort-name": "Band of Gypsys",
+  "type": "Group"
+}

@@ -1,0 +1,22 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "eonity",
+      "sort-name": "eonity"
+    }
+  ],
+  "id": "0bb7c20b-7104-4557-9788-9e4b69180097",
+  "life-span": {
+    "begin": "2005-12"
+  },
+  "name": "e:o:nity",
+  "sort-name": "e:o:nity",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "german"
+    }
+  ],
+  "type": "Group"
+}

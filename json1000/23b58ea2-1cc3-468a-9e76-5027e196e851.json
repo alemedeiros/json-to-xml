@@ -1,0 +1,81 @@
+{
+  "alias-count": 6,
+  "alias-list": [
+    {
+      "alias": "Cansei Ser Sexy",
+      "sort-name": "Cansei Ser Sexy",
+      "type": "Search hint"
+    },
+    {
+      "alias": "Cansei de Se rSexy",
+      "sort-name": "Cansei de Se rSexy",
+      "type": "Search hint"
+    },
+    {
+      "alias": "Cansei de Ser Sexy",
+      "sort-name": "Cansei de Ser Sexy",
+      "type": "Artist name"
+    },
+    {
+      "alias": "Cansei de Sex Sexy",
+      "sort-name": "Cansei de Sex Sexy",
+      "type": "Search hint"
+    },
+    {
+      "alias": "Cansei der Ser Sexy",
+      "sort-name": "Cansei der Ser Sexy",
+      "type": "Search hint"
+    },
+    {
+      "alias": "CanseiDeSerSexy",
+      "sort-name": "CanseiDeSerSexy",
+      "type": "Search hint"
+    }
+  ],
+  "area": {
+    "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+    "iso-3166-1-code-list": [
+      "BR"
+    ],
+    "name": "Brazil",
+    "sort-name": "Brazil"
+  },
+  "country": "BR",
+  "id": "23b58ea2-1cc3-468a-9e76-5027e196e851",
+  "life-span": {
+    "begin": "2003-09"
+  },
+  "name": "CSS",
+  "rating": {
+    "rating": "4.25",
+    "votes-count": "4"
+  },
+  "sort-name": "CSS",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "brazil"
+    },
+    {
+      "count": "2",
+      "name": "brazilian"
+    },
+    {
+      "count": "1",
+      "name": "br\u00e9sil"
+    },
+    {
+      "count": "1",
+      "name": "br\u00e9silien"
+    },
+    {
+      "count": "1",
+      "name": "indie rock"
+    },
+    {
+      "count": "1",
+      "name": "south american"
+    }
+  ],
+  "type": "Group"
+}

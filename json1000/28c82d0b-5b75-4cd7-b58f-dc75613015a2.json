@@ -1,0 +1,27 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "6195f381-5711-4655-bf7c-75918c04b201",
+    "name": "Oakland",
+    "sort-name": "Oakland"
+  },
+  "country": "US",
+  "gender": "Male",
+  "id": "28c82d0b-5b75-4cd7-b58f-dc75613015a2",
+  "isni-list": [
+    "0000000034409227"
+  ],
+  "life-span": {
+    "begin": "1969-09-14"
+  },
+  "name": "Dru Down",
+  "sort-name": "Dru Down",
+  "type": "Person"
+}

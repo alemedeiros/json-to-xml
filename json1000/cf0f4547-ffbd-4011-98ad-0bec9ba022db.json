@@ -1,0 +1,71 @@
+{
+  "alias-count": 4,
+  "alias-list": [
+    {
+      "alias": "King of Convenience",
+      "sort-name": "King of Convenience"
+    },
+    {
+      "alias": "King's of Convenience",
+      "sort-name": "King's of Convenience"
+    },
+    {
+      "alias": "Kings Of Convenience",
+      "sort-name": "Kings Of Convenience"
+    },
+    {
+      "alias": "Kings of Convinience",
+      "sort-name": "Kings of Convinience"
+    }
+  ],
+  "area": {
+    "id": "6743d351-6f37-3049-9724-5041161fff4d",
+    "iso-3166-1-code-list": [
+      "NO"
+    ],
+    "name": "Norway",
+    "sort-name": "Norway"
+  },
+  "country": "NO",
+  "id": "cf0f4547-ffbd-4011-98ad-0bec9ba022db",
+  "life-span": {
+    "begin": "1999"
+  },
+  "name": "Kings of Convenience",
+  "rating": {
+    "rating": "4",
+    "votes-count": "1"
+  },
+  "sort-name": "Kings of Convenience",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "classic pop and rock"
+    },
+    {
+      "count": "1",
+      "name": "european"
+    },
+    {
+      "count": "1",
+      "name": "norsk"
+    },
+    {
+      "count": "1",
+      "name": "norv\u00e8ge"
+    },
+    {
+      "count": "1",
+      "name": "norv\u00e9gien"
+    },
+    {
+      "count": "1",
+      "name": "norway"
+    },
+    {
+      "count": "4",
+      "name": "norwegian"
+    }
+  ],
+  "type": "Group"
+}

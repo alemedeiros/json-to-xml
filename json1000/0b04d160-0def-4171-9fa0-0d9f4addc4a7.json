@@ -1,0 +1,30 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Thelonius Monster",
+      "sort-name": "Thelonius Monster"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+    "name": "Los Angeles",
+    "sort-name": "Los Angeles"
+  },
+  "country": "US",
+  "id": "0b04d160-0def-4171-9fa0-0d9f4addc4a7",
+  "life-span": {
+    "begin": "1983"
+  },
+  "name": "Thelonious Monster",
+  "sort-name": "Thelonious Monster",
+  "type": "Group"
+}

@@ -1,0 +1,124 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Megadeath",
+      "sort-name": "Megadeath"
+    },
+    {
+      "alias": "The World Needs a Hero",
+      "sort-name": "The World Needs a Hero"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+    "name": "Los Angeles",
+    "sort-name": "Los Angeles"
+  },
+  "country": "US",
+  "id": "a9044915-8be3-4c7e-b11f-9e2d2ea0a91e",
+  "life-span": {
+    "begin": "1983-06"
+  },
+  "name": "Megadeth",
+  "rating": {
+    "rating": "4.75",
+    "votes-count": "11"
+  },
+  "sort-name": "Megadeth",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "00s"
+    },
+    {
+      "count": "2",
+      "name": "80s"
+    },
+    {
+      "count": "1",
+      "name": "80s thrash metal"
+    },
+    {
+      "count": "1",
+      "name": "90s"
+    },
+    {
+      "count": "1",
+      "name": "90s hard rock"
+    },
+    {
+      "count": "5",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "american thrash metal"
+    },
+    {
+      "count": "1",
+      "name": "bay area thrash metal"
+    },
+    {
+      "count": "1",
+      "name": "california"
+    },
+    {
+      "count": "1",
+      "name": "classic metal"
+    },
+    {
+      "count": "1",
+      "name": "classic thrash metal"
+    },
+    {
+      "count": "1",
+      "name": "dave mustaine"
+    },
+    {
+      "count": "3",
+      "name": "heavy metal"
+    },
+    {
+      "count": "1",
+      "name": "marty friedman"
+    },
+    {
+      "count": "6",
+      "name": "metal"
+    },
+    {
+      "count": "1",
+      "name": "not as good as metallica"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    },
+    {
+      "count": "5",
+      "name": "speed metal"
+    },
+    {
+      "count": "1",
+      "name": "stfu totally better than metallica"
+    },
+    {
+      "count": "1",
+      "name": "thrash"
+    },
+    {
+      "count": "9",
+      "name": "thrash metal"
+    }
+  ],
+  "type": "Group"
+}

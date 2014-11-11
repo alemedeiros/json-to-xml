@@ -1,0 +1,18 @@
+{
+  "area": {
+    "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+    "iso-3166-1-code-list": [
+      "FI"
+    ],
+    "name": "Finland",
+    "sort-name": "Finland"
+  },
+  "country": "FI",
+  "id": "e60b0737-095c-4cff-8e35-f24063d7e212",
+  "life-span": {
+    "begin": "1997"
+  },
+  "name": "Crimson Lotus",
+  "sort-name": "Crimson Lotus",
+  "type": "Group"
+}

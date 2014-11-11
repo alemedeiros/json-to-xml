@@ -1,0 +1,16 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "CAD",
+      "sort-name": "CAD"
+    }
+  ],
+  "id": "d08d3519-75b7-4c80-acbe-a4a2ac195900",
+  "life-span": {
+    "begin": "2002"
+  },
+  "name": "ctrl-alt-del",
+  "sort-name": "ctrl-alt-del",
+  "type": "Group"
+}

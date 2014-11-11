@@ -1,0 +1,75 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "QOTSA",
+      "sort-name": "QOTSA"
+    },
+    {
+      "alias": "Queen Of Stoneage",
+      "sort-name": "Queen Of Stoneage"
+    },
+    {
+      "alias": "Queens Of The Stoneage",
+      "sort-name": "Queens Of The Stoneage"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "c5293e2f-3756-4e4d-aa61-a67879d70c61",
+    "name": "Palm Desert",
+    "sort-name": "Palm Desert"
+  },
+  "country": "US",
+  "id": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+  "isni-list": [
+    "0000000086738559"
+  ],
+  "life-span": {
+    "begin": "1996"
+  },
+  "name": "Queens of the Stone Age",
+  "rating": {
+    "rating": "4.2",
+    "votes-count": "9"
+  },
+  "sort-name": "Queens of the Stone Age",
+  "tag-list": [
+    {
+      "count": "2",
+      "name": "alternative rock"
+    },
+    {
+      "count": "2",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "desert rock"
+    },
+    {
+      "count": "3",
+      "name": "hard rock"
+    },
+    {
+      "count": "3",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    },
+    {
+      "count": "5",
+      "name": "stoner rock"
+    }
+  ],
+  "type": "Group"
+}

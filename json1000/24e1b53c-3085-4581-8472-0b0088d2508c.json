@@ -1,0 +1,47 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "A7X",
+      "sort-name": "A7X"
+    },
+    {
+      "alias": "Avenge Sevenfold",
+      "sort-name": "Avenge Sevenfold"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "24e1b53c-3085-4581-8472-0b0088d2508c",
+  "life-span": {
+    "begin": "1999"
+  },
+  "name": "Avenged Sevenfold",
+  "rating": {
+    "rating": "4.85",
+    "votes-count": "6"
+  },
+  "sort-name": "Avenged Sevenfold",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "hard rock"
+    },
+    {
+      "count": "1",
+      "name": "metal"
+    }
+  ],
+  "type": "Group"
+}

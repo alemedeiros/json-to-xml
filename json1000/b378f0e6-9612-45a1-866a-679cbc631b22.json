@@ -1,0 +1,16 @@
+{
+  "gender": "Male",
+  "id": "b378f0e6-9612-45a1-866a-679cbc631b22",
+  "life-span": {
+    "begin": "1974-10-28"
+  },
+  "name": "Joaquin Phoenix",
+  "sort-name": "Phoenix, Joaquin",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "actor"
+    }
+  ],
+  "type": "Person"
+}

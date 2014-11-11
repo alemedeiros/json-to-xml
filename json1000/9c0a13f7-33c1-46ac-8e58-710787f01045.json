@@ -1,0 +1,33 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "Choir of Men and Boys of St. Thomas Episcopal Church",
+      "sort-name": "Choir of Men and Boys of St. Thomas Episcopal Church"
+    },
+    {
+      "alias": "St. Thomas Choir Of Men And Boys",
+      "sort-name": "St. Thomas Choir Of Men And Boys"
+    },
+    {
+      "alias": "The St.Thomas Choir of Men and Boys",
+      "sort-name": "The St.Thomas Choir of Men and Boys"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "9c0a13f7-33c1-46ac-8e58-710787f01045",
+  "life-span": {
+    "begin": "1919"
+  },
+  "name": "The Saint Thomas Choir of Men and Boys",
+  "sort-name": "Saint Thomas Choir of Men and Boys, The",
+  "type": "Group"
+}

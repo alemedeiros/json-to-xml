@@ -1,0 +1,17 @@
+{
+  "area": {
+    "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+    "iso-3166-1-code-list": [
+      "ES"
+    ],
+    "name": "Spain",
+    "sort-name": "Spain"
+  },
+  "country": "ES",
+  "disambiguation": "Spanish MC",
+  "gender": "Female",
+  "id": "2841cb74-4ad3-4577-828c-8348b4c814f9",
+  "name": "Asia",
+  "sort-name": "Asia",
+  "type": "Person"
+}

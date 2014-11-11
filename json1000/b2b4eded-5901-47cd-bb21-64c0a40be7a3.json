@@ -1,0 +1,17 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "disambiguation": "US rapper",
+  "gender": "Male",
+  "id": "b2b4eded-5901-47cd-bb21-64c0a40be7a3",
+  "name": "Floyd",
+  "sort-name": "Floyd",
+  "type": "Person"
+}

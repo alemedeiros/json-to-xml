@@ -1,0 +1,66 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Lucious Jackson",
+      "sort-name": "Lucious Jackson"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0",
+    "name": "Manhattan",
+    "sort-name": "Manhattan"
+  },
+  "country": "US",
+  "id": "8be5d1de-e925-4e9f-b410-6d702cd8dcaa",
+  "life-span": {
+    "begin": "1991",
+    "end": "2000",
+    "ended": "true"
+  },
+  "name": "Luscious Jackson",
+  "rating": {
+    "rating": "4",
+    "votes-count": "1"
+  },
+  "sort-name": "Luscious Jackson",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "alternative"
+    },
+    {
+      "count": "1",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "classic pop and rock"
+    },
+    {
+      "count": "1",
+      "name": "dance"
+    },
+    {
+      "count": "1",
+      "name": "hip-hop"
+    },
+    {
+      "count": "1",
+      "name": "pop"
+    },
+    {
+      "count": "1",
+      "name": "rock"
+    }
+  ],
+  "type": "Group"
+}

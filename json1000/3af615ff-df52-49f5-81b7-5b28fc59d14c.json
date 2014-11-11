@@ -1,0 +1,21 @@
+{
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "iso-3166-1-code-list": [
+      "IT"
+    ],
+    "name": "Italy",
+    "sort-name": "Italy"
+  },
+  "country": "IT",
+  "gender": "Male",
+  "id": "3af615ff-df52-49f5-81b7-5b28fc59d14c",
+  "life-span": {
+    "begin": "1757-01-28",
+    "end": "1821-08-06",
+    "ended": "true"
+  },
+  "name": "Antonio Bartolomeo Bruni",
+  "sort-name": "Bruni, Antonio Bartolomeo",
+  "type": "Person"
+}

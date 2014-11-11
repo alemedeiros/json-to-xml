@@ -1,0 +1,26 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Trick Turner",
+      "sort-name": "Trick Turner",
+      "type": "Search hint"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "83138ecb-686f-4ec7-b261-c2e29cc3629d",
+  "life-span": {
+    "begin": "1999"
+  },
+  "name": "Trik Turner",
+  "sort-name": "Trik Turner",
+  "type": "Group"
+}

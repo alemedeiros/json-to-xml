@@ -1,0 +1,18 @@
+{
+  "area": {
+    "id": "4757b525-2a60-324a-b060-578765d2c993",
+    "iso-3166-1-code-list": [
+      "DK"
+    ],
+    "name": "Denmark",
+    "sort-name": "Denmark"
+  },
+  "country": "DK",
+  "id": "b863ffd8-f063-4f3c-bb92-ad0e6b6e410e",
+  "life-span": {
+    "begin": "1983"
+  },
+  "name": "De Nattergale",
+  "sort-name": "De Nattergale",
+  "type": "Group"
+}

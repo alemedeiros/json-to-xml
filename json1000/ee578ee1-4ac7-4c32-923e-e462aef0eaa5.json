@@ -1,0 +1,43 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Pink's One - Pink Floyd tribute band feat. Machan Taylor",
+      "sort-name": "Pink's One - Pink Floyd tribute band feat. Machan Taylor"
+    }
+  ],
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "iso-3166-1-code-list": [
+      "IT"
+    ],
+    "name": "Italy",
+    "sort-name": "Italy"
+  },
+  "begin-area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "iso-3166-1-code-list": [
+      "IT"
+    ],
+    "name": "Italy",
+    "sort-name": "Italy"
+  },
+  "country": "IT",
+  "id": "ee578ee1-4ac7-4c32-923e-e462aef0eaa5",
+  "life-span": {
+    "begin": "2010"
+  },
+  "name": "Pink's One - feat. Machan Taylor",
+  "sort-name": "Pink's One",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "machan taylor"
+    },
+    {
+      "count": "1",
+      "name": "pink's one"
+    }
+  ],
+  "type": "Group"
+}

@@ -1,0 +1,16 @@
+{
+  "area": {
+    "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+    "iso-3166-1-code-list": [
+      "NL"
+    ],
+    "name": "Netherlands",
+    "sort-name": "Netherlands"
+  },
+  "country": "NL",
+  "disambiguation": "Dutch Pink Floyd Coverband",
+  "id": "54271f51-902b-48f7-8df2-a9506f05f624",
+  "name": "The Pink Floyd Sound",
+  "sort-name": "Pink Floyd Sound, The",
+  "type": "Group"
+}

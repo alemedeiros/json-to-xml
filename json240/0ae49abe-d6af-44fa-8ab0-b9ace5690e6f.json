@@ -1,0 +1,29 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "The Canals",
+      "begin-date": "2005",
+      "end-date": "2006",
+      "locale": "en",
+      "sort-name": "Canals, The",
+      "type": "Artist name"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "0ae49abe-d6af-44fa-8ab0-b9ace5690e6f",
+  "life-span": {
+    "begin": "2005"
+  },
+  "name": "Bombay Bicycle Club",
+  "sort-name": "Bombay Bicycle Club",
+  "type": "Group"
+}

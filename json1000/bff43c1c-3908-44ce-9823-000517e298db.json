@@ -1,0 +1,29 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Band of Holy Joy",
+      "sort-name": "Band of Holy Joy"
+    },
+    {
+      "alias": "Holy Joy",
+      "sort-name": "Holy Joy"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "bff43c1c-3908-44ce-9823-000517e298db",
+  "life-span": {
+    "begin": "1984"
+  },
+  "name": "The Band of Holy Joy",
+  "sort-name": "Band of Holy Joy, The",
+  "type": "Group"
+}

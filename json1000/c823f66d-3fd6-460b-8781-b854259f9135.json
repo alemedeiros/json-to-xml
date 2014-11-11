@@ -1,0 +1,22 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "\u7b26\u81f4\u9038",
+      "locale": "zh",
+      "primary": "primary",
+      "sort-name": "\u7b26\u81f4\u9038",
+      "type": "Artist name"
+    }
+  ],
+  "id": "c823f66d-3fd6-460b-8781-b854259f9135",
+  "name": "Adrian Fu",
+  "sort-name": "Fu, Adrian",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "composer"
+    }
+  ],
+  "type": "Person"
+}

@@ -1,0 +1,20 @@
+{
+  "area": {
+    "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+    "iso-3166-1-code-list": [
+      "PL"
+    ],
+    "name": "Poland",
+    "sort-name": "Poland"
+  },
+  "country": "PL",
+  "disambiguation": "Polish rapper",
+  "gender": "Male",
+  "id": "e733c7a4-c190-427b-8069-d7bd64ea9fad",
+  "life-span": {
+    "begin": "1980-01-31"
+  },
+  "name": "Fu",
+  "sort-name": "Fu",
+  "type": "Person"
+}

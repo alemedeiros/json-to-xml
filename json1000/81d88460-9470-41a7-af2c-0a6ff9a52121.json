@@ -1,0 +1,22 @@
+{
+  "area": {
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+    "iso-3166-1-code-list": [
+      "DE"
+    ],
+    "name": "Germany",
+    "sort-name": "Germany"
+  },
+  "country": "DE",
+  "disambiguation": "German violinist and composer",
+  "gender": "Male",
+  "id": "81d88460-9470-41a7-af2c-0a6ff9a52121",
+  "life-span": {
+    "begin": "1810-06-19",
+    "end": "1873-07-18",
+    "ended": "true"
+  },
+  "name": "Ferdinand David",
+  "sort-name": "David, Ferdinand",
+  "type": "Person"
+}

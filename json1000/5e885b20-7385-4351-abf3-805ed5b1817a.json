@@ -1,0 +1,36 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "V.H. De Straks",
+      "sort-name": "V.H. De Straks"
+    }
+  ],
+  "area": {
+    "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+    "iso-3166-1-code-list": [
+      "NL"
+    ],
+    "name": "Netherlands",
+    "sort-name": "Netherlands"
+  },
+  "country": "NL",
+  "id": "5e885b20-7385-4351-abf3-805ed5b1817a",
+  "name": "De Straks",
+  "sort-name": "Straks, De",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "delft"
+    },
+    {
+      "count": "1",
+      "name": "netherlands"
+    },
+    {
+      "count": "1",
+      "name": "punk"
+    }
+  ],
+  "type": "Group"
+}

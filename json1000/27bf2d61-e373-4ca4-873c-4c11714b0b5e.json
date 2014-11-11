@@ -1,0 +1,26 @@
+{
+  "area": {
+    "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+    "iso-3166-1-code-list": [
+      "CN"
+    ],
+    "name": "China",
+    "sort-name": "China"
+  },
+  "country": "CN",
+  "disambiguation": "punk band from China",
+  "id": "27bf2d61-e373-4ca4-873c-4c11714b0b5e",
+  "name": "The Dragons",
+  "sort-name": "Dragons, The",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "china"
+    },
+    {
+      "count": "1",
+      "name": "punk"
+    }
+  ],
+  "type": "Group"
+}

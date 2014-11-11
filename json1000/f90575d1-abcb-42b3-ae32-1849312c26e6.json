@@ -1,0 +1,31 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Carla Bruni-Sarkozy",
+      "sort-name": "Bruni-Sarkozy, Carla"
+    }
+  ],
+  "gender": "Female",
+  "id": "f90575d1-abcb-42b3-ae32-1849312c26e6",
+  "life-span": {
+    "begin": "1968-12-23"
+  },
+  "name": "Carla Bruni",
+  "sort-name": "Bruni, Carla",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "carla bruni"
+    },
+    {
+      "count": "1",
+      "name": "folk"
+    },
+    {
+      "count": "1",
+      "name": "french"
+    }
+  ],
+  "type": "Person"
+}

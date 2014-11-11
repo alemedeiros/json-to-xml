@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+    "iso-3166-1-code-list": [
+      "IE"
+    ],
+    "name": "Ireland",
+    "sort-name": "Ireland"
+  },
+  "country": "IE",
+  "disambiguation": "Thrash/Death Irish Metal Band",
+  "id": "1a89a7c1-3a71-47d3-bdb1-fc63d7a7d508",
+  "life-span": {
+    "begin": "2008"
+  },
+  "name": "Dead Label",
+  "sort-name": "Dead Label",
+  "type": "Group"
+}

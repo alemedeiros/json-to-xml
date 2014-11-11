@@ -1,0 +1,28 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Hnos. Martinez Gil",
+      "sort-name": "Hnos. Martinez Gil"
+    }
+  ],
+  "area": {
+    "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+    "iso-3166-1-code-list": [
+      "MX"
+    ],
+    "name": "Mexico",
+    "sort-name": "Mexico"
+  },
+  "country": "MX",
+  "disambiguation": "Mexican trio",
+  "id": "e3cb4a67-3103-4876-82e8-780c5c19bb4d",
+  "life-span": {
+    "begin": "1930",
+    "end": "1972",
+    "ended": "true"
+  },
+  "name": "Los Hermanos Mart\u00ednez Gil",
+  "sort-name": "Mart\u00ednez Gil, Los Hermanos",
+  "type": "Group"
+}

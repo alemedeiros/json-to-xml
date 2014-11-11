@@ -1,0 +1,23 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Chew-Fu Phat",
+      "sort-name": "Chew-Fu Phat"
+    }
+  ],
+  "area": {
+    "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+    "iso-3166-1-code-list": [
+      "NL"
+    ],
+    "name": "Netherlands",
+    "sort-name": "Netherlands"
+  },
+  "country": "NL",
+  "gender": "Male",
+  "id": "e3a763fb-105b-41cf-9f3c-07d0776ba3ca",
+  "name": "Chew Fu",
+  "sort-name": "Chew Fu",
+  "type": "Person"
+}

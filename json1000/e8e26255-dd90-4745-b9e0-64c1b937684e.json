@@ -1,0 +1,24 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "DE DE MOUSE",
+      "locale": "ja",
+      "primary": "primary",
+      "sort-name": "\u30c7\u30c7\u30de\u30a6\u30b9",
+      "type": "Artist name"
+    }
+  ],
+  "area": {
+    "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+    "iso-3166-1-code-list": [
+      "JP"
+    ],
+    "name": "Japan",
+    "sort-name": "Japan"
+  },
+  "country": "JP",
+  "id": "e8e26255-dd90-4745-b9e0-64c1b937684e",
+  "name": "DE DE MOUSE",
+  "sort-name": "DE DE MOUSE"
+}

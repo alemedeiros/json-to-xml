@@ -1,0 +1,26 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Josh Joplin Band",
+      "sort-name": "Josh Joplin Band"
+    },
+    {
+      "alias": "The Josh Joplin Band",
+      "sort-name": "The Josh Joplin Band"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "cf4cdd81-89f1-4960-ab3d-b2952b18566c",
+  "name": "Josh Joplin Group",
+  "sort-name": "Josh Joplin Group",
+  "type": "Group"
+}

@@ -1,0 +1,28 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Gen Morphine",
+      "sort-name": "Morphine, Gen",
+      "type": "Artist name"
+    }
+  ],
+  "area": {
+    "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+    "iso-3166-1-code-list": [
+      "NL"
+    ],
+    "name": "Netherlands",
+    "sort-name": "Netherlands"
+  },
+  "country": "NL",
+  "gender": "Male",
+  "id": "b632d924-298f-4298-b508-3a833b766655",
+  "ipi": "00625686324",
+  "ipi-list": [
+    "00625686324"
+  ],
+  "name": "Paul Verbeek",
+  "sort-name": "Verbeek, Paul",
+  "type": "Person"
+}

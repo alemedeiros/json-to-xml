@@ -1,0 +1,21 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "disambiguation": "United States punk rock",
+  "id": "50240c58-d37d-4fb5-be7b-e4c0c0edc4bf",
+  "life-span": {
+    "begin": "2000",
+    "end": "2002",
+    "ended": "true"
+  },
+  "name": "Zero Down",
+  "sort-name": "Zero Down",
+  "type": "Group"
+}

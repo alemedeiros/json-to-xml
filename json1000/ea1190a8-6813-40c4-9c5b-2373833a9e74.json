@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "name": "London",
+    "sort-name": "London"
+  },
+  "begin-area": {
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "name": "London",
+    "sort-name": "London"
+  },
+  "id": "ea1190a8-6813-40c4-9c5b-2373833a9e74",
+  "life-span": {
+    "begin": "2013"
+  },
+  "name": "The Sighs of Monsters",
+  "sort-name": "Sighs of Monsters, The",
+  "type": "Group"
+}

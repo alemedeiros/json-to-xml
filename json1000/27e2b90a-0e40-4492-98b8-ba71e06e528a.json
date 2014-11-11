@@ -1,0 +1,18 @@
+{
+  "area": {
+    "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+    "iso-3166-1-code-list": [
+      "ES"
+    ],
+    "name": "Spain",
+    "sort-name": "Spain"
+  },
+  "country": "ES",
+  "id": "27e2b90a-0e40-4492-98b8-ba71e06e528a",
+  "life-span": {
+    "begin": "2007-02"
+  },
+  "name": "Pantera Negra",
+  "sort-name": "Pantera Negra",
+  "type": "Group"
+}

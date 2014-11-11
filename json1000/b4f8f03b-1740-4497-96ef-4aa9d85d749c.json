@@ -1,0 +1,21 @@
+{
+  "area": {
+    "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+    "iso-3166-1-code-list": [
+      "ES"
+    ],
+    "name": "Spain",
+    "sort-name": "Spain"
+  },
+  "country": "ES",
+  "gender": "Male",
+  "id": "b4f8f03b-1740-4497-96ef-4aa9d85d749c",
+  "life-span": {
+    "begin": "1832",
+    "end": "1882-02-16",
+    "ended": "true"
+  },
+  "name": "Juli\u00e1n Arcas",
+  "sort-name": "Arcas, Juli\u00e1n",
+  "type": "Person"
+}

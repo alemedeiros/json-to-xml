@@ -1,0 +1,97 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Antrax",
+      "sort-name": "Antrax"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+    "name": "New York",
+    "sort-name": "New York"
+  },
+  "country": "US",
+  "disambiguation": "American heavy metal band",
+  "id": "b616d6f0-ec1f-4c69-8a79-12a97ece7372",
+  "life-span": {
+    "begin": "1981"
+  },
+  "name": "Anthrax",
+  "rating": {
+    "rating": "3.4",
+    "votes-count": "5"
+  },
+  "sort-name": "Anthrax",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "00s"
+    },
+    {
+      "count": "1",
+      "name": "10s"
+    },
+    {
+      "count": "1",
+      "name": "80s"
+    },
+    {
+      "count": "1",
+      "name": "80s thrash metal"
+    },
+    {
+      "count": "1",
+      "name": "90s"
+    },
+    {
+      "count": "1",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "american heavy metal"
+    },
+    {
+      "count": "1",
+      "name": "classic metal"
+    },
+    {
+      "count": "1",
+      "name": "classic thrash metal"
+    },
+    {
+      "count": "1",
+      "name": "groove metal"
+    },
+    {
+      "count": "3",
+      "name": "heavy metal"
+    },
+    {
+      "count": "1",
+      "name": "metal"
+    },
+    {
+      "count": "1",
+      "name": "persistence of time"
+    },
+    {
+      "count": "2",
+      "name": "speed metal"
+    },
+    {
+      "count": "3",
+      "name": "thrash metal"
+    }
+  ],
+  "type": "Group"
+}

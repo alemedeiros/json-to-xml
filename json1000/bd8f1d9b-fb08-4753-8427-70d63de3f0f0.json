@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "iso-3166-1-code-list": [
+      "IT"
+    ],
+    "name": "Italy",
+    "sort-name": "Italy"
+  },
+  "country": "IT",
+  "disambiguation": "Italian prog.",
+  "id": "bd8f1d9b-fb08-4753-8427-70d63de3f0f0",
+  "life-span": {
+    "begin": "1987"
+  },
+  "name": "Cage",
+  "sort-name": "Cage",
+  "type": "Group"
+}

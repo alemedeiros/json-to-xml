@@ -1,0 +1,73 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "Florence & The Machine",
+      "sort-name": "Florence & The Machine"
+    },
+    {
+      "alias": "Florence and the Machine",
+      "sort-name": "Florence and the Machine"
+    },
+    {
+      "alias": "\u30d5\u30ed\u30fc\u30ec\u30f3\u30b9\u30fb\u30a2\u30f3\u30c9\u30fb\u30b6\u30fb\u30de\u30b7\u30fc\u30f3",
+      "sort-name": "\u30d5\u30ed\u30fc\u30ec\u30f3\u30b9\u30fb\u30a2\u30f3\u30c9\u30fb\u30b6\u30fb\u30de\u30b7\u30fc\u30f3"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "begin-area": {
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "name": "London",
+    "sort-name": "London"
+  },
+  "country": "GB",
+  "disambiguation": "recording name of English musician Florence Welch",
+  "id": "5fee3020-513b-48c2-b1f7-4681b01db0c6",
+  "life-span": {
+    "begin": "2007"
+  },
+  "name": "Florence + the Machine",
+  "rating": {
+    "rating": "3.85",
+    "votes-count": "7"
+  },
+  "sort-name": "Florence + the Machine",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "art pop"
+    },
+    {
+      "count": "1",
+      "name": "enfp"
+    },
+    {
+      "count": "1",
+      "name": "indie pop"
+    },
+    {
+      "count": "2",
+      "name": "indie rock"
+    },
+    {
+      "count": "1",
+      "name": "pop soul"
+    },
+    {
+      "count": "1",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    }
+  ],
+  "type": "Group"
+}

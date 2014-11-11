@@ -1,0 +1,36 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "E O Tchan",
+      "sort-name": "E O Tchan",
+      "type": "Search hint"
+    },
+    {
+      "alias": "Tchan",
+      "sort-name": "Tchan",
+      "type": "Search hint"
+    },
+    {
+      "alias": "\u00e9 o Tchan",
+      "sort-name": "\u00e9 o Tchan",
+      "type": "Search hint"
+    }
+  ],
+  "area": {
+    "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+    "iso-3166-1-code-list": [
+      "BR"
+    ],
+    "name": "Brazil",
+    "sort-name": "Brazil"
+  },
+  "country": "BR",
+  "id": "04611209-2171-4652-98cd-e2c5e536ac04",
+  "life-span": {
+    "begin": "1992"
+  },
+  "name": "\u00c9 o Tchan",
+  "sort-name": "\u00c9 o Tchan",
+  "type": "Group"
+}

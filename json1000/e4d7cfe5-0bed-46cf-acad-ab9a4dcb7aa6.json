@@ -1,0 +1,33 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+    "name": "New York",
+    "sort-name": "New York"
+  },
+  "country": "US",
+  "id": "e4d7cfe5-0bed-46cf-acad-ab9a4dcb7aa6",
+  "life-span": {
+    "begin": "2004"
+  },
+  "name": "Anamanaguchi",
+  "rating": {
+    "rating": "4.65",
+    "votes-count": "6"
+  },
+  "sort-name": "Anamanaguchi",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "chiptune"
+    }
+  ],
+  "type": "Group"
+}

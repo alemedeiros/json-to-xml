@@ -1,0 +1,21 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "MSM",
+      "sort-name": "MSM"
+    },
+    {
+      "alias": "Miame Sound Machine (MSM)",
+      "sort-name": "Miame Sound Machine (MSM)"
+    }
+  ],
+  "id": "72b3b981-92b7-4b5c-8a83-35717358b76e",
+  "name": "Miami Sound Machine",
+  "rating": {
+    "rating": "2.5",
+    "votes-count": "2"
+  },
+  "sort-name": "Miami Sound Machine",
+  "type": "Group"
+}

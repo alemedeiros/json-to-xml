@@ -1,0 +1,49 @@
+{
+  "area": {
+    "id": "b4e9352c-8edf-4911-8fa3-e852afa30501",
+    "name": "Melbourne",
+    "sort-name": "Melbourne"
+  },
+  "begin-area": {
+    "id": "69b9ee64-44ca-4fc1-9f53-d52b9cf55dd8",
+    "iso-3166-2-code-list": [
+      "BE-VWV"
+    ],
+    "name": "West-Vlaanderen",
+    "sort-name": "West-Vlaanderen"
+  },
+  "gender": "Male",
+  "id": "6f6fd596-76e0-4b82-aa37-f558ac2d337b",
+  "isni-list": [
+    "0000000367103584",
+    "0000000371197915"
+  ],
+  "life-span": {
+    "begin": "1980-05-21"
+  },
+  "name": "Gotye",
+  "rating": {
+    "rating": "4",
+    "votes-count": "3"
+  },
+  "sort-name": "Gotye",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "alternative"
+    },
+    {
+      "count": "1",
+      "name": "art pop"
+    },
+    {
+      "count": "1",
+      "name": "indie pop"
+    },
+    {
+      "count": "1",
+      "name": "pop"
+    }
+  ],
+  "type": "Person"
+}

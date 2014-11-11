@@ -1,0 +1,20 @@
+{
+  "area": {
+    "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+    "iso-3166-1-code-list": [
+      "ES"
+    ],
+    "name": "Spain",
+    "sort-name": "Spain"
+  },
+  "country": "ES",
+  "id": "922fd93d-cc7e-4550-9435-ec33c1375c2f",
+  "life-span": {
+    "begin": "2001",
+    "end": "2002",
+    "ended": "true"
+  },
+  "name": "Blue Bombay",
+  "sort-name": "Blue Bombay",
+  "type": "Group"
+}

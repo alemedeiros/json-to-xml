@@ -1,0 +1,62 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Louis Joseph Ferdinand Herold",
+      "sort-name": "Louis Joseph Ferdinand Herold"
+    },
+    {
+      "alias": "Louis Joseph Ferdinand H\u00e9rold",
+      "sort-name": "Louis Joseph Ferdinand H\u00e9rold"
+    }
+  ],
+  "area": {
+    "id": "08310658-51eb-3801-80de-5a0739207115",
+    "iso-3166-1-code-list": [
+      "FR"
+    ],
+    "name": "France",
+    "sort-name": "France"
+  },
+  "begin-area": {
+    "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+    "iso-3166-2-code-list": [
+      "FR-75"
+    ],
+    "name": "Paris",
+    "sort-name": "Paris"
+  },
+  "country": "FR",
+  "disambiguation": "French opera and ballet composer",
+  "end-area": {
+    "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+    "iso-3166-2-code-list": [
+      "FR-75"
+    ],
+    "name": "Paris",
+    "sort-name": "Paris"
+  },
+  "gender": "Male",
+  "id": "253dc0c7-4cf1-47e8-ba63-763be2dde1d6",
+  "isni-list": [
+    "0000000121441698"
+  ],
+  "life-span": {
+    "begin": "1791-01-28",
+    "end": "1833-01-19",
+    "ended": "true"
+  },
+  "name": "Ferdinand H\u00e9rold",
+  "sort-name": "H\u00e9rold, Ferdinand",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "composer"
+    },
+    {
+      "count": "1",
+      "name": "french composer"
+    }
+  ],
+  "type": "Person"
+}

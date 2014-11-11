@@ -1,5 +1,10 @@
 -- Datatypes.hs
---  by alemedeiros <alexandre.n.medeiros _at_ gmail.com>
+--  by Alexandre Medeiros <alexandre.n.medeiros _at_ gmail.com>
+--     Tom Hedges <t.w.hedges _at_ qmul.ac.uk>
+--
+-- JSON to XML translation using Aeson
+--
+-- Datatypes definition and classtype implementations
 
 {-# LANGUAGE OverloadedStrings #-}
 
@@ -16,6 +21,8 @@ import Text.Read (readMaybe)
 
 --import Debug.Trace
 
+{- Datatypes definition; matching json fields -}
+
 data Artist = NullArtist | Artist
         { artistAliases :: [Alias]
         , artistArea :: Area
@@ -31,7 +38,7 @@ data Artist = NullArtist | Artist
         , artistSortName :: String
         , artistTags :: [Tag]
         , artistType :: String
-        } deriving (Show)
+        } deriving (Show, Eq)
 
 data Alias = NullAlias | Alias
         { aliasLocale :: String
@@ -39,7 +46,7 @@ data Alias = NullAlias | Alias
         , aliasPrimary :: Bool
         , aliasSortName :: String
         , aliasType :: String
-        } deriving (Show)
+        } deriving (Show, Eq)
 
 data Area = NullArea | Area
         { areaDisambig :: String
@@ -49,24 +56,41 @@ data Area = NullArea | Area
         , areaISO3 :: [String]
         , areaName :: String
         , areaSortName :: String
-        } deriving (Show)
+        } deriving (Show, Eq)
 
 data LifeSpan = NullLifeSpan | LifeSpan
-        { begin :: String -- Change to a date type or something like YYYY-MM-DD
-        , end :: String
-        , ended :: Bool
-        } deriving (Show)
+        { lifeSpanBegin :: String -- Change to a date type or something like YYYY-MM-DD ?
+        , lifeSpanEnd :: String
+        , lifeSpanEnded :: Bool
+        } deriving (Show, Eq)
 
 data Rating = EmptyRating | Rating
         { ratingValue :: Double
         , ratingCount :: Int
-        } deriving (Show)
+        } deriving (Show, Eq)
 
 data Tag = NullTag | Tag
         { tagCount :: Int
         , tagName :: String
-        } deriving (Show)
+        } deriving (Show, Eq, Ord)
 
+{- Implementation of Ord typeclass for Rating and Artist Datatypes -}
+instance Ord Rating where
+        compare (Rating vA cA) (Rating vB cB) = compare vA vB
+        compare   (Rating _ _)              _ = GT
+        compare              _   (Rating _ _) = LT
+        compare              _              _ = EQ
+
+instance Ord Artist where
+        compare Artist{artistRating=rA} Artist{artistRating=rB} = compare rA rB
+        compare                Artist{}                       _ = GT
+        compare                       _                Artist{} = LT
+        compare                       _                       _ = EQ
+
+{-
+- Implementation of FromJSON typeclass for all the datatypes.
+- Basicaly associates each json field with a field on the datatypes.
+-}
 instance FromJSON Artist where
         --parseJSON (Object v) | trace ("=> Artist: " ++ show v) False = undefined
         parseJSON (Object v) = Artist <$>
@@ -104,9 +128,9 @@ instance FromJSON Area where
         parseJSON (Object v) = Area <$>
                 v .:? "disambiguation"        .!= "" <*>
                 v .:? "id"                    .!= "" <*>
-                v .:? "iso_3166_1_code-list"  .!= [] <*>
-                v .:? "iso_3166_2_code-list"  .!= [] <*>
-                v .:? "iso_3166_3_code-list"  .!= [] <*>
+                v .:? "iso-3166-1-code-list"  .!= [] <*>
+                v .:? "iso-3166-2-code-list"  .!= [] <*>
+                v .:? "iso-3166-3-code-list"  .!= [] <*>
                 v .:? "name"                  .!= "" <*>
                 v .:? "sort-name"             .!= ""
         parseJSON _ = fail "fail at Area"
@@ -136,6 +160,6 @@ instance FromJSON Tag where
                 v .:? "name"  .!= ""
         parseJSON _ = fail "fail at Tag"
 
--- Field parsing functions
+{- Field parsing functions. -}
 readInt    = fromMaybe (-1) . readMaybe
 readDouble = fromMaybe  0.0 . readMaybe

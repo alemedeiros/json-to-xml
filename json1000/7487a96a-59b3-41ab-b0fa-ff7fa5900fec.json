@@ -1,0 +1,20 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "7487a96a-59b3-41ab-b0fa-ff7fa5900fec",
+  "life-span": {
+    "begin": "2004",
+    "end": "2008",
+    "ended": "true"
+  },
+  "name": "Tokyo Dragons",
+  "sort-name": "Tokyo Dragons",
+  "type": "Group"
+}

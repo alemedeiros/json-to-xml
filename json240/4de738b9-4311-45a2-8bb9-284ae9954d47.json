@@ -1,0 +1,40 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "A.L.T. And The Lost Civilization",
+      "sort-name": "A.L.T. And The Lost Civilization"
+    },
+    {
+      "alias": "ALT & The Lost Civilisation",
+      "sort-name": "ALT & The Lost Civilisation"
+    },
+    {
+      "alias": "ALT and the Lost Civilization",
+      "sort-name": "ALT and the Lost Civilization"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "4de738b9-4311-45a2-8bb9-284ae9954d47",
+  "name": "A.L.T. & The Lost Civilization",
+  "rating": {
+    "rating": "2",
+    "votes-count": "1"
+  },
+  "sort-name": "A.L.T. & The Lost Civilization",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "hip hop"
+    }
+  ],
+  "type": "Group"
+}

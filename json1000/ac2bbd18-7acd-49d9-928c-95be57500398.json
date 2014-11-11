@@ -1,0 +1,43 @@
+{
+  "area": {
+    "id": "049474c1-b631-481b-8b59-129214f4ded3",
+    "iso-3166-2-code-list": [
+      "GB-BOL"
+    ],
+    "name": "Bolton",
+    "sort-name": "Bolton"
+  },
+  "id": "ac2bbd18-7acd-49d9-928c-95be57500398",
+  "life-span": {
+    "begin": "2009"
+  },
+  "name": "Ook and the Elephant",
+  "rating": {
+    "rating": "5",
+    "votes-count": "1"
+  },
+  "sort-name": "Ook and Elephant, The",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "alternative"
+    },
+    {
+      "count": "1",
+      "name": "folk"
+    },
+    {
+      "count": "1",
+      "name": "pop"
+    },
+    {
+      "count": "1",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "stomp"
+    }
+  ],
+  "type": "Group"
+}

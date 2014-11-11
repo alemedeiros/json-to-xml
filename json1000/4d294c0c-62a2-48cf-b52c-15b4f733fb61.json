@@ -1,0 +1,29 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "4d294c0c-62a2-48cf-b52c-15b4f733fb61",
+  "name": "No Label",
+  "sort-name": "No Label",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "anarcho"
+    },
+    {
+      "count": "1",
+      "name": "punk"
+    },
+    {
+      "count": "1",
+      "name": "wales"
+    }
+  ],
+  "type": "Group"
+}

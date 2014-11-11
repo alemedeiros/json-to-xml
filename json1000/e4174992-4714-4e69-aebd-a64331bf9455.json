@@ -1,0 +1,26 @@
+{
+  "area": {
+    "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+    "iso-3166-1-code-list": [
+      "NL"
+    ],
+    "name": "Netherlands",
+    "sort-name": "Netherlands"
+  },
+  "country": "NL",
+  "id": "e4174992-4714-4e69-aebd-a64331bf9455",
+  "life-span": {
+    "begin": "1999",
+    "end": "2003",
+    "ended": "true"
+  },
+  "name": "De Poema\u2019s",
+  "sort-name": "Poema\u2019s, De",
+  "tag-list": [
+    {
+      "count": "2",
+      "name": "dutch"
+    }
+  ],
+  "type": "Group"
+}

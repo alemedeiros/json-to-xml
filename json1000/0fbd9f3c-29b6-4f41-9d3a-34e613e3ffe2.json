@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "08310658-51eb-3801-80de-5a0739207115",
+    "iso-3166-1-code-list": [
+      "FR"
+    ],
+    "name": "France",
+    "sort-name": "France"
+  },
+  "country": "FR",
+  "disambiguation": "French celtic group",
+  "id": "0fbd9f3c-29b6-4f41-9d3a-34e613e3ffe2",
+  "life-span": {
+    "begin": "1992"
+  },
+  "name": "Stone Age",
+  "sort-name": "Stone Age",
+  "type": "Group"
+}

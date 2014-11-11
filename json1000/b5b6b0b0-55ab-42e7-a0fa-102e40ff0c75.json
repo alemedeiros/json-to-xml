@@ -1,0 +1,22 @@
+{
+  "area": {
+    "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+    "iso-3166-1-code-list": [
+      "ES"
+    ],
+    "name": "Spain",
+    "sort-name": "Spain"
+  },
+  "country": "ES",
+  "disambiguation": "Pink Floyd Tribute Band",
+  "id": "b5b6b0b0-55ab-42e7-a0fa-102e40ff0c75",
+  "name": "The Other Side (Pink Floyd Live Experience)",
+  "sort-name": "The Other Side (Pink Floyd Live Experience)",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "pink floyd tribute band"
+    }
+  ],
+  "type": "Group"
+}

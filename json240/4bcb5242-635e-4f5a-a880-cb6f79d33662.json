@@ -1,0 +1,27 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "EZO",
+      "sort-name": "EZO"
+    }
+  ],
+  "area": {
+    "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+    "iso-3166-1-code-list": [
+      "JP"
+    ],
+    "name": "Japan",
+    "sort-name": "Japan"
+  },
+  "country": "JP",
+  "id": "4bcb5242-635e-4f5a-a880-cb6f79d33662",
+  "life-span": {
+    "begin": "1984",
+    "end": "1990",
+    "ended": "true"
+  },
+  "name": "E\u30fbZ\u30fbO",
+  "sort-name": "E\u30fbZ\u30fbO",
+  "type": "Group"
+}

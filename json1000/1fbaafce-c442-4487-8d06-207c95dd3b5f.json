@@ -1,0 +1,25 @@
+{
+  "area": {
+    "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+    "iso-3166-1-code-list": [
+      "NL"
+    ],
+    "name": "Netherlands",
+    "sort-name": "Netherlands"
+  },
+  "country": "NL",
+  "disambiguation": "Dutch language artist",
+  "id": "1fbaafce-c442-4487-8d06-207c95dd3b5f",
+  "life-span": {
+    "begin": "1971-12-27"
+  },
+  "name": "Alex",
+  "sort-name": "Alex",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "dutch"
+    }
+  ],
+  "type": "Person"
+}

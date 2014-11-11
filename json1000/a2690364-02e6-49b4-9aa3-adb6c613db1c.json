@@ -1,0 +1,35 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Caiman fu",
+      "sort-name": "Caiman fu"
+    }
+  ],
+  "area": {
+    "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+    "iso-3166-1-code-list": [
+      "CA"
+    ],
+    "name": "Canada",
+    "sort-name": "Canada"
+  },
+  "country": "CA",
+  "id": "a2690364-02e6-49b4-9aa3-adb6c613db1c",
+  "life-span": {
+    "begin": "2000"
+  },
+  "name": "Ca\u00efman Fu",
+  "sort-name": "Ca\u00efman Fu",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "canada"
+    },
+    {
+      "count": "1",
+      "name": "quebec"
+    }
+  ],
+  "type": "Group"
+}

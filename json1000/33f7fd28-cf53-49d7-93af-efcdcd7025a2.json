@@ -1,0 +1,50 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Cheapmachines",
+      "locale": "en_GB",
+      "primary": "primary",
+      "sort-name": "Cheapmachines"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "gender": "Male",
+  "id": "33f7fd28-cf53-49d7-93af-efcdcd7025a2",
+  "life-span": {
+    "begin": "1973"
+  },
+  "name": "Phil Julian",
+  "sort-name": "Julian, Phil",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "drone"
+    },
+    {
+      "count": "1",
+      "name": "electronic"
+    },
+    {
+      "count": "1",
+      "name": "improvised music"
+    },
+    {
+      "count": "1",
+      "name": "noise"
+    },
+    {
+      "count": "1",
+      "name": "uk"
+    }
+  ],
+  "type": "Person"
+}

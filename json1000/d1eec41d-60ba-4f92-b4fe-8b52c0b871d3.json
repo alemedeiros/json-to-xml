@@ -1,0 +1,17 @@
+{
+  "area": {
+    "id": "8297708c-5743-47d6-a5ac-f40a41c49ad9",
+    "iso-3166-2-code-list": [
+      "GB-WLS"
+    ],
+    "name": "Wales",
+    "sort-name": "Wales"
+  },
+  "id": "d1eec41d-60ba-4f92-b4fe-8b52c0b871d3",
+  "life-span": {
+    "begin": "2012-01-27"
+  },
+  "name": "The People The Poet",
+  "sort-name": "People The Poet, The",
+  "type": "Group"
+}

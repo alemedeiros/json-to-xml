@@ -1,0 +1,24 @@
+{
+  "area": {
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+    "iso-3166-1-code-list": [
+      "DE"
+    ],
+    "name": "Germany",
+    "sort-name": "Germany"
+  },
+  "begin-area": {
+    "id": "f0463abf-0d3b-4be7-bb68-145e65311193",
+    "name": "W\u00fcrzburg",
+    "sort-name": "W\u00fcrzburg"
+  },
+  "country": "DE",
+  "gender": "Female",
+  "id": "9534d860-f63f-47a7-abdf-ed9d0551d02d",
+  "life-span": {
+    "begin": "1978-04-15"
+  },
+  "name": "Susanne Alt",
+  "sort-name": "Alt, Susanne",
+  "type": "Person"
+}

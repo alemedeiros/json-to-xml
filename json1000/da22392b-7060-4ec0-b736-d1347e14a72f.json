@@ -1,0 +1,43 @@
+{
+  "alias-count": 5,
+  "alias-list": [
+    {
+      "alias": "Full Tillt Boogie Band",
+      "sort-name": "Full Tillt Boogie Band"
+    },
+    {
+      "alias": "Full Tilt Boogie",
+      "sort-name": "Full Tilt Boogie"
+    },
+    {
+      "alias": "Janis Joplin & The Full Tilt Boogie Band",
+      "sort-name": "Janis Joplin & The Full Tilt Boogie Band"
+    },
+    {
+      "alias": "The Full Tillt Boogie Band",
+      "sort-name": "The Full Tillt Boogie Band"
+    },
+    {
+      "alias": "The Full Tilt Boogie Band",
+      "sort-name": "The Full Tilt Boogie Band"
+    }
+  ],
+  "area": {
+    "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+    "iso-3166-1-code-list": [
+      "CA"
+    ],
+    "name": "Canada",
+    "sort-name": "Canada"
+  },
+  "country": "CA",
+  "id": "da22392b-7060-4ec0-b736-d1347e14a72f",
+  "life-span": {
+    "begin": "1969",
+    "end": "1970",
+    "ended": "true"
+  },
+  "name": "Full Tilt Boogie Band",
+  "sort-name": "Full Tilt Boogie Band",
+  "type": "Group"
+}

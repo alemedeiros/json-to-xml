@@ -1,0 +1,17 @@
+{
+  "area": {
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "iso-3166-2-code-list": [
+      "AR-C"
+    ],
+    "name": "Buenos Aires",
+    "sort-name": "Buenos Aires"
+  },
+  "id": "3fb4062a-436b-492c-be1f-05d5916c62b7",
+  "life-span": {
+    "begin": "2009"
+  },
+  "name": "Los Hermanos McKenzie",
+  "sort-name": "Hermanos McKenzie, Los",
+  "type": "Group"
+}

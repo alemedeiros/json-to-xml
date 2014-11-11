@@ -1,0 +1,27 @@
+{
+  "area": {
+    "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+    "iso-3166-1-code-list": [
+      "BR"
+    ],
+    "name": "Brazil",
+    "sort-name": "Brazil"
+  },
+  "begin-area": {
+    "id": "4ad93f0f-e371-442c-911f-e00a18b32804",
+    "name": "Bras\u00edlia",
+    "sort-name": "Bras\u00edlia"
+  },
+  "country": "BR",
+  "id": "49474115-6ada-42ee-b92f-ce70a40ae9b5",
+  "life-span": {
+    "begin": "1998"
+  },
+  "name": "M\u00f3veis coloniais de acaju",
+  "rating": {
+    "rating": "5",
+    "votes-count": "2"
+  },
+  "sort-name": "M\u00f3veis coloniais de acaju",
+  "type": "Group"
+}

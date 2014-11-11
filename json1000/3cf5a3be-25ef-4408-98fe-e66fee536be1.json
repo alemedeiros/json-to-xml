@@ -1,0 +1,64 @@
+{
+  "alias-count": 7,
+  "alias-list": [
+    {
+      "alias": "Big Brother & The Holding Company feat. Janis Joplin",
+      "sort-name": "Big Brother & The Holding Company feat. Janis Joplin"
+    },
+    {
+      "alias": "Big Brother & the Holding Company",
+      "sort-name": "Big Brother & the Holding Company"
+    },
+    {
+      "alias": "Big Brother And The Holding Company ft. Janis Joplin",
+      "sort-name": "Big Brother And The Holding Company ft. Janis Joplin"
+    },
+    {
+      "alias": "Big Brother and the Holding Co",
+      "sort-name": "Big Brother and the Holding Co"
+    },
+    {
+      "alias": "Big Brother and the Holding Company",
+      "sort-name": "Big Brother and the Holding Company"
+    },
+    {
+      "alias": "Janis Joplin With Big Brother & The Holding Co.",
+      "sort-name": "Janis Joplin With Big Brother & The Holding Co."
+    },
+    {
+      "alias": "Janis Jopplin & Big Brother & Holding Co.",
+      "sort-name": "Janis Jopplin & Big Brother & Holding Co."
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "3cf5a3be-25ef-4408-98fe-e66fee536be1",
+  "name": "Big Brother & The Holding Company",
+  "rating": {
+    "rating": "5",
+    "votes-count": "1"
+  },
+  "sort-name": "Big Brother & Holding Company, The",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "acid rock"
+    },
+    {
+      "count": "1",
+      "name": "blues rock"
+    },
+    {
+      "count": "1",
+      "name": "psychedelic rock"
+    }
+  ],
+  "type": "Group"
+}

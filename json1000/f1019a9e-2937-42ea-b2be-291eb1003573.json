@@ -1,0 +1,43 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Faith & The Muse",
+      "sort-name": "Faith & The Muse"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "f1019a9e-2937-42ea-b2be-291eb1003573",
+  "life-span": {
+    "begin": "1993-03"
+  },
+  "name": "Faith and the Muse",
+  "sort-name": "Faith and the Muse",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "dark wave"
+    },
+    {
+      "count": "1",
+      "name": "gothic rock"
+    },
+    {
+      "count": "1",
+      "name": "rock"
+    }
+  ],
+  "type": "Group"
+}

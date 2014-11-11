@@ -1,0 +1,60 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc",
+    "name": "Seattle",
+    "sort-name": "Seattle"
+  },
+  "country": "US",
+  "id": "07b6020a-c539-4d68-aeef-f159f3befc76",
+  "isni-list": [
+    "0000000121509998"
+  ],
+  "life-span": {
+    "begin": "2004"
+  },
+  "name": "Band of Horses",
+  "rating": {
+    "rating": "4.35",
+    "votes-count": "3"
+  },
+  "sort-name": "Band of Horses",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "am\u00e9ricain"
+    },
+    {
+      "count": "1",
+      "name": "indie rock"
+    },
+    {
+      "count": "1",
+      "name": "my morning jacket"
+    },
+    {
+      "count": "1",
+      "name": "reverb"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    },
+    {
+      "count": "1",
+      "name": "usa"
+    }
+  ],
+  "type": "Group"
+}

@@ -1,0 +1,91 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Ferdinand, Franz",
+      "sort-name": "Ferdinand, Franz"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "begin-area": {
+    "id": "c279f805-01f8-46f5-99cf-51f165a1adad",
+    "iso-3166-2-code-list": [
+      "GB-GLG"
+    ],
+    "name": "Glasgow",
+    "sort-name": "Glasgow"
+  },
+  "country": "GB",
+  "id": "aa7a2827-f74b-473c-bd79-03d065835cf7",
+  "life-span": {
+    "begin": "2001"
+  },
+  "name": "Franz Ferdinand",
+  "rating": {
+    "rating": "4.35",
+    "votes-count": "11"
+  },
+  "sort-name": "Franz Ferdinand",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "alternative dance"
+    },
+    {
+      "count": "3",
+      "name": "art rock"
+    },
+    {
+      "count": "1",
+      "name": "britannique"
+    },
+    {
+      "count": "2",
+      "name": "british"
+    },
+    {
+      "count": "4",
+      "name": "indie rock"
+    },
+    {
+      "count": "1",
+      "name": "pop"
+    },
+    {
+      "count": "2",
+      "name": "post-punk"
+    },
+    {
+      "count": "1",
+      "name": "post-punk revival"
+    },
+    {
+      "count": "1",
+      "name": "rhapsody online"
+    },
+    {
+      "count": "1",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    },
+    {
+      "count": "2",
+      "name": "scottish"
+    },
+    {
+      "count": "2",
+      "name": "uk"
+    }
+  ],
+  "type": "Group"
+}

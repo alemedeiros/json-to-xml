@@ -1,0 +1,19 @@
+{
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "iso-3166-1-code-list": [
+      "IT"
+    ],
+    "name": "Italy",
+    "sort-name": "Italy"
+  },
+  "country": "IT",
+  "gender": "Female",
+  "id": "70557fe1-5e95-462c-9570-aa1182c18641",
+  "life-span": {
+    "begin": "1975-09-20"
+  },
+  "name": "Asia Argento",
+  "sort-name": "Argento, Asia",
+  "type": "Person"
+}

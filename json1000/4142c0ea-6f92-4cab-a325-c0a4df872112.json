@@ -1,0 +1,16 @@
+{
+  "area": {
+    "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+    "iso-3166-1-code-list": [
+      "ES"
+    ],
+    "name": "Spain",
+    "sort-name": "Spain"
+  },
+  "country": "ES",
+  "gender": "Male",
+  "id": "4142c0ea-6f92-4cab-a325-c0a4df872112",
+  "name": "Julian the Angel",
+  "sort-name": "Angel, Julian the",
+  "type": "Person"
+}

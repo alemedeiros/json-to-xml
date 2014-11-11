@@ -1,0 +1,21 @@
+{
+  "area": {
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+    "iso-3166-1-code-list": [
+      "DE"
+    ],
+    "name": "Germany",
+    "sort-name": "Germany"
+  },
+  "country": "DE",
+  "gender": "Male",
+  "id": "f666a5e4-89ca-46af-ae17-66d2cb5568c1",
+  "life-span": {
+    "begin": "1811-10-24",
+    "end": "1885-05-12",
+    "ended": "true"
+  },
+  "name": "Ferdinand Hiller",
+  "sort-name": "Hiller, Ferdinand",
+  "type": "Person"
+}

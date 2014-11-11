@@ -1,0 +1,60 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Dionysis",
+      "sort-name": "Dionysis"
+    },
+    {
+      "alias": "Dyonisos",
+      "sort-name": "Dyonisos"
+    }
+  ],
+  "area": {
+    "id": "9828e130-c29c-4bb3-a248-0b3a5970d76e",
+    "name": "Valence",
+    "sort-name": "Valence"
+  },
+  "disambiguation": "French band",
+  "id": "7d248ccb-588a-414e-ab3e-be6dd8b71f81",
+  "life-span": {
+    "begin": "1993"
+  },
+  "name": "Dionysos",
+  "rating": {
+    "rating": "3",
+    "votes-count": "2"
+  },
+  "sort-name": "Dionysos",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "folk rock"
+    },
+    {
+      "count": "1",
+      "name": "france"
+    },
+    {
+      "count": "1",
+      "name": "francophone"
+    },
+    {
+      "count": "1",
+      "name": "fran\u00e7ais"
+    },
+    {
+      "count": "2",
+      "name": "french"
+    },
+    {
+      "count": "1",
+      "name": "indie rock"
+    },
+    {
+      "count": "1",
+      "name": "rock"
+    }
+  ],
+  "type": "Group"
+}

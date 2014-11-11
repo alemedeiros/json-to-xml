@@ -1,0 +1,16 @@
+{
+  "area": {
+    "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+    "iso-3166-1-code-list": [
+      "EE"
+    ],
+    "name": "Estonia",
+    "sort-name": "Estonia"
+  },
+  "country": "EE",
+  "gender": "Male",
+  "id": "395ad74c-978c-4a6c-b7b5-581abb399bf4",
+  "name": "Claude Alt",
+  "sort-name": "Alt, Claude",
+  "type": "Person"
+}

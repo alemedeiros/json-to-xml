@@ -1,0 +1,22 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Elephant 6 Holiday Surprise",
+      "sort-name": "Elephant 6 Holiday Surprise"
+    },
+    {
+      "alias": "Elephant 6 Orchestra",
+      "sort-name": "Elephant 6 Orchestra"
+    }
+  ],
+  "area": {
+    "id": "29d7853f-28be-4114-8a5b-5dd95d162d69",
+    "name": "Athens",
+    "sort-name": "Athens"
+  },
+  "id": "9ba50d77-f5b9-47e7-af27-4c30771549c1",
+  "name": "The Elephant 6 Orchestra",
+  "sort-name": "Elephant 6 Orchestra, The",
+  "type": "Group"
+}

@@ -1,0 +1,33 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Black Label Society & Zakk Wylde",
+      "sort-name": "Black Label Society & Zakk Wylde"
+    },
+    {
+      "alias": "Zakk Wylde's Black Label Society",
+      "sort-name": "Zakk Wylde's Black Label Society"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "a8e935c6-3fcc-414c-900c-77e8170e7e7c",
+  "life-span": {
+    "begin": "1998"
+  },
+  "name": "Black Label Society",
+  "rating": {
+    "rating": "5",
+    "votes-count": "1"
+  },
+  "sort-name": "Black Label Society",
+  "type": "Group"
+}

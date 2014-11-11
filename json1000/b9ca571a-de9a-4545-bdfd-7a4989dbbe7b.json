@@ -1,0 +1,25 @@
+{
+  "area": {
+    "id": "d10ba752-c9ce-4804-afc0-7ff94aa5d8d6",
+    "iso-3166-2-code-list": [
+      "US-GA"
+    ],
+    "name": "Georgia",
+    "sort-name": "Georgia"
+  },
+  "begin-area": {
+    "id": "d10ba752-c9ce-4804-afc0-7ff94aa5d8d6",
+    "iso-3166-2-code-list": [
+      "US-GA"
+    ],
+    "name": "Georgia",
+    "sort-name": "Georgia"
+  },
+  "id": "b9ca571a-de9a-4545-bdfd-7a4989dbbe7b",
+  "life-span": {
+    "begin": "2008"
+  },
+  "name": "Survive the Flames",
+  "sort-name": "Survive the Flames",
+  "type": "Group"
+}

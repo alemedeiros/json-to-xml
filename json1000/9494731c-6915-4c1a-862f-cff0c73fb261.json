@@ -1,0 +1,47 @@
+{
+  "area": {
+    "id": "4757b525-2a60-324a-b060-578765d2c993",
+    "iso-3166-1-code-list": [
+      "DK"
+    ],
+    "name": "Denmark",
+    "sort-name": "Denmark"
+  },
+  "begin-area": {
+    "id": "b657d7e4-94e6-48a4-8998-4d7a036db78a",
+    "name": "Br\u00f8ndby Municipality",
+    "sort-name": "Br\u00f8ndby Municipality"
+  },
+  "country": "DK",
+  "disambiguation": "Alex Ambrose, finalist of Danish TV program Popstars",
+  "gender": "Male",
+  "id": "9494731c-6915-4c1a-862f-cff0c73fb261",
+  "life-span": {
+    "begin": "1978-05-31"
+  },
+  "name": "Alex",
+  "rating": {
+    "rating": "4",
+    "votes-count": "1"
+  },
+  "sort-name": "Alex",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "contemporary r&b"
+    },
+    {
+      "count": "1",
+      "name": "danish"
+    },
+    {
+      "count": "1",
+      "name": "r&b"
+    },
+    {
+      "count": "1",
+      "name": "rhythm'n'blues"
+    }
+  ],
+  "type": "Person"
+}

@@ -1,0 +1,25 @@
+{
+  "area": {
+    "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+    "iso-3166-1-code-list": [
+      "LV"
+    ],
+    "name": "Latvia",
+    "sort-name": "Latvia"
+  },
+  "country": "LV",
+  "gender": "Male",
+  "id": "2efc8264-bb75-4191-bccb-2376f7956f19",
+  "life-span": {
+    "begin": "1936-09-26"
+  },
+  "name": "J\u0101nis Strei\u010ds",
+  "sort-name": "Strei\u010ds, J\u0101nis",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "latvian"
+    }
+  ],
+  "type": "Person"
+}

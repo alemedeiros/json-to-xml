@@ -1,0 +1,34 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "disambiguation": "hip hop artist",
+  "gender": "Male",
+  "id": "8e0c435a-d7e0-43c4-a99d-808c6a47e1b4",
+  "life-span": {
+    "begin": "1973"
+  },
+  "name": "Cage",
+  "rating": {
+    "rating": "4.5",
+    "votes-count": "2"
+  },
+  "sort-name": "Cage",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "hip-hop"
+    },
+    {
+      "count": "1",
+      "name": "rapper"
+    }
+  ],
+  "type": "Person"
+}

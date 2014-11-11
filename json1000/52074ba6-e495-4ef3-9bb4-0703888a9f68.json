@@ -1,0 +1,92 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "The Arcade Fire",
+      "sort-name": "The Arcade Fire"
+    }
+  ],
+  "area": {
+    "id": "c3cc624e-b963-49cf-ad0b-e318cb341963",
+    "name": "Montreal",
+    "sort-name": "Montreal"
+  },
+  "begin-area": {
+    "id": "e331bfdf-b908-429c-a79b-710cf9c06abb",
+    "name": "Boston",
+    "sort-name": "Boston"
+  },
+  "id": "52074ba6-e495-4ef3-9bb4-0703888a9f68",
+  "life-span": {
+    "begin": "2001"
+  },
+  "name": "Arcade Fire",
+  "rating": {
+    "rating": "4.7",
+    "votes-count": "14"
+  },
+  "sort-name": "Arcade Fire",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "00s"
+    },
+    {
+      "count": "1",
+      "name": "art rock"
+    },
+    {
+      "count": "2",
+      "name": "baroque pop"
+    },
+    {
+      "count": "1",
+      "name": "canada"
+    },
+    {
+      "count": "5",
+      "name": "canadian"
+    },
+    {
+      "count": "1",
+      "name": "canadien"
+    },
+    {
+      "count": "1",
+      "name": "early demos"
+    },
+    {
+      "count": "1",
+      "name": "francophone"
+    },
+    {
+      "count": "2",
+      "name": "indie"
+    },
+    {
+      "count": "3",
+      "name": "indie rock"
+    },
+    {
+      "count": "1",
+      "name": "pop montr\u00e9al"
+    },
+    {
+      "count": "1",
+      "name": "quebec"
+    },
+    {
+      "count": "1",
+      "name": "qu\u00e9bec"
+    },
+    {
+      "count": "1",
+      "name": "qu\u00e9b\u00e9cois"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    }
+  ],
+  "type": "Group"
+}

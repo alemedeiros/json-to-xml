@@ -1,0 +1,33 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "Gary Lucas & Gods and Monsters",
+      "sort-name": "Gary Lucas & Gods and Monsters"
+    },
+    {
+      "alias": "Gary Lucas' Gods And Monsters",
+      "sort-name": "Gary Lucas' Gods And Monsters"
+    },
+    {
+      "alias": "Gods & Monsters",
+      "sort-name": "Gods & Monsters"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "051c27f7-7c95-49f6-a042-91a490f2bce9",
+  "life-span": {
+    "begin": "1989"
+  },
+  "name": "Gods and Monsters",
+  "sort-name": "Gods and Monsters",
+  "type": "Group"
+}

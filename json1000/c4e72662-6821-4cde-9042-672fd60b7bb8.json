@@ -1,0 +1,18 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "c4e72662-6821-4cde-9042-672fd60b7bb8",
+  "life-span": {
+    "begin": "1997"
+  },
+  "name": "Major Organ and the Adding Machine",
+  "sort-name": "Major Organ and the Adding Machine",
+  "type": "Group"
+}

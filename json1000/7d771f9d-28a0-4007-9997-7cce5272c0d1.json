@@ -1,0 +1,46 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "De Nachraove",
+      "sort-name": "De Nachraove"
+    },
+    {
+      "alias": "De Nachtraove",
+      "sort-name": "De Nachtraove"
+    },
+    {
+      "alias": "De Nachtroave",
+      "sort-name": "De Nachtroave"
+    }
+  ],
+  "area": {
+    "id": "0b565bc6-05e7-4c3a-bc28-075fabd9a8d0",
+    "name": "Maastricht",
+    "sort-name": "Maastricht"
+  },
+  "begin-area": {
+    "id": "0b565bc6-05e7-4c3a-bc28-075fabd9a8d0",
+    "name": "Maastricht",
+    "sort-name": "Maastricht"
+  },
+  "end-area": {
+    "id": "0b565bc6-05e7-4c3a-bc28-075fabd9a8d0",
+    "name": "Maastricht",
+    "sort-name": "Maastricht"
+  },
+  "id": "7d771f9d-28a0-4007-9997-7cce5272c0d1",
+  "life-span": {
+    "begin": "1980",
+    "ended": "true"
+  },
+  "name": "De Nachraove",
+  "sort-name": "Nachraove, De",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "dutch"
+    }
+  ],
+  "type": "Group"
+}

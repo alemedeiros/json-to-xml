@@ -1,0 +1,15 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "5a68b548-b47a-4685-84d5-7e41cc86ea09",
+  "name": "Choir of the King's Consort",
+  "sort-name": "Choir of the King's Consort",
+  "type": "Group"
+}

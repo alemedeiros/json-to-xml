@@ -1,0 +1,26 @@
+{
+  "area": {
+    "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+    "iso-3166-1-code-list": [
+      "CA"
+    ],
+    "name": "Canada",
+    "sort-name": "Canada"
+  },
+  "begin-area": {
+    "id": "595619e1-3cd4-467c-b79e-75ff9ed72d9b",
+    "name": "Ajax",
+    "sort-name": "Ajax"
+  },
+  "country": "CA",
+  "disambiguation": "Canadian punk rock band",
+  "id": "40632110-39ac-4328-b95c-fda09fadab54",
+  "life-span": {
+    "begin": "1997",
+    "end": "2005",
+    "ended": "true"
+  },
+  "name": "Closet Monster",
+  "sort-name": "Closet Monster",
+  "type": "Group"
+}

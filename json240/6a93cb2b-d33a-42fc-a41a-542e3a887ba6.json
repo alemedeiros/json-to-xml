@@ -1,0 +1,25 @@
+{
+  "area": {
+    "id": "75e398a3-5f3f-4224-9cd8-0fe44715bc95",
+    "iso-3166-2-code-list": [
+      "US-NY"
+    ],
+    "name": "New York",
+    "sort-name": "New York"
+  },
+  "begin-area": {
+    "id": "75e398a3-5f3f-4224-9cd8-0fe44715bc95",
+    "iso-3166-2-code-list": [
+      "US-NY"
+    ],
+    "name": "New York",
+    "sort-name": "New York"
+  },
+  "id": "6a93cb2b-d33a-42fc-a41a-542e3a887ba6",
+  "life-span": {
+    "begin": "2013"
+  },
+  "name": "Julian Casablancas + The Voidz",
+  "sort-name": "The Voidz",
+  "type": "Group"
+}

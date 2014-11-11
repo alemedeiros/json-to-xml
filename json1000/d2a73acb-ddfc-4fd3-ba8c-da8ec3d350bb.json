@@ -1,0 +1,20 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Los Hermanos Rosarlo",
+      "sort-name": "Los Hermanos Rosarlo"
+    }
+  ],
+  "id": "d2a73acb-ddfc-4fd3-ba8c-da8ec3d350bb",
+  "life-span": {
+    "begin": "1978"
+  },
+  "name": "Los Hermanos Rosario",
+  "rating": {
+    "rating": "5",
+    "votes-count": "1"
+  },
+  "sort-name": "Hermanos Rosario, Los",
+  "type": "Group"
+}

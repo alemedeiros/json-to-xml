@@ -1,0 +1,172 @@
+{
+  "alias-count": 12,
+  "alias-list": [
+    {
+      "alias": "Bootleg Zeppelin",
+      "sort-name": "Bootleg Zeppelin",
+      "type": "Search hint"
+    },
+    {
+      "alias": "LZ",
+      "sort-name": "LZ",
+      "type": "Search hint"
+    },
+    {
+      "alias": "Led Zep",
+      "sort-name": "Led Zep",
+      "type": "Search hint"
+    },
+    {
+      "alias": "Led Zepellin",
+      "sort-name": "Led Zepellin",
+      "type": "Search hint"
+    },
+    {
+      "alias": "Led Zepplelin",
+      "sort-name": "Led Zepplelin",
+      "type": "Search hint"
+    },
+    {
+      "alias": "Led Zepplin",
+      "sort-name": "Led Zepplin",
+      "type": "Search hint"
+    },
+    {
+      "alias": "ledzep",
+      "sort-name": "ledzep",
+      "type": "Search hint"
+    },
+    {
+      "alias": "\u30bc\u30c3\u30d7",
+      "sort-name": "\u30bc\u30c3\u30d7",
+      "type": "Search hint"
+    },
+    {
+      "alias": "\u30ec\u30c3\u30c9\u30bc\u30c3\u30d7",
+      "sort-name": "\u30ec\u30c3\u30c9\u30bc\u30c3\u30d7",
+      "type": "Search hint"
+    },
+    {
+      "alias": "\u30ec\u30c3\u30c9\u30c4\u30a7\u30c3\u30da\u30ea\u30f3",
+      "sort-name": "\u30ec\u30c3\u30c9\u30c4\u30a7\u30c3\u30da\u30ea\u30f3"
+    },
+    {
+      "alias": "\u30ec\u30c3\u30c9\u30fb\u30bc\u30c3\u30d7",
+      "sort-name": "\u30ec\u30c3\u30c9\u30fb\u30bc\u30c3\u30d7",
+      "type": "Search hint"
+    },
+    {
+      "alias": "\u30ec\u30c3\u30c9\u30fb\u30c4\u30a7\u30c3\u30da\u30ea\u30f3",
+      "sort-name": "\u30ec\u30c3\u30c9\u30fb\u30c4\u30a7\u30c3\u30da\u30ea\u30f3"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "begin-area": {
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "name": "London",
+    "sort-name": "London"
+  },
+  "country": "GB",
+  "end-area": {
+    "id": "32fd275d-7731-4d78-bcde-d9a14d148c78",
+    "name": "Clewer",
+    "sort-name": "Clewer"
+  },
+  "id": "678d88b2-87b0-403b-b63d-5da7465aecc3",
+  "isni-list": [
+    "0000000123483226"
+  ],
+  "life-span": {
+    "begin": "1968",
+    "end": "1980-09-25",
+    "ended": "true"
+  },
+  "name": "Led Zeppelin",
+  "rating": {
+    "rating": "4.65",
+    "votes-count": "33"
+  },
+  "sort-name": "Led Zeppelin",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "am\u00e9ricain"
+    },
+    {
+      "count": "1",
+      "name": "band"
+    },
+    {
+      "count": "5",
+      "name": "blues rock"
+    },
+    {
+      "count": "3",
+      "name": "british"
+    },
+    {
+      "count": "1",
+      "name": "classic pop and rock"
+    },
+    {
+      "count": "1",
+      "name": "classic rock"
+    },
+    {
+      "count": "1",
+      "name": "english"
+    },
+    {
+      "count": "1",
+      "name": "folk"
+    },
+    {
+      "count": "2",
+      "name": "folk rock"
+    },
+    {
+      "count": "8",
+      "name": "hard rock"
+    },
+    {
+      "count": "3",
+      "name": "heavy metal"
+    },
+    {
+      "count": "1",
+      "name": "metal"
+    },
+    {
+      "count": "1",
+      "name": "persistence"
+    },
+    {
+      "count": "6",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "uk"
+    },
+    {
+      "count": "1",
+      "name": "usa"
+    },
+    {
+      "count": "1",
+      "name": "want to listen"
+    }
+  ],
+  "type": "Group"
+}

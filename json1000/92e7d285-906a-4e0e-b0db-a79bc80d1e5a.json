@@ -1,0 +1,33 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "Big Head Todd & The Monster",
+      "sort-name": "Big Head Todd & The Monster"
+    },
+    {
+      "alias": "Big Head Todd & The Monsters",
+      "sort-name": "Big Head Todd & The Monsters"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "92e7d285-906a-4e0e-b0db-a79bc80d1e5a",
+  "life-span": {
+    "begin": "1986"
+  },
+  "name": "Big Head Todd and The Monsters",
+  "rating": {
+    "rating": "4",
+    "votes-count": "1"
+  },
+  "sort-name": "Big Head Todd and The Monsters",
+  "type": "Group"
+}

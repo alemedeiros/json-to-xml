@@ -1,0 +1,43 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "People Under the Stairs:",
+      "sort-name": "People Under the Stairs:"
+    },
+    {
+      "alias": "Puts",
+      "sort-name": "Puts"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "country": "US",
+  "id": "3dc00dcb-6106-43d1-b48d-21d236f53983",
+  "life-span": {
+    "begin": "1997"
+  },
+  "name": "People Under the Stairs",
+  "sort-name": "People Under the Stairs",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "alternative hip-hop"
+    },
+    {
+      "count": "1",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "hip-hop"
+    }
+  ],
+  "type": "Group"
+}

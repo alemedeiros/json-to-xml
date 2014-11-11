@@ -1,0 +1,38 @@
+{
+  "alias-count": 2,
+  "alias-list": [
+    {
+      "alias": "J. Volkin\u0161teins",
+      "locale": "lv",
+      "sort-name": "Volkin\u0161teins, J."
+    },
+    {
+      "alias": "J\u0101nis Volkin\u0161teins (Wolky)",
+      "locale": "lv",
+      "sort-name": "Volkin\u0161teins (Wolky), J\u0101nis"
+    }
+  ],
+  "area": {
+    "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+    "iso-3166-1-code-list": [
+      "LV"
+    ],
+    "name": "Latvia",
+    "sort-name": "Latvia"
+  },
+  "country": "LV",
+  "gender": "Male",
+  "id": "4d2df7be-3eb1-4a96-abd7-5db8918d4494",
+  "life-span": {
+    "begin": "1984-09-03"
+  },
+  "name": "J\u0101nis Volkin\u0161teins",
+  "sort-name": "Volkin\u0161teins, J\u0101nis",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "latvian"
+    }
+  ],
+  "type": "Person"
+}

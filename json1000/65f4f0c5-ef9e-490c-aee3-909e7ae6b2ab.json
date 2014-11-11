@@ -1,0 +1,153 @@
+{
+  "alias-count": 3,
+  "alias-list": [
+    {
+      "alias": "Metalica",
+      "sort-name": "Metalica"
+    },
+    {
+      "alias": "\u30e1\u30bf\u30ea\u30ab",
+      "sort-name": "\u30e1\u30bf\u30ea\u30ab"
+    },
+    {
+      "alias": "\uba54\ud0c8\ub9ac\uce74",
+      "locale": "ko_KR",
+      "primary": "primary",
+      "sort-name": "\uba54\ud0c8\ub9ac\uce74"
+    }
+  ],
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-code-list": [
+      "US"
+    ],
+    "name": "United States",
+    "sort-name": "United States"
+  },
+  "begin-area": {
+    "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+    "name": "Los Angeles",
+    "sort-name": "Los Angeles"
+  },
+  "country": "US",
+  "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+  "isni-list": [
+    "0000000122939631"
+  ],
+  "life-span": {
+    "begin": "1981-10"
+  },
+  "name": "Metallica",
+  "rating": {
+    "rating": "4.05",
+    "votes-count": "53"
+  },
+  "sort-name": "Metallica",
+  "tag-list": [
+    {
+      "count": "1",
+      "name": "80s"
+    },
+    {
+      "count": "1",
+      "name": "80s metal"
+    },
+    {
+      "count": "1",
+      "name": "80s thrash metal"
+    },
+    {
+      "count": "1",
+      "name": "90s"
+    },
+    {
+      "count": "1",
+      "name": "90s metal"
+    },
+    {
+      "count": "6",
+      "name": "american"
+    },
+    {
+      "count": "1",
+      "name": "american thrash metal"
+    },
+    {
+      "count": "1",
+      "name": "am\u00e9ricain"
+    },
+    {
+      "count": "1",
+      "name": "band"
+    },
+    {
+      "count": "1",
+      "name": "bay area"
+    },
+    {
+      "count": "1",
+      "name": "california"
+    },
+    {
+      "count": "1",
+      "name": "classic metal"
+    },
+    {
+      "count": "1",
+      "name": "classic thrash metal"
+    },
+    {
+      "count": "1",
+      "name": "douchebag metal"
+    },
+    {
+      "count": "5",
+      "name": "hard rock"
+    },
+    {
+      "count": "7",
+      "name": "heavy metal"
+    },
+    {
+      "count": "1",
+      "name": "los angeles"
+    },
+    {
+      "count": "10",
+      "name": "metal"
+    },
+    {
+      "count": "1",
+      "name": "metallica"
+    },
+    {
+      "count": "3",
+      "name": "rock"
+    },
+    {
+      "count": "1",
+      "name": "rock and indie"
+    },
+    {
+      "count": "1",
+      "name": "seen live"
+    },
+    {
+      "count": "2",
+      "name": "speed metal"
+    },
+    {
+      "count": "1",
+      "name": "thrash"
+    },
+    {
+      "count": "10",
+      "name": "thrash metal"
+    },
+    {
+      "count": "1",
+      "name": "usa"
+    }
+  ],
+  "type": "Group"
+}

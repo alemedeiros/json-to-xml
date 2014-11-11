@@ -1,0 +1,26 @@
+{
+  "alias-count": 1,
+  "alias-list": [
+    {
+      "alias": "Ruby Turne",
+      "sort-name": "Ruby Turne"
+    }
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "gender": "Female",
+  "id": "feb799ee-51fc-4ef9-a66d-59407461bf84",
+  "life-span": {
+    "begin": "1958-06-22"
+  },
+  "name": "Ruby Turner",
+  "sort-name": "Turner, Ruby",
+  "type": "Person"
+}

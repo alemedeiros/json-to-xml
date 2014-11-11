@@ -1,0 +1,15 @@
+{
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-code-list": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom"
+  },
+  "country": "GB",
+  "id": "d6d718da-f5c1-46ef-b0b9-159f11b9a7e7",
+  "name": "Maximum Joy",
+  "sort-name": "Maximum Joy",
+  "type": "Group"
+}
